@@ -1,0 +1,602 @@
+[
+  {
+    "image_id": "ISIC_0033420",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030066",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033726",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030512",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031795",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031953",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033232",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033704",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026753",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033269",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033708",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032830",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034263",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029756",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027444",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024497",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027087",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030771",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032810",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027262",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030115",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027130",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029926",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032633",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024652",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033502",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028285",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033975",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028746",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029614",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029904",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027942",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030898",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024668",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031541",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024459",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024355",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027197",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029845",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034205",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029095",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032874",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025782",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028829",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026552",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033428",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032334",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033708",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027235",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028686",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033966",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029516",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033843",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028075",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026491",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030125",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026043",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034145",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031005",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033032",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033795",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027757",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029839",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029547",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032310",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032779",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034245",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025381",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031784",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028429",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028831",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031543",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030575",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028599",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031092",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024481",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028548",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028923",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029075",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032823",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033343",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034071",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028718",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034034",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027043",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028306",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025891",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032690",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027197",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033469",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026497",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025759",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029370",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033673",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025409",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033081",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034180",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033317",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033425",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032922",
+    "concepts": [
+      "Error processing image: ImageTextToTextPipeline.__call__() got multiple values for argument 'images'"
+    ]
+  }
+]

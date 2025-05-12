@@ -1,0 +1,3554 @@
+[
+    {
+        "isic_id": "ISIC_0024319",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0024319.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0024319.json",
+            "Datasets/ground_truth_annotations/annotator7/ISIC_0024319.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant12/ISIC_0024319.json",
+            "Datasets/study_annotations/participant46/ISIC_0024319.json",
+            "Datasets/study_annotations/participant62/ISIC_0024319.json",
+            "Datasets/study_annotations/participant65/ISIC_0024319.json",
+            "Datasets/study_annotations/participant7/ISIC_0024319.json",
+            "Datasets/study_annotations/participant74/ISIC_0024319.json",
+            "Datasets/study_annotations/participant86/ISIC_0024319.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0024428",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0024428.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0024428.json",
+            "Datasets/ground_truth_annotations/annotator10/ISIC_0024428.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant12/ISIC_0024428.json",
+            "Datasets/study_annotations/participant46/ISIC_0024428.json",
+            "Datasets/study_annotations/participant62/ISIC_0024428.json",
+            "Datasets/study_annotations/participant65/ISIC_0024428.json",
+            "Datasets/study_annotations/participant7/ISIC_0024428.json",
+            "Datasets/study_annotations/participant74/ISIC_0024428.json",
+            "Datasets/study_annotations/participant86/ISIC_0024428.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0024458",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0024458.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0024458.json",
+            "Datasets/ground_truth_annotations/annotator3/ISIC_0024458.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant100/ISIC_0024458.json",
+            "Datasets/study_annotations/participant108/ISIC_0024458.json",
+            "Datasets/study_annotations/participant20/ISIC_0024458.json",
+            "Datasets/study_annotations/participant29/ISIC_0024458.json",
+            "Datasets/study_annotations/participant34/ISIC_0024458.json",
+            "Datasets/study_annotations/participant55/ISIC_0024458.json",
+            "Datasets/study_annotations/participant57/ISIC_0024458.json",
+            "Datasets/study_annotations/participant61/ISIC_0024458.json",
+            "Datasets/study_annotations/participant68/ISIC_0024458.json",
+            "Datasets/study_annotations/participant75/ISIC_0024458.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0024518",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0024518.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0024518.json",
+            "Datasets/ground_truth_annotations/annotator9/ISIC_0024518.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant102/ISIC_0024518.json",
+            "Datasets/study_annotations/participant107/ISIC_0024518.json",
+            "Datasets/study_annotations/participant23/ISIC_0024518.json",
+            "Datasets/study_annotations/participant39/ISIC_0024518.json",
+            "Datasets/study_annotations/participant49/ISIC_0024518.json",
+            "Datasets/study_annotations/participant8/ISIC_0024518.json",
+            "Datasets/study_annotations/participant82/ISIC_0024518.json",
+            "Datasets/study_annotations/participant94/ISIC_0024518.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0024714",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0024714.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0024714.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0024714.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant30/ISIC_0024714.json",
+            "Datasets/study_annotations/participant4/ISIC_0024714.json",
+            "Datasets/study_annotations/participant53/ISIC_0024714.json",
+            "Datasets/study_annotations/participant58/ISIC_0024714.json",
+            "Datasets/study_annotations/participant6/ISIC_0024714.json",
+            "Datasets/study_annotations/participant64/ISIC_0024714.json",
+            "Datasets/study_annotations/participant71/ISIC_0024714.json",
+            "Datasets/study_annotations/participant77/ISIC_0024714.json",
+            "Datasets/study_annotations/participant97/ISIC_0024714.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0024732",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0024732.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0024732.json",
+            "Datasets/ground_truth_annotations/annotator12/ISIC_0024732.json",
+            "Datasets/ground_truth_annotations/annotator5/ISIC_0024732.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant11/ISIC_0024732.json",
+            "Datasets/study_annotations/participant24/ISIC_0024732.json",
+            "Datasets/study_annotations/participant36/ISIC_0024732.json",
+            "Datasets/study_annotations/participant43/ISIC_0024732.json",
+            "Datasets/study_annotations/participant88/ISIC_0024732.json",
+            "Datasets/study_annotations/participant92/ISIC_0024732.json",
+            "Datasets/study_annotations/participant99/ISIC_0024732.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0024733",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0024733.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0024733.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0024733.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant110/ISIC_0024733.json",
+            "Datasets/study_annotations/participant13/ISIC_0024733.json",
+            "Datasets/study_annotations/participant17/ISIC_0024733.json",
+            "Datasets/study_annotations/participant26/ISIC_0024733.json",
+            "Datasets/study_annotations/participant32/ISIC_0024733.json",
+            "Datasets/study_annotations/participant40/ISIC_0024733.json",
+            "Datasets/study_annotations/participant52/ISIC_0024733.json",
+            "Datasets/study_annotations/participant67/ISIC_0024733.json",
+            "Datasets/study_annotations/participant85/ISIC_0024733.json",
+            "Datasets/study_annotations/participant93/ISIC_0024733.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0024753",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0024753.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0024753.json",
+            "Datasets/ground_truth_annotations/annotator10/ISIC_0024753.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant1/ISIC_0024753.json",
+            "Datasets/study_annotations/participant104/ISIC_0024753.json",
+            "Datasets/study_annotations/participant28/ISIC_0024753.json",
+            "Datasets/study_annotations/participant35/ISIC_0024753.json",
+            "Datasets/study_annotations/participant50/ISIC_0024753.json",
+            "Datasets/study_annotations/participant54/ISIC_0024753.json",
+            "Datasets/study_annotations/participant73/ISIC_0024753.json",
+            "Datasets/study_annotations/participant78/ISIC_0024753.json",
+            "Datasets/study_annotations/participant83/ISIC_0024753.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0024922",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0024922.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0024922.json",
+            "Datasets/ground_truth_annotations/annotator10/ISIC_0024922.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant100/ISIC_0024922.json",
+            "Datasets/study_annotations/participant108/ISIC_0024922.json",
+            "Datasets/study_annotations/participant20/ISIC_0024922.json",
+            "Datasets/study_annotations/participant29/ISIC_0024922.json",
+            "Datasets/study_annotations/participant34/ISIC_0024922.json",
+            "Datasets/study_annotations/participant55/ISIC_0024922.json",
+            "Datasets/study_annotations/participant57/ISIC_0024922.json",
+            "Datasets/study_annotations/participant61/ISIC_0024922.json",
+            "Datasets/study_annotations/participant68/ISIC_0024922.json",
+            "Datasets/study_annotations/participant75/ISIC_0024922.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0024929",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0024929.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0024929.json",
+            "Datasets/ground_truth_annotations/annotator12/ISIC_0024929.json",
+            "Datasets/ground_truth_annotations/annotator5/ISIC_0024929.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant14/ISIC_0024929.json",
+            "Datasets/study_annotations/participant18/ISIC_0024929.json",
+            "Datasets/study_annotations/participant31/ISIC_0024929.json",
+            "Datasets/study_annotations/participant56/ISIC_0024929.json",
+            "Datasets/study_annotations/participant70/ISIC_0024929.json",
+            "Datasets/study_annotations/participant79/ISIC_0024929.json",
+            "Datasets/study_annotations/participant87/ISIC_0024929.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0024999",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0024999.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0024999.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0024999.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant19/ISIC_0024999.json",
+            "Datasets/study_annotations/participant47/ISIC_0024999.json",
+            "Datasets/study_annotations/participant5/ISIC_0024999.json",
+            "Datasets/study_annotations/participant72/ISIC_0024999.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0025105",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0025105.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0025105.json",
+            "Datasets/ground_truth_annotations/annotator6/ISIC_0025105.json",
+            "Datasets/ground_truth_annotations/annotator9/ISIC_0025105.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant19/ISIC_0025105.json",
+            "Datasets/study_annotations/participant47/ISIC_0025105.json",
+            "Datasets/study_annotations/participant5/ISIC_0025105.json",
+            "Datasets/study_annotations/participant72/ISIC_0025105.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0025336",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0025336.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0025336.json",
+            "Datasets/ground_truth_annotations/annotator9/ISIC_0025336.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant19/ISIC_0025336.json",
+            "Datasets/study_annotations/participant47/ISIC_0025336.json",
+            "Datasets/study_annotations/participant5/ISIC_0025336.json",
+            "Datasets/study_annotations/participant72/ISIC_0025336.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0025391",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0025391.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0025391.json",
+            "Datasets/ground_truth_annotations/annotator3/ISIC_0025391.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant11/ISIC_0025391.json",
+            "Datasets/study_annotations/participant24/ISIC_0025391.json",
+            "Datasets/study_annotations/participant36/ISIC_0025391.json",
+            "Datasets/study_annotations/participant43/ISIC_0025391.json",
+            "Datasets/study_annotations/participant88/ISIC_0025391.json",
+            "Datasets/study_annotations/participant92/ISIC_0025391.json",
+            "Datasets/study_annotations/participant99/ISIC_0025391.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0025413",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0025413.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0025413.json",
+            "Datasets/ground_truth_annotations/annotator7/ISIC_0025413.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant12/ISIC_0025413.json",
+            "Datasets/study_annotations/participant46/ISIC_0025413.json",
+            "Datasets/study_annotations/participant62/ISIC_0025413.json",
+            "Datasets/study_annotations/participant65/ISIC_0025413.json",
+            "Datasets/study_annotations/participant7/ISIC_0025413.json",
+            "Datasets/study_annotations/participant74/ISIC_0025413.json",
+            "Datasets/study_annotations/participant86/ISIC_0025413.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0025451",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0025451.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0025451.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0025451.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant102/ISIC_0025451.json",
+            "Datasets/study_annotations/participant107/ISIC_0025451.json",
+            "Datasets/study_annotations/participant23/ISIC_0025451.json",
+            "Datasets/study_annotations/participant39/ISIC_0025451.json",
+            "Datasets/study_annotations/participant49/ISIC_0025451.json",
+            "Datasets/study_annotations/participant8/ISIC_0025451.json",
+            "Datasets/study_annotations/participant82/ISIC_0025451.json",
+            "Datasets/study_annotations/participant94/ISIC_0025451.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0025603",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0025603.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0025603.json",
+            "Datasets/ground_truth_annotations/annotator12/ISIC_0025603.json",
+            "Datasets/ground_truth_annotations/annotator5/ISIC_0025603.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant1/ISIC_0025603.json",
+            "Datasets/study_annotations/participant104/ISIC_0025603.json",
+            "Datasets/study_annotations/participant28/ISIC_0025603.json",
+            "Datasets/study_annotations/participant35/ISIC_0025603.json",
+            "Datasets/study_annotations/participant50/ISIC_0025603.json",
+            "Datasets/study_annotations/participant54/ISIC_0025603.json",
+            "Datasets/study_annotations/participant73/ISIC_0025603.json",
+            "Datasets/study_annotations/participant78/ISIC_0025603.json",
+            "Datasets/study_annotations/participant83/ISIC_0025603.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0025640",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0025640.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0025640.json",
+            "Datasets/ground_truth_annotations/annotator9/ISIC_0025640.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant1/ISIC_0025640.json",
+            "Datasets/study_annotations/participant104/ISIC_0025640.json",
+            "Datasets/study_annotations/participant28/ISIC_0025640.json",
+            "Datasets/study_annotations/participant35/ISIC_0025640.json",
+            "Datasets/study_annotations/participant50/ISIC_0025640.json",
+            "Datasets/study_annotations/participant54/ISIC_0025640.json",
+            "Datasets/study_annotations/participant73/ISIC_0025640.json",
+            "Datasets/study_annotations/participant78/ISIC_0025640.json",
+            "Datasets/study_annotations/participant83/ISIC_0025640.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0025651",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0025651.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0025651.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0025651.json",
+            "Datasets/ground_truth_annotations/annotator14/ISIC_0025651.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant1/ISIC_0025651.json",
+            "Datasets/study_annotations/participant104/ISIC_0025651.json",
+            "Datasets/study_annotations/participant28/ISIC_0025651.json",
+            "Datasets/study_annotations/participant35/ISIC_0025651.json",
+            "Datasets/study_annotations/participant50/ISIC_0025651.json",
+            "Datasets/study_annotations/participant54/ISIC_0025651.json",
+            "Datasets/study_annotations/participant73/ISIC_0025651.json",
+            "Datasets/study_annotations/participant83/ISIC_0025651.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0025724",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0025724.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0025724.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0025724.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant101/ISIC_0025724.json",
+            "Datasets/study_annotations/participant111/ISIC_0025724.json",
+            "Datasets/study_annotations/participant16/ISIC_0025724.json",
+            "Datasets/study_annotations/participant2/ISIC_0025724.json",
+            "Datasets/study_annotations/participant27/ISIC_0025724.json",
+            "Datasets/study_annotations/participant38/ISIC_0025724.json",
+            "Datasets/study_annotations/participant59/ISIC_0025724.json",
+            "Datasets/study_annotations/participant60/ISIC_0025724.json",
+            "Datasets/study_annotations/participant69/ISIC_0025724.json",
+            "Datasets/study_annotations/participant96/ISIC_0025724.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0025726",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0025726.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0025726.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0025726.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant11/ISIC_0025726.json",
+            "Datasets/study_annotations/participant24/ISIC_0025726.json",
+            "Datasets/study_annotations/participant36/ISIC_0025726.json",
+            "Datasets/study_annotations/participant43/ISIC_0025726.json",
+            "Datasets/study_annotations/participant88/ISIC_0025726.json",
+            "Datasets/study_annotations/participant92/ISIC_0025726.json",
+            "Datasets/study_annotations/participant99/ISIC_0025726.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0025735",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0025735.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0025735.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0025735.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant1/ISIC_0025735.json",
+            "Datasets/study_annotations/participant104/ISIC_0025735.json",
+            "Datasets/study_annotations/participant28/ISIC_0025735.json",
+            "Datasets/study_annotations/participant35/ISIC_0025735.json",
+            "Datasets/study_annotations/participant50/ISIC_0025735.json",
+            "Datasets/study_annotations/participant54/ISIC_0025735.json",
+            "Datasets/study_annotations/participant73/ISIC_0025735.json",
+            "Datasets/study_annotations/participant83/ISIC_0025735.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0025927",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0025927.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0025927.json",
+            "Datasets/ground_truth_annotations/annotator3/ISIC_0025927.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant109/ISIC_0025927.json",
+            "Datasets/study_annotations/participant22/ISIC_0025927.json",
+            "Datasets/study_annotations/participant3/ISIC_0025927.json",
+            "Datasets/study_annotations/participant42/ISIC_0025927.json",
+            "Datasets/study_annotations/participant66/ISIC_0025927.json",
+            "Datasets/study_annotations/participant80/ISIC_0025927.json",
+            "Datasets/study_annotations/participant90/ISIC_0025927.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0025941",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0025941.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0025941.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0025941.json",
+            "Datasets/ground_truth_annotations/annotator14/ISIC_0025941.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant14/ISIC_0025941.json",
+            "Datasets/study_annotations/participant18/ISIC_0025941.json",
+            "Datasets/study_annotations/participant31/ISIC_0025941.json",
+            "Datasets/study_annotations/participant56/ISIC_0025941.json",
+            "Datasets/study_annotations/participant70/ISIC_0025941.json",
+            "Datasets/study_annotations/participant79/ISIC_0025941.json",
+            "Datasets/study_annotations/participant87/ISIC_0025941.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0025946",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0025946.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0025946.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0025946.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant10/ISIC_0025946.json",
+            "Datasets/study_annotations/participant103/ISIC_0025946.json",
+            "Datasets/study_annotations/participant113/ISIC_0025946.json",
+            "Datasets/study_annotations/participant21/ISIC_0025946.json",
+            "Datasets/study_annotations/participant25/ISIC_0025946.json",
+            "Datasets/study_annotations/participant44/ISIC_0025946.json",
+            "Datasets/study_annotations/participant48/ISIC_0025946.json",
+            "Datasets/study_annotations/participant51/ISIC_0025946.json",
+            "Datasets/study_annotations/participant84/ISIC_0025946.json",
+            "Datasets/study_annotations/participant95/ISIC_0025946.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0025987",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0025987.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0025987.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0025987.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant1/ISIC_0025987.json",
+            "Datasets/study_annotations/participant104/ISIC_0025987.json",
+            "Datasets/study_annotations/participant28/ISIC_0025987.json",
+            "Datasets/study_annotations/participant35/ISIC_0025987.json",
+            "Datasets/study_annotations/participant50/ISIC_0025987.json",
+            "Datasets/study_annotations/participant54/ISIC_0025987.json",
+            "Datasets/study_annotations/participant73/ISIC_0025987.json",
+            "Datasets/study_annotations/participant78/ISIC_0025987.json",
+            "Datasets/study_annotations/participant83/ISIC_0025987.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0026045",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0026045.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0026045.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0026045.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant30/ISIC_0026045.json",
+            "Datasets/study_annotations/participant4/ISIC_0026045.json",
+            "Datasets/study_annotations/participant53/ISIC_0026045.json",
+            "Datasets/study_annotations/participant58/ISIC_0026045.json",
+            "Datasets/study_annotations/participant6/ISIC_0026045.json",
+            "Datasets/study_annotations/participant64/ISIC_0026045.json",
+            "Datasets/study_annotations/participant71/ISIC_0026045.json",
+            "Datasets/study_annotations/participant77/ISIC_0026045.json",
+            "Datasets/study_annotations/participant97/ISIC_0026045.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0026125",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0026125.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0026125.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0026125.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant102/ISIC_0026125.json",
+            "Datasets/study_annotations/participant107/ISIC_0026125.json",
+            "Datasets/study_annotations/participant23/ISIC_0026125.json",
+            "Datasets/study_annotations/participant39/ISIC_0026125.json",
+            "Datasets/study_annotations/participant49/ISIC_0026125.json",
+            "Datasets/study_annotations/participant8/ISIC_0026125.json",
+            "Datasets/study_annotations/participant82/ISIC_0026125.json",
+            "Datasets/study_annotations/participant94/ISIC_0026125.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0026207",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0026207.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0026207.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0026207.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant10/ISIC_0026207.json",
+            "Datasets/study_annotations/participant103/ISIC_0026207.json",
+            "Datasets/study_annotations/participant113/ISIC_0026207.json",
+            "Datasets/study_annotations/participant21/ISIC_0026207.json",
+            "Datasets/study_annotations/participant25/ISIC_0026207.json",
+            "Datasets/study_annotations/participant44/ISIC_0026207.json",
+            "Datasets/study_annotations/participant48/ISIC_0026207.json",
+            "Datasets/study_annotations/participant51/ISIC_0026207.json",
+            "Datasets/study_annotations/participant84/ISIC_0026207.json",
+            "Datasets/study_annotations/participant95/ISIC_0026207.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0026236",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0026236.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0026236.json",
+            "Datasets/ground_truth_annotations/annotator3/ISIC_0026236.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant12/ISIC_0026236.json",
+            "Datasets/study_annotations/participant46/ISIC_0026236.json",
+            "Datasets/study_annotations/participant62/ISIC_0026236.json",
+            "Datasets/study_annotations/participant65/ISIC_0026236.json",
+            "Datasets/study_annotations/participant7/ISIC_0026236.json",
+            "Datasets/study_annotations/participant74/ISIC_0026236.json",
+            "Datasets/study_annotations/participant86/ISIC_0026236.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0026389",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0026389.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0026389.json",
+            "Datasets/ground_truth_annotations/annotator3/ISIC_0026389.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant105/ISIC_0026389.json",
+            "Datasets/study_annotations/participant106/ISIC_0026389.json",
+            "Datasets/study_annotations/participant37/ISIC_0026389.json",
+            "Datasets/study_annotations/participant63/ISIC_0026389.json",
+            "Datasets/study_annotations/participant81/ISIC_0026389.json",
+            "Datasets/study_annotations/participant89/ISIC_0026389.json",
+            "Datasets/study_annotations/participant9/ISIC_0026389.json",
+            "Datasets/study_annotations/participant91/ISIC_0026389.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0026432",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0026432.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0026432.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0026432.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant110/ISIC_0026432.json",
+            "Datasets/study_annotations/participant13/ISIC_0026432.json",
+            "Datasets/study_annotations/participant17/ISIC_0026432.json",
+            "Datasets/study_annotations/participant26/ISIC_0026432.json",
+            "Datasets/study_annotations/participant32/ISIC_0026432.json",
+            "Datasets/study_annotations/participant40/ISIC_0026432.json",
+            "Datasets/study_annotations/participant52/ISIC_0026432.json",
+            "Datasets/study_annotations/participant67/ISIC_0026432.json",
+            "Datasets/study_annotations/participant85/ISIC_0026432.json",
+            "Datasets/study_annotations/participant93/ISIC_0026432.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0026454",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0026454.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0026454.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0026454.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant30/ISIC_0026454.json",
+            "Datasets/study_annotations/participant4/ISIC_0026454.json",
+            "Datasets/study_annotations/participant53/ISIC_0026454.json",
+            "Datasets/study_annotations/participant58/ISIC_0026454.json",
+            "Datasets/study_annotations/participant6/ISIC_0026454.json",
+            "Datasets/study_annotations/participant64/ISIC_0026454.json",
+            "Datasets/study_annotations/participant71/ISIC_0026454.json",
+            "Datasets/study_annotations/participant77/ISIC_0026454.json",
+            "Datasets/study_annotations/participant97/ISIC_0026454.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0026497",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0026497.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0026497.json",
+            "Datasets/ground_truth_annotations/annotator10/ISIC_0026497.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant101/ISIC_0026497.json",
+            "Datasets/study_annotations/participant111/ISIC_0026497.json",
+            "Datasets/study_annotations/participant16/ISIC_0026497.json",
+            "Datasets/study_annotations/participant2/ISIC_0026497.json",
+            "Datasets/study_annotations/participant27/ISIC_0026497.json",
+            "Datasets/study_annotations/participant38/ISIC_0026497.json",
+            "Datasets/study_annotations/participant59/ISIC_0026497.json",
+            "Datasets/study_annotations/participant60/ISIC_0026497.json",
+            "Datasets/study_annotations/participant69/ISIC_0026497.json",
+            "Datasets/study_annotations/participant96/ISIC_0026497.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0026552",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0026552.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0026552.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0026552.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant110/ISIC_0026552.json",
+            "Datasets/study_annotations/participant13/ISIC_0026552.json",
+            "Datasets/study_annotations/participant17/ISIC_0026552.json",
+            "Datasets/study_annotations/participant26/ISIC_0026552.json",
+            "Datasets/study_annotations/participant32/ISIC_0026552.json",
+            "Datasets/study_annotations/participant40/ISIC_0026552.json",
+            "Datasets/study_annotations/participant52/ISIC_0026552.json",
+            "Datasets/study_annotations/participant67/ISIC_0026552.json",
+            "Datasets/study_annotations/participant85/ISIC_0026552.json",
+            "Datasets/study_annotations/participant93/ISIC_0026552.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0026558",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0026558.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0026558.json",
+            "Datasets/ground_truth_annotations/annotator4/ISIC_0026558.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant11/ISIC_0026558.json",
+            "Datasets/study_annotations/participant24/ISIC_0026558.json",
+            "Datasets/study_annotations/participant36/ISIC_0026558.json",
+            "Datasets/study_annotations/participant43/ISIC_0026558.json",
+            "Datasets/study_annotations/participant88/ISIC_0026558.json",
+            "Datasets/study_annotations/participant92/ISIC_0026558.json",
+            "Datasets/study_annotations/participant99/ISIC_0026558.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0026571",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0026571.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0026571.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0026571.json",
+            "Datasets/ground_truth_annotations/annotator14/ISIC_0026571.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant100/ISIC_0026571.json",
+            "Datasets/study_annotations/participant108/ISIC_0026571.json",
+            "Datasets/study_annotations/participant20/ISIC_0026571.json",
+            "Datasets/study_annotations/participant29/ISIC_0026571.json",
+            "Datasets/study_annotations/participant34/ISIC_0026571.json",
+            "Datasets/study_annotations/participant55/ISIC_0026571.json",
+            "Datasets/study_annotations/participant57/ISIC_0026571.json",
+            "Datasets/study_annotations/participant61/ISIC_0026571.json",
+            "Datasets/study_annotations/participant68/ISIC_0026571.json",
+            "Datasets/study_annotations/participant75/ISIC_0026571.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0026697",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0026697.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0026697.json",
+            "Datasets/ground_truth_annotations/annotator10/ISIC_0026697.json",
+            "Datasets/ground_truth_annotations/annotator13/ISIC_0026697.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant19/ISIC_0026697.json",
+            "Datasets/study_annotations/participant47/ISIC_0026697.json",
+            "Datasets/study_annotations/participant5/ISIC_0026697.json",
+            "Datasets/study_annotations/participant72/ISIC_0026697.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0026826",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0026826.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0026826.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0026826.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant14/ISIC_0026826.json",
+            "Datasets/study_annotations/participant31/ISIC_0026826.json",
+            "Datasets/study_annotations/participant56/ISIC_0026826.json",
+            "Datasets/study_annotations/participant70/ISIC_0026826.json",
+            "Datasets/study_annotations/participant79/ISIC_0026826.json",
+            "Datasets/study_annotations/participant87/ISIC_0026826.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0026847",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0026847.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0026847.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0026847.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant112/ISIC_0026847.json",
+            "Datasets/study_annotations/participant15/ISIC_0026847.json",
+            "Datasets/study_annotations/participant33/ISIC_0026847.json",
+            "Datasets/study_annotations/participant41/ISIC_0026847.json",
+            "Datasets/study_annotations/participant45/ISIC_0026847.json",
+            "Datasets/study_annotations/participant76/ISIC_0026847.json",
+            "Datasets/study_annotations/participant98/ISIC_0026847.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0026852",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0026852.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0026852.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0026852.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant12/ISIC_0026852.json",
+            "Datasets/study_annotations/participant46/ISIC_0026852.json",
+            "Datasets/study_annotations/participant62/ISIC_0026852.json",
+            "Datasets/study_annotations/participant65/ISIC_0026852.json",
+            "Datasets/study_annotations/participant7/ISIC_0026852.json",
+            "Datasets/study_annotations/participant74/ISIC_0026852.json",
+            "Datasets/study_annotations/participant86/ISIC_0026852.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0026913",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0026913.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0026913.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0026913.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant30/ISIC_0026913.json",
+            "Datasets/study_annotations/participant4/ISIC_0026913.json",
+            "Datasets/study_annotations/participant53/ISIC_0026913.json",
+            "Datasets/study_annotations/participant58/ISIC_0026913.json",
+            "Datasets/study_annotations/participant6/ISIC_0026913.json",
+            "Datasets/study_annotations/participant64/ISIC_0026913.json",
+            "Datasets/study_annotations/participant71/ISIC_0026913.json",
+            "Datasets/study_annotations/participant77/ISIC_0026913.json",
+            "Datasets/study_annotations/participant97/ISIC_0026913.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027067",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027067.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027067.json",
+            "Datasets/ground_truth_annotations/annotator10/ISIC_0027067.json",
+            "Datasets/ground_truth_annotations/annotator13/ISIC_0027067.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant1/ISIC_0027067.json",
+            "Datasets/study_annotations/participant104/ISIC_0027067.json",
+            "Datasets/study_annotations/participant28/ISIC_0027067.json",
+            "Datasets/study_annotations/participant35/ISIC_0027067.json",
+            "Datasets/study_annotations/participant50/ISIC_0027067.json",
+            "Datasets/study_annotations/participant54/ISIC_0027067.json",
+            "Datasets/study_annotations/participant73/ISIC_0027067.json",
+            "Datasets/study_annotations/participant78/ISIC_0027067.json",
+            "Datasets/study_annotations/participant83/ISIC_0027067.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027100",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027100.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027100.json",
+            "Datasets/ground_truth_annotations/annotator6/ISIC_0027100.json",
+            "Datasets/ground_truth_annotations/annotator9/ISIC_0027100.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant110/ISIC_0027100.json",
+            "Datasets/study_annotations/participant13/ISIC_0027100.json",
+            "Datasets/study_annotations/participant17/ISIC_0027100.json",
+            "Datasets/study_annotations/participant26/ISIC_0027100.json",
+            "Datasets/study_annotations/participant32/ISIC_0027100.json",
+            "Datasets/study_annotations/participant40/ISIC_0027100.json",
+            "Datasets/study_annotations/participant52/ISIC_0027100.json",
+            "Datasets/study_annotations/participant67/ISIC_0027100.json",
+            "Datasets/study_annotations/participant85/ISIC_0027100.json",
+            "Datasets/study_annotations/participant93/ISIC_0027100.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027174",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027174.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027174.json",
+            "Datasets/ground_truth_annotations/annotator12/ISIC_0027174.json",
+            "Datasets/ground_truth_annotations/annotator5/ISIC_0027174.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant105/ISIC_0027174.json",
+            "Datasets/study_annotations/participant106/ISIC_0027174.json",
+            "Datasets/study_annotations/participant37/ISIC_0027174.json",
+            "Datasets/study_annotations/participant63/ISIC_0027174.json",
+            "Datasets/study_annotations/participant81/ISIC_0027174.json",
+            "Datasets/study_annotations/participant89/ISIC_0027174.json",
+            "Datasets/study_annotations/participant9/ISIC_0027174.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027190",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027190.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027190.json",
+            "Datasets/ground_truth_annotations/annotator12/ISIC_0027190.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant19/ISIC_0027190.json",
+            "Datasets/study_annotations/participant47/ISIC_0027190.json",
+            "Datasets/study_annotations/participant5/ISIC_0027190.json",
+            "Datasets/study_annotations/participant72/ISIC_0027190.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027242",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027242.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027242.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0027242.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant30/ISIC_0027242.json",
+            "Datasets/study_annotations/participant4/ISIC_0027242.json",
+            "Datasets/study_annotations/participant53/ISIC_0027242.json",
+            "Datasets/study_annotations/participant58/ISIC_0027242.json",
+            "Datasets/study_annotations/participant6/ISIC_0027242.json",
+            "Datasets/study_annotations/participant64/ISIC_0027242.json",
+            "Datasets/study_annotations/participant71/ISIC_0027242.json",
+            "Datasets/study_annotations/participant77/ISIC_0027242.json",
+            "Datasets/study_annotations/participant97/ISIC_0027242.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027302",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027302.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027302.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0027302.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant101/ISIC_0027302.json",
+            "Datasets/study_annotations/participant111/ISIC_0027302.json",
+            "Datasets/study_annotations/participant16/ISIC_0027302.json",
+            "Datasets/study_annotations/participant2/ISIC_0027302.json",
+            "Datasets/study_annotations/participant27/ISIC_0027302.json",
+            "Datasets/study_annotations/participant38/ISIC_0027302.json",
+            "Datasets/study_annotations/participant59/ISIC_0027302.json",
+            "Datasets/study_annotations/participant60/ISIC_0027302.json",
+            "Datasets/study_annotations/participant69/ISIC_0027302.json",
+            "Datasets/study_annotations/participant96/ISIC_0027302.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027312",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027312.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027312.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0027312.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant12/ISIC_0027312.json",
+            "Datasets/study_annotations/participant46/ISIC_0027312.json",
+            "Datasets/study_annotations/participant65/ISIC_0027312.json",
+            "Datasets/study_annotations/participant7/ISIC_0027312.json",
+            "Datasets/study_annotations/participant74/ISIC_0027312.json",
+            "Datasets/study_annotations/participant86/ISIC_0027312.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027350",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027350.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027350.json",
+            "Datasets/ground_truth_annotations/annotator12/ISIC_0027350.json",
+            "Datasets/ground_truth_annotations/annotator5/ISIC_0027350.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant14/ISIC_0027350.json",
+            "Datasets/study_annotations/participant18/ISIC_0027350.json",
+            "Datasets/study_annotations/participant31/ISIC_0027350.json",
+            "Datasets/study_annotations/participant56/ISIC_0027350.json",
+            "Datasets/study_annotations/participant70/ISIC_0027350.json",
+            "Datasets/study_annotations/participant79/ISIC_0027350.json",
+            "Datasets/study_annotations/participant87/ISIC_0027350.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027364",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027364.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027364.json",
+            "Datasets/ground_truth_annotations/annotator7/ISIC_0027364.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant110/ISIC_0027364.json",
+            "Datasets/study_annotations/participant13/ISIC_0027364.json",
+            "Datasets/study_annotations/participant17/ISIC_0027364.json",
+            "Datasets/study_annotations/participant26/ISIC_0027364.json",
+            "Datasets/study_annotations/participant32/ISIC_0027364.json",
+            "Datasets/study_annotations/participant40/ISIC_0027364.json",
+            "Datasets/study_annotations/participant52/ISIC_0027364.json",
+            "Datasets/study_annotations/participant67/ISIC_0027364.json",
+            "Datasets/study_annotations/participant85/ISIC_0027364.json",
+            "Datasets/study_annotations/participant93/ISIC_0027364.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027402",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027402.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027402.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0027402.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant109/ISIC_0027402.json",
+            "Datasets/study_annotations/participant22/ISIC_0027402.json",
+            "Datasets/study_annotations/participant3/ISIC_0027402.json",
+            "Datasets/study_annotations/participant42/ISIC_0027402.json",
+            "Datasets/study_annotations/participant66/ISIC_0027402.json",
+            "Datasets/study_annotations/participant80/ISIC_0027402.json",
+            "Datasets/study_annotations/participant90/ISIC_0027402.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027420",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027420.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027420.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0027420.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant102/ISIC_0027420.json",
+            "Datasets/study_annotations/participant107/ISIC_0027420.json",
+            "Datasets/study_annotations/participant23/ISIC_0027420.json",
+            "Datasets/study_annotations/participant39/ISIC_0027420.json",
+            "Datasets/study_annotations/participant49/ISIC_0027420.json",
+            "Datasets/study_annotations/participant8/ISIC_0027420.json",
+            "Datasets/study_annotations/participant82/ISIC_0027420.json",
+            "Datasets/study_annotations/participant94/ISIC_0027420.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027471",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027471.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027471.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0027471.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant109/ISIC_0027471.json",
+            "Datasets/study_annotations/participant22/ISIC_0027471.json",
+            "Datasets/study_annotations/participant3/ISIC_0027471.json",
+            "Datasets/study_annotations/participant42/ISIC_0027471.json",
+            "Datasets/study_annotations/participant66/ISIC_0027471.json",
+            "Datasets/study_annotations/participant80/ISIC_0027471.json",
+            "Datasets/study_annotations/participant90/ISIC_0027471.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027517",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027517.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027517.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0027517.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant30/ISIC_0027517.json",
+            "Datasets/study_annotations/participant4/ISIC_0027517.json",
+            "Datasets/study_annotations/participant53/ISIC_0027517.json",
+            "Datasets/study_annotations/participant58/ISIC_0027517.json",
+            "Datasets/study_annotations/participant6/ISIC_0027517.json",
+            "Datasets/study_annotations/participant64/ISIC_0027517.json",
+            "Datasets/study_annotations/participant71/ISIC_0027517.json",
+            "Datasets/study_annotations/participant77/ISIC_0027517.json",
+            "Datasets/study_annotations/participant97/ISIC_0027517.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027561",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027561.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027561.json",
+            "Datasets/ground_truth_annotations/annotator10/ISIC_0027561.json",
+            "Datasets/ground_truth_annotations/annotator13/ISIC_0027561.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant110/ISIC_0027561.json",
+            "Datasets/study_annotations/participant13/ISIC_0027561.json",
+            "Datasets/study_annotations/participant17/ISIC_0027561.json",
+            "Datasets/study_annotations/participant26/ISIC_0027561.json",
+            "Datasets/study_annotations/participant32/ISIC_0027561.json",
+            "Datasets/study_annotations/participant40/ISIC_0027561.json",
+            "Datasets/study_annotations/participant52/ISIC_0027561.json",
+            "Datasets/study_annotations/participant67/ISIC_0027561.json",
+            "Datasets/study_annotations/participant85/ISIC_0027561.json",
+            "Datasets/study_annotations/participant93/ISIC_0027561.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027590",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027590.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027590.json",
+            "Datasets/ground_truth_annotations/annotator12/ISIC_0027590.json",
+            "Datasets/ground_truth_annotations/annotator5/ISIC_0027590.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant12/ISIC_0027590.json",
+            "Datasets/study_annotations/participant46/ISIC_0027590.json",
+            "Datasets/study_annotations/participant65/ISIC_0027590.json",
+            "Datasets/study_annotations/participant7/ISIC_0027590.json",
+            "Datasets/study_annotations/participant74/ISIC_0027590.json",
+            "Datasets/study_annotations/participant86/ISIC_0027590.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027620",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027620.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027620.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0027620.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant100/ISIC_0027620.json",
+            "Datasets/study_annotations/participant108/ISIC_0027620.json",
+            "Datasets/study_annotations/participant20/ISIC_0027620.json",
+            "Datasets/study_annotations/participant29/ISIC_0027620.json",
+            "Datasets/study_annotations/participant34/ISIC_0027620.json",
+            "Datasets/study_annotations/participant55/ISIC_0027620.json",
+            "Datasets/study_annotations/participant57/ISIC_0027620.json",
+            "Datasets/study_annotations/participant61/ISIC_0027620.json",
+            "Datasets/study_annotations/participant68/ISIC_0027620.json",
+            "Datasets/study_annotations/participant75/ISIC_0027620.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027623",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027623.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027623.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0027623.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant112/ISIC_0027623.json",
+            "Datasets/study_annotations/participant15/ISIC_0027623.json",
+            "Datasets/study_annotations/participant33/ISIC_0027623.json",
+            "Datasets/study_annotations/participant41/ISIC_0027623.json",
+            "Datasets/study_annotations/participant45/ISIC_0027623.json",
+            "Datasets/study_annotations/participant76/ISIC_0027623.json",
+            "Datasets/study_annotations/participant98/ISIC_0027623.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027654",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027654.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027654.json",
+            "Datasets/ground_truth_annotations/annotator4/ISIC_0027654.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant101/ISIC_0027654.json",
+            "Datasets/study_annotations/participant111/ISIC_0027654.json",
+            "Datasets/study_annotations/participant16/ISIC_0027654.json",
+            "Datasets/study_annotations/participant2/ISIC_0027654.json",
+            "Datasets/study_annotations/participant27/ISIC_0027654.json",
+            "Datasets/study_annotations/participant38/ISIC_0027654.json",
+            "Datasets/study_annotations/participant59/ISIC_0027654.json",
+            "Datasets/study_annotations/participant60/ISIC_0027654.json",
+            "Datasets/study_annotations/participant69/ISIC_0027654.json",
+            "Datasets/study_annotations/participant96/ISIC_0027654.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027755",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027755.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027755.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0027755.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant19/ISIC_0027755.json",
+            "Datasets/study_annotations/participant47/ISIC_0027755.json",
+            "Datasets/study_annotations/participant5/ISIC_0027755.json",
+            "Datasets/study_annotations/participant72/ISIC_0027755.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027776",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027776.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027776.json",
+            "Datasets/ground_truth_annotations/annotator6/ISIC_0027776.json",
+            "Datasets/ground_truth_annotations/annotator9/ISIC_0027776.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant100/ISIC_0027776.json",
+            "Datasets/study_annotations/participant20/ISIC_0027776.json",
+            "Datasets/study_annotations/participant29/ISIC_0027776.json",
+            "Datasets/study_annotations/participant34/ISIC_0027776.json",
+            "Datasets/study_annotations/participant55/ISIC_0027776.json",
+            "Datasets/study_annotations/participant57/ISIC_0027776.json",
+            "Datasets/study_annotations/participant61/ISIC_0027776.json",
+            "Datasets/study_annotations/participant68/ISIC_0027776.json",
+            "Datasets/study_annotations/participant75/ISIC_0027776.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027832",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027832.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027832.json",
+            "Datasets/ground_truth_annotations/annotator6/ISIC_0027832.json",
+            "Datasets/ground_truth_annotations/annotator9/ISIC_0027832.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant109/ISIC_0027832.json",
+            "Datasets/study_annotations/participant22/ISIC_0027832.json",
+            "Datasets/study_annotations/participant3/ISIC_0027832.json",
+            "Datasets/study_annotations/participant42/ISIC_0027832.json",
+            "Datasets/study_annotations/participant66/ISIC_0027832.json",
+            "Datasets/study_annotations/participant80/ISIC_0027832.json",
+            "Datasets/study_annotations/participant90/ISIC_0027832.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027861",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027861.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027861.json",
+            "Datasets/ground_truth_annotations/annotator9/ISIC_0027861.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant112/ISIC_0027861.json",
+            "Datasets/study_annotations/participant15/ISIC_0027861.json",
+            "Datasets/study_annotations/participant33/ISIC_0027861.json",
+            "Datasets/study_annotations/participant41/ISIC_0027861.json",
+            "Datasets/study_annotations/participant45/ISIC_0027861.json",
+            "Datasets/study_annotations/participant76/ISIC_0027861.json",
+            "Datasets/study_annotations/participant98/ISIC_0027861.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027904",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027904.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027904.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0027904.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant105/ISIC_0027904.json",
+            "Datasets/study_annotations/participant106/ISIC_0027904.json",
+            "Datasets/study_annotations/participant37/ISIC_0027904.json",
+            "Datasets/study_annotations/participant63/ISIC_0027904.json",
+            "Datasets/study_annotations/participant81/ISIC_0027904.json",
+            "Datasets/study_annotations/participant89/ISIC_0027904.json",
+            "Datasets/study_annotations/participant9/ISIC_0027904.json",
+            "Datasets/study_annotations/participant91/ISIC_0027904.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027928",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027928.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027928.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0027928.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant105/ISIC_0027928.json",
+            "Datasets/study_annotations/participant106/ISIC_0027928.json",
+            "Datasets/study_annotations/participant37/ISIC_0027928.json",
+            "Datasets/study_annotations/participant63/ISIC_0027928.json",
+            "Datasets/study_annotations/participant81/ISIC_0027928.json",
+            "Datasets/study_annotations/participant89/ISIC_0027928.json",
+            "Datasets/study_annotations/participant9/ISIC_0027928.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027931",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027931.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027931.json",
+            "Datasets/ground_truth_annotations/annotator9/ISIC_0027931.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant1/ISIC_0027931.json",
+            "Datasets/study_annotations/participant104/ISIC_0027931.json",
+            "Datasets/study_annotations/participant28/ISIC_0027931.json",
+            "Datasets/study_annotations/participant35/ISIC_0027931.json",
+            "Datasets/study_annotations/participant50/ISIC_0027931.json",
+            "Datasets/study_annotations/participant54/ISIC_0027931.json",
+            "Datasets/study_annotations/participant73/ISIC_0027931.json",
+            "Datasets/study_annotations/participant78/ISIC_0027931.json",
+            "Datasets/study_annotations/participant83/ISIC_0027931.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0027999",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0027999.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0027999.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0027999.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant105/ISIC_0027999.json",
+            "Datasets/study_annotations/participant106/ISIC_0027999.json",
+            "Datasets/study_annotations/participant37/ISIC_0027999.json",
+            "Datasets/study_annotations/participant63/ISIC_0027999.json",
+            "Datasets/study_annotations/participant81/ISIC_0027999.json",
+            "Datasets/study_annotations/participant89/ISIC_0027999.json",
+            "Datasets/study_annotations/participant9/ISIC_0027999.json",
+            "Datasets/study_annotations/participant91/ISIC_0027999.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028041",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028041.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028041.json",
+            "Datasets/ground_truth_annotations/annotator3/ISIC_0028041.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant102/ISIC_0028041.json",
+            "Datasets/study_annotations/participant107/ISIC_0028041.json",
+            "Datasets/study_annotations/participant23/ISIC_0028041.json",
+            "Datasets/study_annotations/participant39/ISIC_0028041.json",
+            "Datasets/study_annotations/participant49/ISIC_0028041.json",
+            "Datasets/study_annotations/participant8/ISIC_0028041.json",
+            "Datasets/study_annotations/participant82/ISIC_0028041.json",
+            "Datasets/study_annotations/participant94/ISIC_0028041.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028098",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028098.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028098.json",
+            "Datasets/ground_truth_annotations/annotator3/ISIC_0028098.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant109/ISIC_0028098.json",
+            "Datasets/study_annotations/participant22/ISIC_0028098.json",
+            "Datasets/study_annotations/participant3/ISIC_0028098.json",
+            "Datasets/study_annotations/participant42/ISIC_0028098.json",
+            "Datasets/study_annotations/participant66/ISIC_0028098.json",
+            "Datasets/study_annotations/participant80/ISIC_0028098.json",
+            "Datasets/study_annotations/participant90/ISIC_0028098.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028103",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028103.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028103.json",
+            "Datasets/ground_truth_annotations/annotator3/ISIC_0028103.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant1/ISIC_0028103.json",
+            "Datasets/study_annotations/participant104/ISIC_0028103.json",
+            "Datasets/study_annotations/participant28/ISIC_0028103.json",
+            "Datasets/study_annotations/participant35/ISIC_0028103.json",
+            "Datasets/study_annotations/participant50/ISIC_0028103.json",
+            "Datasets/study_annotations/participant54/ISIC_0028103.json",
+            "Datasets/study_annotations/participant73/ISIC_0028103.json",
+            "Datasets/study_annotations/participant78/ISIC_0028103.json",
+            "Datasets/study_annotations/participant83/ISIC_0028103.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028118",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028118.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028118.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0028118.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant109/ISIC_0028118.json",
+            "Datasets/study_annotations/participant22/ISIC_0028118.json",
+            "Datasets/study_annotations/participant3/ISIC_0028118.json",
+            "Datasets/study_annotations/participant42/ISIC_0028118.json",
+            "Datasets/study_annotations/participant66/ISIC_0028118.json",
+            "Datasets/study_annotations/participant80/ISIC_0028118.json",
+            "Datasets/study_annotations/participant90/ISIC_0028118.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028173",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028173.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028173.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0028173.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant109/ISIC_0028173.json",
+            "Datasets/study_annotations/participant22/ISIC_0028173.json",
+            "Datasets/study_annotations/participant3/ISIC_0028173.json",
+            "Datasets/study_annotations/participant42/ISIC_0028173.json",
+            "Datasets/study_annotations/participant66/ISIC_0028173.json",
+            "Datasets/study_annotations/participant80/ISIC_0028173.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028179",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028179.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028179.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0028179.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant101/ISIC_0028179.json",
+            "Datasets/study_annotations/participant111/ISIC_0028179.json",
+            "Datasets/study_annotations/participant16/ISIC_0028179.json",
+            "Datasets/study_annotations/participant2/ISIC_0028179.json",
+            "Datasets/study_annotations/participant27/ISIC_0028179.json",
+            "Datasets/study_annotations/participant59/ISIC_0028179.json",
+            "Datasets/study_annotations/participant60/ISIC_0028179.json",
+            "Datasets/study_annotations/participant69/ISIC_0028179.json",
+            "Datasets/study_annotations/participant96/ISIC_0028179.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028205",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028205.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028205.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0028205.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant109/ISIC_0028205.json",
+            "Datasets/study_annotations/participant22/ISIC_0028205.json",
+            "Datasets/study_annotations/participant3/ISIC_0028205.json",
+            "Datasets/study_annotations/participant42/ISIC_0028205.json",
+            "Datasets/study_annotations/participant66/ISIC_0028205.json",
+            "Datasets/study_annotations/participant80/ISIC_0028205.json",
+            "Datasets/study_annotations/participant90/ISIC_0028205.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028281",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028281.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028281.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0028281.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant14/ISIC_0028281.json",
+            "Datasets/study_annotations/participant18/ISIC_0028281.json",
+            "Datasets/study_annotations/participant31/ISIC_0028281.json",
+            "Datasets/study_annotations/participant56/ISIC_0028281.json",
+            "Datasets/study_annotations/participant70/ISIC_0028281.json",
+            "Datasets/study_annotations/participant79/ISIC_0028281.json",
+            "Datasets/study_annotations/participant87/ISIC_0028281.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028287",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028287.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028287.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0028287.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant102/ISIC_0028287.json",
+            "Datasets/study_annotations/participant107/ISIC_0028287.json",
+            "Datasets/study_annotations/participant23/ISIC_0028287.json",
+            "Datasets/study_annotations/participant39/ISIC_0028287.json",
+            "Datasets/study_annotations/participant49/ISIC_0028287.json",
+            "Datasets/study_annotations/participant8/ISIC_0028287.json",
+            "Datasets/study_annotations/participant82/ISIC_0028287.json",
+            "Datasets/study_annotations/participant94/ISIC_0028287.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028352",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028352.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028352.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0028352.json",
+            "Datasets/ground_truth_annotations/annotator14/ISIC_0028352.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant112/ISIC_0028352.json",
+            "Datasets/study_annotations/participant15/ISIC_0028352.json",
+            "Datasets/study_annotations/participant33/ISIC_0028352.json",
+            "Datasets/study_annotations/participant41/ISIC_0028352.json",
+            "Datasets/study_annotations/participant45/ISIC_0028352.json",
+            "Datasets/study_annotations/participant76/ISIC_0028352.json",
+            "Datasets/study_annotations/participant98/ISIC_0028352.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028357",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028357.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028357.json",
+            "Datasets/ground_truth_annotations/annotator3/ISIC_0028357.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant102/ISIC_0028357.json",
+            "Datasets/study_annotations/participant107/ISIC_0028357.json",
+            "Datasets/study_annotations/participant23/ISIC_0028357.json",
+            "Datasets/study_annotations/participant39/ISIC_0028357.json",
+            "Datasets/study_annotations/participant49/ISIC_0028357.json",
+            "Datasets/study_annotations/participant8/ISIC_0028357.json",
+            "Datasets/study_annotations/participant82/ISIC_0028357.json",
+            "Datasets/study_annotations/participant94/ISIC_0028357.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028361",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028361.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028361.json",
+            "Datasets/ground_truth_annotations/annotator4/ISIC_0028361.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant11/ISIC_0028361.json",
+            "Datasets/study_annotations/participant24/ISIC_0028361.json",
+            "Datasets/study_annotations/participant36/ISIC_0028361.json",
+            "Datasets/study_annotations/participant43/ISIC_0028361.json",
+            "Datasets/study_annotations/participant88/ISIC_0028361.json",
+            "Datasets/study_annotations/participant92/ISIC_0028361.json",
+            "Datasets/study_annotations/participant99/ISIC_0028361.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028494",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028494.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028494.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0028494.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant109/ISIC_0028494.json",
+            "Datasets/study_annotations/participant22/ISIC_0028494.json",
+            "Datasets/study_annotations/participant3/ISIC_0028494.json",
+            "Datasets/study_annotations/participant42/ISIC_0028494.json",
+            "Datasets/study_annotations/participant66/ISIC_0028494.json",
+            "Datasets/study_annotations/participant80/ISIC_0028494.json",
+            "Datasets/study_annotations/participant90/ISIC_0028494.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028510",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028510.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028510.json",
+            "Datasets/ground_truth_annotations/annotator12/ISIC_0028510.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant11/ISIC_0028510.json",
+            "Datasets/study_annotations/participant24/ISIC_0028510.json",
+            "Datasets/study_annotations/participant36/ISIC_0028510.json",
+            "Datasets/study_annotations/participant43/ISIC_0028510.json",
+            "Datasets/study_annotations/participant88/ISIC_0028510.json",
+            "Datasets/study_annotations/participant92/ISIC_0028510.json",
+            "Datasets/study_annotations/participant99/ISIC_0028510.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028544",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028544.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028544.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0028544.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant10/ISIC_0028544.json",
+            "Datasets/study_annotations/participant103/ISIC_0028544.json",
+            "Datasets/study_annotations/participant113/ISIC_0028544.json",
+            "Datasets/study_annotations/participant21/ISIC_0028544.json",
+            "Datasets/study_annotations/participant25/ISIC_0028544.json",
+            "Datasets/study_annotations/participant44/ISIC_0028544.json",
+            "Datasets/study_annotations/participant48/ISIC_0028544.json",
+            "Datasets/study_annotations/participant51/ISIC_0028544.json",
+            "Datasets/study_annotations/participant84/ISIC_0028544.json",
+            "Datasets/study_annotations/participant95/ISIC_0028544.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028588",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028588.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028588.json",
+            "Datasets/ground_truth_annotations/annotator3/ISIC_0028588.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant19/ISIC_0028588.json",
+            "Datasets/study_annotations/participant47/ISIC_0028588.json",
+            "Datasets/study_annotations/participant5/ISIC_0028588.json",
+            "Datasets/study_annotations/participant72/ISIC_0028588.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028592",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028592.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028592.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0028592.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant102/ISIC_0028592.json",
+            "Datasets/study_annotations/participant107/ISIC_0028592.json",
+            "Datasets/study_annotations/participant23/ISIC_0028592.json",
+            "Datasets/study_annotations/participant39/ISIC_0028592.json",
+            "Datasets/study_annotations/participant49/ISIC_0028592.json",
+            "Datasets/study_annotations/participant8/ISIC_0028592.json",
+            "Datasets/study_annotations/participant82/ISIC_0028592.json",
+            "Datasets/study_annotations/participant94/ISIC_0028592.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028655",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028655.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028655.json",
+            "Datasets/ground_truth_annotations/annotator4/ISIC_0028655.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant14/ISIC_0028655.json",
+            "Datasets/study_annotations/participant18/ISIC_0028655.json",
+            "Datasets/study_annotations/participant31/ISIC_0028655.json",
+            "Datasets/study_annotations/participant56/ISIC_0028655.json",
+            "Datasets/study_annotations/participant70/ISIC_0028655.json",
+            "Datasets/study_annotations/participant79/ISIC_0028655.json",
+            "Datasets/study_annotations/participant87/ISIC_0028655.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028709",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028709.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028709.json",
+            "Datasets/ground_truth_annotations/annotator3/ISIC_0028709.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant103/ISIC_0028709.json",
+            "Datasets/study_annotations/participant113/ISIC_0028709.json",
+            "Datasets/study_annotations/participant25/ISIC_0028709.json",
+            "Datasets/study_annotations/participant44/ISIC_0028709.json",
+            "Datasets/study_annotations/participant48/ISIC_0028709.json",
+            "Datasets/study_annotations/participant51/ISIC_0028709.json",
+            "Datasets/study_annotations/participant84/ISIC_0028709.json",
+            "Datasets/study_annotations/participant95/ISIC_0028709.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028744",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028744.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028744.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0028744.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant110/ISIC_0028744.json",
+            "Datasets/study_annotations/participant13/ISIC_0028744.json",
+            "Datasets/study_annotations/participant17/ISIC_0028744.json",
+            "Datasets/study_annotations/participant26/ISIC_0028744.json",
+            "Datasets/study_annotations/participant32/ISIC_0028744.json",
+            "Datasets/study_annotations/participant40/ISIC_0028744.json",
+            "Datasets/study_annotations/participant52/ISIC_0028744.json",
+            "Datasets/study_annotations/participant67/ISIC_0028744.json",
+            "Datasets/study_annotations/participant85/ISIC_0028744.json",
+            "Datasets/study_annotations/participant93/ISIC_0028744.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028757",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028757.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028757.json",
+            "Datasets/ground_truth_annotations/annotator7/ISIC_0028757.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant100/ISIC_0028757.json",
+            "Datasets/study_annotations/participant20/ISIC_0028757.json",
+            "Datasets/study_annotations/participant29/ISIC_0028757.json",
+            "Datasets/study_annotations/participant34/ISIC_0028757.json",
+            "Datasets/study_annotations/participant55/ISIC_0028757.json",
+            "Datasets/study_annotations/participant57/ISIC_0028757.json",
+            "Datasets/study_annotations/participant61/ISIC_0028757.json",
+            "Datasets/study_annotations/participant68/ISIC_0028757.json",
+            "Datasets/study_annotations/participant75/ISIC_0028757.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028825",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028825.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028825.json",
+            "Datasets/ground_truth_annotations/annotator12/ISIC_0028825.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant112/ISIC_0028825.json",
+            "Datasets/study_annotations/participant15/ISIC_0028825.json",
+            "Datasets/study_annotations/participant33/ISIC_0028825.json",
+            "Datasets/study_annotations/participant41/ISIC_0028825.json",
+            "Datasets/study_annotations/participant45/ISIC_0028825.json",
+            "Datasets/study_annotations/participant76/ISIC_0028825.json",
+            "Datasets/study_annotations/participant98/ISIC_0028825.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028868",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028868.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028868.json",
+            "Datasets/ground_truth_annotations/annotator7/ISIC_0028868.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant101/ISIC_0028868.json",
+            "Datasets/study_annotations/participant111/ISIC_0028868.json",
+            "Datasets/study_annotations/participant16/ISIC_0028868.json",
+            "Datasets/study_annotations/participant2/ISIC_0028868.json",
+            "Datasets/study_annotations/participant27/ISIC_0028868.json",
+            "Datasets/study_annotations/participant38/ISIC_0028868.json",
+            "Datasets/study_annotations/participant59/ISIC_0028868.json",
+            "Datasets/study_annotations/participant60/ISIC_0028868.json",
+            "Datasets/study_annotations/participant69/ISIC_0028868.json",
+            "Datasets/study_annotations/participant96/ISIC_0028868.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0028960",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0028960.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0028960.json",
+            "Datasets/ground_truth_annotations/annotator7/ISIC_0028960.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant19/ISIC_0028960.json",
+            "Datasets/study_annotations/participant47/ISIC_0028960.json",
+            "Datasets/study_annotations/participant5/ISIC_0028960.json",
+            "Datasets/study_annotations/participant72/ISIC_0028960.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0029109",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0029109.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0029109.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0029109.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant19/ISIC_0029109.json",
+            "Datasets/study_annotations/participant47/ISIC_0029109.json",
+            "Datasets/study_annotations/participant5/ISIC_0029109.json",
+            "Datasets/study_annotations/participant72/ISIC_0029109.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0029146",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0029146.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0029146.json",
+            "Datasets/ground_truth_annotations/annotator10/ISIC_0029146.json",
+            "Datasets/ground_truth_annotations/annotator13/ISIC_0029146.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant14/ISIC_0029146.json",
+            "Datasets/study_annotations/participant18/ISIC_0029146.json",
+            "Datasets/study_annotations/participant31/ISIC_0029146.json",
+            "Datasets/study_annotations/participant56/ISIC_0029146.json",
+            "Datasets/study_annotations/participant70/ISIC_0029146.json",
+            "Datasets/study_annotations/participant79/ISIC_0029146.json",
+            "Datasets/study_annotations/participant87/ISIC_0029146.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0029223",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0029223.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0029223.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0029223.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant10/ISIC_0029223.json",
+            "Datasets/study_annotations/participant103/ISIC_0029223.json",
+            "Datasets/study_annotations/participant113/ISIC_0029223.json",
+            "Datasets/study_annotations/participant21/ISIC_0029223.json",
+            "Datasets/study_annotations/participant25/ISIC_0029223.json",
+            "Datasets/study_annotations/participant44/ISIC_0029223.json",
+            "Datasets/study_annotations/participant48/ISIC_0029223.json",
+            "Datasets/study_annotations/participant51/ISIC_0029223.json",
+            "Datasets/study_annotations/participant84/ISIC_0029223.json",
+            "Datasets/study_annotations/participant95/ISIC_0029223.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0029344",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0029344.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0029344.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0029344.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant101/ISIC_0029344.json",
+            "Datasets/study_annotations/participant111/ISIC_0029344.json",
+            "Datasets/study_annotations/participant16/ISIC_0029344.json",
+            "Datasets/study_annotations/participant2/ISIC_0029344.json",
+            "Datasets/study_annotations/participant27/ISIC_0029344.json",
+            "Datasets/study_annotations/participant38/ISIC_0029344.json",
+            "Datasets/study_annotations/participant59/ISIC_0029344.json",
+            "Datasets/study_annotations/participant60/ISIC_0029344.json",
+            "Datasets/study_annotations/participant69/ISIC_0029344.json",
+            "Datasets/study_annotations/participant96/ISIC_0029344.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0029397",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0029397.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0029397.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0029397.json",
+            "Datasets/ground_truth_annotations/annotator14/ISIC_0029397.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant105/ISIC_0029397.json",
+            "Datasets/study_annotations/participant106/ISIC_0029397.json",
+            "Datasets/study_annotations/participant37/ISIC_0029397.json",
+            "Datasets/study_annotations/participant63/ISIC_0029397.json",
+            "Datasets/study_annotations/participant81/ISIC_0029397.json",
+            "Datasets/study_annotations/participant89/ISIC_0029397.json",
+            "Datasets/study_annotations/participant9/ISIC_0029397.json",
+            "Datasets/study_annotations/participant91/ISIC_0029397.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0029534",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0029534.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0029534.json",
+            "Datasets/ground_truth_annotations/annotator12/ISIC_0029534.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant19/ISIC_0029534.json",
+            "Datasets/study_annotations/participant47/ISIC_0029534.json",
+            "Datasets/study_annotations/participant5/ISIC_0029534.json",
+            "Datasets/study_annotations/participant72/ISIC_0029534.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0029570",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0029570.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0029570.json",
+            "Datasets/ground_truth_annotations/annotator10/ISIC_0029570.json",
+            "Datasets/ground_truth_annotations/annotator13/ISIC_0029570.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant10/ISIC_0029570.json",
+            "Datasets/study_annotations/participant103/ISIC_0029570.json",
+            "Datasets/study_annotations/participant113/ISIC_0029570.json",
+            "Datasets/study_annotations/participant21/ISIC_0029570.json",
+            "Datasets/study_annotations/participant25/ISIC_0029570.json",
+            "Datasets/study_annotations/participant44/ISIC_0029570.json",
+            "Datasets/study_annotations/participant48/ISIC_0029570.json",
+            "Datasets/study_annotations/participant51/ISIC_0029570.json",
+            "Datasets/study_annotations/participant84/ISIC_0029570.json",
+            "Datasets/study_annotations/participant95/ISIC_0029570.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0029705",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0029705.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0029705.json",
+            "Datasets/ground_truth_annotations/annotator7/ISIC_0029705.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant102/ISIC_0029705.json",
+            "Datasets/study_annotations/participant107/ISIC_0029705.json",
+            "Datasets/study_annotations/participant23/ISIC_0029705.json",
+            "Datasets/study_annotations/participant39/ISIC_0029705.json",
+            "Datasets/study_annotations/participant49/ISIC_0029705.json",
+            "Datasets/study_annotations/participant8/ISIC_0029705.json",
+            "Datasets/study_annotations/participant82/ISIC_0029705.json",
+            "Datasets/study_annotations/participant94/ISIC_0029705.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0029780",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0029780.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0029780.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0029780.json",
+            "Datasets/ground_truth_annotations/annotator14/ISIC_0029780.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant110/ISIC_0029780.json",
+            "Datasets/study_annotations/participant13/ISIC_0029780.json",
+            "Datasets/study_annotations/participant17/ISIC_0029780.json",
+            "Datasets/study_annotations/participant26/ISIC_0029780.json",
+            "Datasets/study_annotations/participant32/ISIC_0029780.json",
+            "Datasets/study_annotations/participant40/ISIC_0029780.json",
+            "Datasets/study_annotations/participant52/ISIC_0029780.json",
+            "Datasets/study_annotations/participant67/ISIC_0029780.json",
+            "Datasets/study_annotations/participant85/ISIC_0029780.json",
+            "Datasets/study_annotations/participant93/ISIC_0029780.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0029859",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0029859.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0029859.json",
+            "Datasets/ground_truth_annotations/annotator12/ISIC_0029859.json",
+            "Datasets/ground_truth_annotations/annotator5/ISIC_0029859.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant112/ISIC_0029859.json",
+            "Datasets/study_annotations/participant15/ISIC_0029859.json",
+            "Datasets/study_annotations/participant33/ISIC_0029859.json",
+            "Datasets/study_annotations/participant41/ISIC_0029859.json",
+            "Datasets/study_annotations/participant45/ISIC_0029859.json",
+            "Datasets/study_annotations/participant76/ISIC_0029859.json",
+            "Datasets/study_annotations/participant98/ISIC_0029859.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0029904",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0029904.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0029904.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0029904.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant110/ISIC_0029904.json",
+            "Datasets/study_annotations/participant13/ISIC_0029904.json",
+            "Datasets/study_annotations/participant17/ISIC_0029904.json",
+            "Datasets/study_annotations/participant26/ISIC_0029904.json",
+            "Datasets/study_annotations/participant32/ISIC_0029904.json",
+            "Datasets/study_annotations/participant40/ISIC_0029904.json",
+            "Datasets/study_annotations/participant52/ISIC_0029904.json",
+            "Datasets/study_annotations/participant67/ISIC_0029904.json",
+            "Datasets/study_annotations/participant85/ISIC_0029904.json",
+            "Datasets/study_annotations/participant93/ISIC_0029904.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030032",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030032.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030032.json",
+            "Datasets/ground_truth_annotations/annotator4/ISIC_0030032.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant109/ISIC_0030032.json",
+            "Datasets/study_annotations/participant22/ISIC_0030032.json",
+            "Datasets/study_annotations/participant3/ISIC_0030032.json",
+            "Datasets/study_annotations/participant42/ISIC_0030032.json",
+            "Datasets/study_annotations/participant66/ISIC_0030032.json",
+            "Datasets/study_annotations/participant80/ISIC_0030032.json",
+            "Datasets/study_annotations/participant90/ISIC_0030032.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030034",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030034.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030034.json",
+            "Datasets/ground_truth_annotations/annotator3/ISIC_0030034.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant12/ISIC_0030034.json",
+            "Datasets/study_annotations/participant46/ISIC_0030034.json",
+            "Datasets/study_annotations/participant62/ISIC_0030034.json",
+            "Datasets/study_annotations/participant65/ISIC_0030034.json",
+            "Datasets/study_annotations/participant7/ISIC_0030034.json",
+            "Datasets/study_annotations/participant74/ISIC_0030034.json",
+            "Datasets/study_annotations/participant86/ISIC_0030034.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030080",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030080.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030080.json",
+            "Datasets/ground_truth_annotations/annotator4/ISIC_0030080.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant12/ISIC_0030080.json",
+            "Datasets/study_annotations/participant46/ISIC_0030080.json",
+            "Datasets/study_annotations/participant62/ISIC_0030080.json",
+            "Datasets/study_annotations/participant65/ISIC_0030080.json",
+            "Datasets/study_annotations/participant7/ISIC_0030080.json",
+            "Datasets/study_annotations/participant74/ISIC_0030080.json",
+            "Datasets/study_annotations/participant86/ISIC_0030080.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030082",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030082.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030082.json",
+            "Datasets/ground_truth_annotations/annotator12/ISIC_0030082.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant11/ISIC_0030082.json",
+            "Datasets/study_annotations/participant24/ISIC_0030082.json",
+            "Datasets/study_annotations/participant36/ISIC_0030082.json",
+            "Datasets/study_annotations/participant43/ISIC_0030082.json",
+            "Datasets/study_annotations/participant88/ISIC_0030082.json",
+            "Datasets/study_annotations/participant92/ISIC_0030082.json",
+            "Datasets/study_annotations/participant99/ISIC_0030082.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030219",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030219.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030219.json",
+            "Datasets/ground_truth_annotations/annotator10/ISIC_0030219.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant100/ISIC_0030219.json",
+            "Datasets/study_annotations/participant108/ISIC_0030219.json",
+            "Datasets/study_annotations/participant20/ISIC_0030219.json",
+            "Datasets/study_annotations/participant29/ISIC_0030219.json",
+            "Datasets/study_annotations/participant34/ISIC_0030219.json",
+            "Datasets/study_annotations/participant55/ISIC_0030219.json",
+            "Datasets/study_annotations/participant57/ISIC_0030219.json",
+            "Datasets/study_annotations/participant61/ISIC_0030219.json",
+            "Datasets/study_annotations/participant68/ISIC_0030219.json",
+            "Datasets/study_annotations/participant75/ISIC_0030219.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030366",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030366.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030366.json",
+            "Datasets/ground_truth_annotations/annotator7/ISIC_0030366.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant30/ISIC_0030366.json",
+            "Datasets/study_annotations/participant4/ISIC_0030366.json",
+            "Datasets/study_annotations/participant53/ISIC_0030366.json",
+            "Datasets/study_annotations/participant58/ISIC_0030366.json",
+            "Datasets/study_annotations/participant6/ISIC_0030366.json",
+            "Datasets/study_annotations/participant64/ISIC_0030366.json",
+            "Datasets/study_annotations/participant71/ISIC_0030366.json",
+            "Datasets/study_annotations/participant77/ISIC_0030366.json",
+            "Datasets/study_annotations/participant97/ISIC_0030366.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030378",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030378.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030378.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0030378.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant10/ISIC_0030378.json",
+            "Datasets/study_annotations/participant103/ISIC_0030378.json",
+            "Datasets/study_annotations/participant113/ISIC_0030378.json",
+            "Datasets/study_annotations/participant21/ISIC_0030378.json",
+            "Datasets/study_annotations/participant25/ISIC_0030378.json",
+            "Datasets/study_annotations/participant44/ISIC_0030378.json",
+            "Datasets/study_annotations/participant48/ISIC_0030378.json",
+            "Datasets/study_annotations/participant51/ISIC_0030378.json",
+            "Datasets/study_annotations/participant84/ISIC_0030378.json",
+            "Datasets/study_annotations/participant95/ISIC_0030378.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030423",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030423.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030423.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0030423.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant101/ISIC_0030423.json",
+            "Datasets/study_annotations/participant111/ISIC_0030423.json",
+            "Datasets/study_annotations/participant16/ISIC_0030423.json",
+            "Datasets/study_annotations/participant2/ISIC_0030423.json",
+            "Datasets/study_annotations/participant27/ISIC_0030423.json",
+            "Datasets/study_annotations/participant38/ISIC_0030423.json",
+            "Datasets/study_annotations/participant59/ISIC_0030423.json",
+            "Datasets/study_annotations/participant60/ISIC_0030423.json",
+            "Datasets/study_annotations/participant69/ISIC_0030423.json",
+            "Datasets/study_annotations/participant96/ISIC_0030423.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030445",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030445.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030445.json",
+            "Datasets/ground_truth_annotations/annotator10/ISIC_0030445.json",
+            "Datasets/ground_truth_annotations/annotator13/ISIC_0030445.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant30/ISIC_0030445.json",
+            "Datasets/study_annotations/participant53/ISIC_0030445.json",
+            "Datasets/study_annotations/participant58/ISIC_0030445.json",
+            "Datasets/study_annotations/participant6/ISIC_0030445.json",
+            "Datasets/study_annotations/participant64/ISIC_0030445.json",
+            "Datasets/study_annotations/participant71/ISIC_0030445.json",
+            "Datasets/study_annotations/participant77/ISIC_0030445.json",
+            "Datasets/study_annotations/participant97/ISIC_0030445.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030486",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030486.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030486.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0030486.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant110/ISIC_0030486.json",
+            "Datasets/study_annotations/participant13/ISIC_0030486.json",
+            "Datasets/study_annotations/participant17/ISIC_0030486.json",
+            "Datasets/study_annotations/participant26/ISIC_0030486.json",
+            "Datasets/study_annotations/participant32/ISIC_0030486.json",
+            "Datasets/study_annotations/participant40/ISIC_0030486.json",
+            "Datasets/study_annotations/participant52/ISIC_0030486.json",
+            "Datasets/study_annotations/participant67/ISIC_0030486.json",
+            "Datasets/study_annotations/participant85/ISIC_0030486.json",
+            "Datasets/study_annotations/participant93/ISIC_0030486.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030507",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030507.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030507.json",
+            "Datasets/ground_truth_annotations/annotator12/ISIC_0030507.json",
+            "Datasets/ground_truth_annotations/annotator5/ISIC_0030507.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant100/ISIC_0030507.json",
+            "Datasets/study_annotations/participant108/ISIC_0030507.json",
+            "Datasets/study_annotations/participant20/ISIC_0030507.json",
+            "Datasets/study_annotations/participant29/ISIC_0030507.json",
+            "Datasets/study_annotations/participant34/ISIC_0030507.json",
+            "Datasets/study_annotations/participant55/ISIC_0030507.json",
+            "Datasets/study_annotations/participant57/ISIC_0030507.json",
+            "Datasets/study_annotations/participant61/ISIC_0030507.json",
+            "Datasets/study_annotations/participant68/ISIC_0030507.json",
+            "Datasets/study_annotations/participant75/ISIC_0030507.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030564",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030564.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030564.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant12/ISIC_0030564.json",
+            "Datasets/study_annotations/participant46/ISIC_0030564.json",
+            "Datasets/study_annotations/participant62/ISIC_0030564.json",
+            "Datasets/study_annotations/participant65/ISIC_0030564.json",
+            "Datasets/study_annotations/participant7/ISIC_0030564.json",
+            "Datasets/study_annotations/participant74/ISIC_0030564.json",
+            "Datasets/study_annotations/participant86/ISIC_0030564.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030689",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030689.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030689.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0030689.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant109/ISIC_0030689.json",
+            "Datasets/study_annotations/participant22/ISIC_0030689.json",
+            "Datasets/study_annotations/participant3/ISIC_0030689.json",
+            "Datasets/study_annotations/participant42/ISIC_0030689.json",
+            "Datasets/study_annotations/participant66/ISIC_0030689.json",
+            "Datasets/study_annotations/participant80/ISIC_0030689.json",
+            "Datasets/study_annotations/participant90/ISIC_0030689.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030741",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030741.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030741.json",
+            "Datasets/ground_truth_annotations/annotator10/ISIC_0030741.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant100/ISIC_0030741.json",
+            "Datasets/study_annotations/participant108/ISIC_0030741.json",
+            "Datasets/study_annotations/participant20/ISIC_0030741.json",
+            "Datasets/study_annotations/participant29/ISIC_0030741.json",
+            "Datasets/study_annotations/participant34/ISIC_0030741.json",
+            "Datasets/study_annotations/participant55/ISIC_0030741.json",
+            "Datasets/study_annotations/participant57/ISIC_0030741.json",
+            "Datasets/study_annotations/participant61/ISIC_0030741.json",
+            "Datasets/study_annotations/participant68/ISIC_0030741.json",
+            "Datasets/study_annotations/participant75/ISIC_0030741.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030756",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030756.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030756.json",
+            "Datasets/ground_truth_annotations/annotator4/ISIC_0030756.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant102/ISIC_0030756.json",
+            "Datasets/study_annotations/participant107/ISIC_0030756.json",
+            "Datasets/study_annotations/participant23/ISIC_0030756.json",
+            "Datasets/study_annotations/participant39/ISIC_0030756.json",
+            "Datasets/study_annotations/participant49/ISIC_0030756.json",
+            "Datasets/study_annotations/participant8/ISIC_0030756.json",
+            "Datasets/study_annotations/participant82/ISIC_0030756.json",
+            "Datasets/study_annotations/participant94/ISIC_0030756.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030786",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030786.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030786.json",
+            "Datasets/ground_truth_annotations/annotator6/ISIC_0030786.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant11/ISIC_0030786.json",
+            "Datasets/study_annotations/participant24/ISIC_0030786.json",
+            "Datasets/study_annotations/participant36/ISIC_0030786.json",
+            "Datasets/study_annotations/participant43/ISIC_0030786.json",
+            "Datasets/study_annotations/participant88/ISIC_0030786.json",
+            "Datasets/study_annotations/participant92/ISIC_0030786.json",
+            "Datasets/study_annotations/participant99/ISIC_0030786.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030796",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030796.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030796.json",
+            "Datasets/ground_truth_annotations/annotator10/ISIC_0030796.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant1/ISIC_0030796.json",
+            "Datasets/study_annotations/participant104/ISIC_0030796.json",
+            "Datasets/study_annotations/participant28/ISIC_0030796.json",
+            "Datasets/study_annotations/participant35/ISIC_0030796.json",
+            "Datasets/study_annotations/participant50/ISIC_0030796.json",
+            "Datasets/study_annotations/participant54/ISIC_0030796.json",
+            "Datasets/study_annotations/participant73/ISIC_0030796.json",
+            "Datasets/study_annotations/participant78/ISIC_0030796.json",
+            "Datasets/study_annotations/participant83/ISIC_0030796.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030798",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030798.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030798.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0030798.json",
+            "Datasets/ground_truth_annotations/annotator14/ISIC_0030798.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant101/ISIC_0030798.json",
+            "Datasets/study_annotations/participant111/ISIC_0030798.json",
+            "Datasets/study_annotations/participant16/ISIC_0030798.json",
+            "Datasets/study_annotations/participant2/ISIC_0030798.json",
+            "Datasets/study_annotations/participant27/ISIC_0030798.json",
+            "Datasets/study_annotations/participant38/ISIC_0030798.json",
+            "Datasets/study_annotations/participant59/ISIC_0030798.json",
+            "Datasets/study_annotations/participant60/ISIC_0030798.json",
+            "Datasets/study_annotations/participant69/ISIC_0030798.json",
+            "Datasets/study_annotations/participant96/ISIC_0030798.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030809",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030809.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030809.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0030809.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant110/ISIC_0030809.json",
+            "Datasets/study_annotations/participant13/ISIC_0030809.json",
+            "Datasets/study_annotations/participant17/ISIC_0030809.json",
+            "Datasets/study_annotations/participant26/ISIC_0030809.json",
+            "Datasets/study_annotations/participant32/ISIC_0030809.json",
+            "Datasets/study_annotations/participant40/ISIC_0030809.json",
+            "Datasets/study_annotations/participant52/ISIC_0030809.json",
+            "Datasets/study_annotations/participant67/ISIC_0030809.json",
+            "Datasets/study_annotations/participant85/ISIC_0030809.json",
+            "Datasets/study_annotations/participant93/ISIC_0030809.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030810",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030810.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030810.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0030810.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant1/ISIC_0030810.json",
+            "Datasets/study_annotations/participant104/ISIC_0030810.json",
+            "Datasets/study_annotations/participant28/ISIC_0030810.json",
+            "Datasets/study_annotations/participant35/ISIC_0030810.json",
+            "Datasets/study_annotations/participant50/ISIC_0030810.json",
+            "Datasets/study_annotations/participant54/ISIC_0030810.json",
+            "Datasets/study_annotations/participant73/ISIC_0030810.json",
+            "Datasets/study_annotations/participant83/ISIC_0030810.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030818",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030818.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030818.json",
+            "Datasets/ground_truth_annotations/annotator4/ISIC_0030818.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant14/ISIC_0030818.json",
+            "Datasets/study_annotations/participant18/ISIC_0030818.json",
+            "Datasets/study_annotations/participant31/ISIC_0030818.json",
+            "Datasets/study_annotations/participant56/ISIC_0030818.json",
+            "Datasets/study_annotations/participant70/ISIC_0030818.json",
+            "Datasets/study_annotations/participant79/ISIC_0030818.json",
+            "Datasets/study_annotations/participant87/ISIC_0030818.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030824",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030824.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030824.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0030824.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant110/ISIC_0030824.json",
+            "Datasets/study_annotations/participant13/ISIC_0030824.json",
+            "Datasets/study_annotations/participant17/ISIC_0030824.json",
+            "Datasets/study_annotations/participant26/ISIC_0030824.json",
+            "Datasets/study_annotations/participant32/ISIC_0030824.json",
+            "Datasets/study_annotations/participant40/ISIC_0030824.json",
+            "Datasets/study_annotations/participant52/ISIC_0030824.json",
+            "Datasets/study_annotations/participant67/ISIC_0030824.json",
+            "Datasets/study_annotations/participant85/ISIC_0030824.json",
+            "Datasets/study_annotations/participant93/ISIC_0030824.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030839",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030839.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030839.json",
+            "Datasets/ground_truth_annotations/annotator12/ISIC_0030839.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant14/ISIC_0030839.json",
+            "Datasets/study_annotations/participant18/ISIC_0030839.json",
+            "Datasets/study_annotations/participant31/ISIC_0030839.json",
+            "Datasets/study_annotations/participant56/ISIC_0030839.json",
+            "Datasets/study_annotations/participant70/ISIC_0030839.json",
+            "Datasets/study_annotations/participant79/ISIC_0030839.json",
+            "Datasets/study_annotations/participant87/ISIC_0030839.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030967",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030967.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030967.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0030967.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant101/ISIC_0030967.json",
+            "Datasets/study_annotations/participant111/ISIC_0030967.json",
+            "Datasets/study_annotations/participant16/ISIC_0030967.json",
+            "Datasets/study_annotations/participant2/ISIC_0030967.json",
+            "Datasets/study_annotations/participant27/ISIC_0030967.json",
+            "Datasets/study_annotations/participant38/ISIC_0030967.json",
+            "Datasets/study_annotations/participant59/ISIC_0030967.json",
+            "Datasets/study_annotations/participant60/ISIC_0030967.json",
+            "Datasets/study_annotations/participant69/ISIC_0030967.json",
+            "Datasets/study_annotations/participant96/ISIC_0030967.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0030970",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0030970.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0030970.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0030970.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant11/ISIC_0030970.json",
+            "Datasets/study_annotations/participant24/ISIC_0030970.json",
+            "Datasets/study_annotations/participant36/ISIC_0030970.json",
+            "Datasets/study_annotations/participant43/ISIC_0030970.json",
+            "Datasets/study_annotations/participant88/ISIC_0030970.json",
+            "Datasets/study_annotations/participant92/ISIC_0030970.json",
+            "Datasets/study_annotations/participant99/ISIC_0030970.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0031046",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0031046.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0031046.json",
+            "Datasets/ground_truth_annotations/annotator10/ISIC_0031046.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant14/ISIC_0031046.json",
+            "Datasets/study_annotations/participant18/ISIC_0031046.json",
+            "Datasets/study_annotations/participant31/ISIC_0031046.json",
+            "Datasets/study_annotations/participant56/ISIC_0031046.json",
+            "Datasets/study_annotations/participant70/ISIC_0031046.json",
+            "Datasets/study_annotations/participant79/ISIC_0031046.json",
+            "Datasets/study_annotations/participant87/ISIC_0031046.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0031092",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0031092.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0031092.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0031092.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant105/ISIC_0031092.json",
+            "Datasets/study_annotations/participant106/ISIC_0031092.json",
+            "Datasets/study_annotations/participant37/ISIC_0031092.json",
+            "Datasets/study_annotations/participant63/ISIC_0031092.json",
+            "Datasets/study_annotations/participant81/ISIC_0031092.json",
+            "Datasets/study_annotations/participant89/ISIC_0031092.json",
+            "Datasets/study_annotations/participant9/ISIC_0031092.json",
+            "Datasets/study_annotations/participant91/ISIC_0031092.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0031233",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0031233.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0031233.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0031233.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant1/ISIC_0031233.json",
+            "Datasets/study_annotations/participant104/ISIC_0031233.json",
+            "Datasets/study_annotations/participant28/ISIC_0031233.json",
+            "Datasets/study_annotations/participant35/ISIC_0031233.json",
+            "Datasets/study_annotations/participant50/ISIC_0031233.json",
+            "Datasets/study_annotations/participant54/ISIC_0031233.json",
+            "Datasets/study_annotations/participant73/ISIC_0031233.json",
+            "Datasets/study_annotations/participant78/ISIC_0031233.json",
+            "Datasets/study_annotations/participant83/ISIC_0031233.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0031247",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0031247.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0031247.json",
+            "Datasets/ground_truth_annotations/annotator12/ISIC_0031247.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant102/ISIC_0031247.json",
+            "Datasets/study_annotations/participant107/ISIC_0031247.json",
+            "Datasets/study_annotations/participant23/ISIC_0031247.json",
+            "Datasets/study_annotations/participant39/ISIC_0031247.json",
+            "Datasets/study_annotations/participant49/ISIC_0031247.json",
+            "Datasets/study_annotations/participant8/ISIC_0031247.json",
+            "Datasets/study_annotations/participant82/ISIC_0031247.json",
+            "Datasets/study_annotations/participant94/ISIC_0031247.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0031360",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0031360.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0031360.json",
+            "Datasets/ground_truth_annotations/annotator12/ISIC_0031360.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant14/ISIC_0031360.json",
+            "Datasets/study_annotations/participant18/ISIC_0031360.json",
+            "Datasets/study_annotations/participant31/ISIC_0031360.json",
+            "Datasets/study_annotations/participant56/ISIC_0031360.json",
+            "Datasets/study_annotations/participant70/ISIC_0031360.json",
+            "Datasets/study_annotations/participant79/ISIC_0031360.json",
+            "Datasets/study_annotations/participant87/ISIC_0031360.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0031573",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0031573.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0031573.json",
+            "Datasets/ground_truth_annotations/annotator10/ISIC_0031573.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant112/ISIC_0031573.json",
+            "Datasets/study_annotations/participant15/ISIC_0031573.json",
+            "Datasets/study_annotations/participant33/ISIC_0031573.json",
+            "Datasets/study_annotations/participant41/ISIC_0031573.json",
+            "Datasets/study_annotations/participant45/ISIC_0031573.json",
+            "Datasets/study_annotations/participant76/ISIC_0031573.json",
+            "Datasets/study_annotations/participant98/ISIC_0031573.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0031711",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0031711.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0031711.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0031711.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant100/ISIC_0031711.json",
+            "Datasets/study_annotations/participant108/ISIC_0031711.json",
+            "Datasets/study_annotations/participant20/ISIC_0031711.json",
+            "Datasets/study_annotations/participant29/ISIC_0031711.json",
+            "Datasets/study_annotations/participant34/ISIC_0031711.json",
+            "Datasets/study_annotations/participant55/ISIC_0031711.json",
+            "Datasets/study_annotations/participant57/ISIC_0031711.json",
+            "Datasets/study_annotations/participant61/ISIC_0031711.json",
+            "Datasets/study_annotations/participant68/ISIC_0031711.json",
+            "Datasets/study_annotations/participant75/ISIC_0031711.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0031796",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0031796.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0031796.json",
+            "Datasets/ground_truth_annotations/annotator6/ISIC_0031796.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant105/ISIC_0031796.json",
+            "Datasets/study_annotations/participant106/ISIC_0031796.json",
+            "Datasets/study_annotations/participant37/ISIC_0031796.json",
+            "Datasets/study_annotations/participant63/ISIC_0031796.json",
+            "Datasets/study_annotations/participant81/ISIC_0031796.json",
+            "Datasets/study_annotations/participant89/ISIC_0031796.json",
+            "Datasets/study_annotations/participant9/ISIC_0031796.json",
+            "Datasets/study_annotations/participant91/ISIC_0031796.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0031806",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0031806.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0031806.json",
+            "Datasets/ground_truth_annotations/annotator9/ISIC_0031806.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant11/ISIC_0031806.json",
+            "Datasets/study_annotations/participant24/ISIC_0031806.json",
+            "Datasets/study_annotations/participant36/ISIC_0031806.json",
+            "Datasets/study_annotations/participant43/ISIC_0031806.json",
+            "Datasets/study_annotations/participant88/ISIC_0031806.json",
+            "Datasets/study_annotations/participant92/ISIC_0031806.json",
+            "Datasets/study_annotations/participant99/ISIC_0031806.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0031814",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0031814.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0031814.json",
+            "Datasets/ground_truth_annotations/annotator9/ISIC_0031814.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant105/ISIC_0031814.json",
+            "Datasets/study_annotations/participant106/ISIC_0031814.json",
+            "Datasets/study_annotations/participant37/ISIC_0031814.json",
+            "Datasets/study_annotations/participant63/ISIC_0031814.json",
+            "Datasets/study_annotations/participant81/ISIC_0031814.json",
+            "Datasets/study_annotations/participant89/ISIC_0031814.json",
+            "Datasets/study_annotations/participant9/ISIC_0031814.json",
+            "Datasets/study_annotations/participant91/ISIC_0031814.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0031894",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0031894.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0031894.json",
+            "Datasets/ground_truth_annotations/annotator10/ISIC_0031894.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant10/ISIC_0031894.json",
+            "Datasets/study_annotations/participant103/ISIC_0031894.json",
+            "Datasets/study_annotations/participant113/ISIC_0031894.json",
+            "Datasets/study_annotations/participant21/ISIC_0031894.json",
+            "Datasets/study_annotations/participant25/ISIC_0031894.json",
+            "Datasets/study_annotations/participant44/ISIC_0031894.json",
+            "Datasets/study_annotations/participant48/ISIC_0031894.json",
+            "Datasets/study_annotations/participant51/ISIC_0031894.json",
+            "Datasets/study_annotations/participant84/ISIC_0031894.json",
+            "Datasets/study_annotations/participant95/ISIC_0031894.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0031913",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0031913.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0031913.json",
+            "Datasets/ground_truth_annotations/annotator6/ISIC_0031913.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant30/ISIC_0031913.json",
+            "Datasets/study_annotations/participant4/ISIC_0031913.json",
+            "Datasets/study_annotations/participant53/ISIC_0031913.json",
+            "Datasets/study_annotations/participant58/ISIC_0031913.json",
+            "Datasets/study_annotations/participant6/ISIC_0031913.json",
+            "Datasets/study_annotations/participant64/ISIC_0031913.json",
+            "Datasets/study_annotations/participant71/ISIC_0031913.json",
+            "Datasets/study_annotations/participant77/ISIC_0031913.json",
+            "Datasets/study_annotations/participant97/ISIC_0031913.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0031981",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0031981.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0031981.json",
+            "Datasets/ground_truth_annotations/annotator9/ISIC_0031981.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant12/ISIC_0031981.json",
+            "Datasets/study_annotations/participant46/ISIC_0031981.json",
+            "Datasets/study_annotations/participant62/ISIC_0031981.json",
+            "Datasets/study_annotations/participant65/ISIC_0031981.json",
+            "Datasets/study_annotations/participant7/ISIC_0031981.json",
+            "Datasets/study_annotations/participant74/ISIC_0031981.json",
+            "Datasets/study_annotations/participant86/ISIC_0031981.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0032098",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0032098.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0032098.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant10/ISIC_0032098.json",
+            "Datasets/study_annotations/participant103/ISIC_0032098.json",
+            "Datasets/study_annotations/participant113/ISIC_0032098.json",
+            "Datasets/study_annotations/participant21/ISIC_0032098.json",
+            "Datasets/study_annotations/participant25/ISIC_0032098.json",
+            "Datasets/study_annotations/participant44/ISIC_0032098.json",
+            "Datasets/study_annotations/participant48/ISIC_0032098.json",
+            "Datasets/study_annotations/participant51/ISIC_0032098.json",
+            "Datasets/study_annotations/participant84/ISIC_0032098.json",
+            "Datasets/study_annotations/participant95/ISIC_0032098.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0032145",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0032145.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0032145.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0032145.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant112/ISIC_0032145.json",
+            "Datasets/study_annotations/participant15/ISIC_0032145.json",
+            "Datasets/study_annotations/participant33/ISIC_0032145.json",
+            "Datasets/study_annotations/participant41/ISIC_0032145.json",
+            "Datasets/study_annotations/participant45/ISIC_0032145.json",
+            "Datasets/study_annotations/participant76/ISIC_0032145.json",
+            "Datasets/study_annotations/participant98/ISIC_0032145.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0032219",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0032219.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0032219.json",
+            "Datasets/ground_truth_annotations/annotator6/ISIC_0032219.json",
+            "Datasets/ground_truth_annotations/annotator9/ISIC_0032219.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant19/ISIC_0032219.json",
+            "Datasets/study_annotations/participant47/ISIC_0032219.json",
+            "Datasets/study_annotations/participant5/ISIC_0032219.json",
+            "Datasets/study_annotations/participant72/ISIC_0032219.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0032265",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0032265.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0032265.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0032265.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant112/ISIC_0032265.json",
+            "Datasets/study_annotations/participant15/ISIC_0032265.json",
+            "Datasets/study_annotations/participant33/ISIC_0032265.json",
+            "Datasets/study_annotations/participant41/ISIC_0032265.json",
+            "Datasets/study_annotations/participant45/ISIC_0032265.json",
+            "Datasets/study_annotations/participant76/ISIC_0032265.json",
+            "Datasets/study_annotations/participant98/ISIC_0032265.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0032344",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0032344.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0032344.json",
+            "Datasets/ground_truth_annotations/annotator13/ISIC_0032344.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant10/ISIC_0032344.json",
+            "Datasets/study_annotations/participant103/ISIC_0032344.json",
+            "Datasets/study_annotations/participant113/ISIC_0032344.json",
+            "Datasets/study_annotations/participant21/ISIC_0032344.json",
+            "Datasets/study_annotations/participant25/ISIC_0032344.json",
+            "Datasets/study_annotations/participant44/ISIC_0032344.json",
+            "Datasets/study_annotations/participant48/ISIC_0032344.json",
+            "Datasets/study_annotations/participant51/ISIC_0032344.json",
+            "Datasets/study_annotations/participant84/ISIC_0032344.json",
+            "Datasets/study_annotations/participant95/ISIC_0032344.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0032372",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0032372.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0032372.json",
+            "Datasets/ground_truth_annotations/annotator10/ISIC_0032372.json",
+            "Datasets/ground_truth_annotations/annotator13/ISIC_0032372.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant105/ISIC_0032372.json",
+            "Datasets/study_annotations/participant106/ISIC_0032372.json",
+            "Datasets/study_annotations/participant37/ISIC_0032372.json",
+            "Datasets/study_annotations/participant63/ISIC_0032372.json",
+            "Datasets/study_annotations/participant81/ISIC_0032372.json",
+            "Datasets/study_annotations/participant89/ISIC_0032372.json",
+            "Datasets/study_annotations/participant9/ISIC_0032372.json",
+            "Datasets/study_annotations/participant91/ISIC_0032372.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0032564",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0032564.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0032564.json",
+            "Datasets/ground_truth_annotations/annotator10/ISIC_0032564.json",
+            "Datasets/ground_truth_annotations/annotator13/ISIC_0032564.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant109/ISIC_0032564.json",
+            "Datasets/study_annotations/participant22/ISIC_0032564.json",
+            "Datasets/study_annotations/participant3/ISIC_0032564.json",
+            "Datasets/study_annotations/participant42/ISIC_0032564.json",
+            "Datasets/study_annotations/participant66/ISIC_0032564.json",
+            "Datasets/study_annotations/participant80/ISIC_0032564.json",
+            "Datasets/study_annotations/participant90/ISIC_0032564.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0032573",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0032573.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0032573.json",
+            "Datasets/ground_truth_annotations/annotator12/ISIC_0032573.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant11/ISIC_0032573.json",
+            "Datasets/study_annotations/participant24/ISIC_0032573.json",
+            "Datasets/study_annotations/participant36/ISIC_0032573.json",
+            "Datasets/study_annotations/participant43/ISIC_0032573.json",
+            "Datasets/study_annotations/participant88/ISIC_0032573.json",
+            "Datasets/study_annotations/participant92/ISIC_0032573.json",
+            "Datasets/study_annotations/participant99/ISIC_0032573.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0032592",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0032592.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0032592.json",
+            "Datasets/ground_truth_annotations/annotator4/ISIC_0032592.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant12/ISIC_0032592.json",
+            "Datasets/study_annotations/participant46/ISIC_0032592.json",
+            "Datasets/study_annotations/participant62/ISIC_0032592.json",
+            "Datasets/study_annotations/participant65/ISIC_0032592.json",
+            "Datasets/study_annotations/participant7/ISIC_0032592.json",
+            "Datasets/study_annotations/participant74/ISIC_0032592.json",
+            "Datasets/study_annotations/participant86/ISIC_0032592.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0032626",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0032626.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0032626.json",
+            "Datasets/ground_truth_annotations/annotator4/ISIC_0032626.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant112/ISIC_0032626.json",
+            "Datasets/study_annotations/participant15/ISIC_0032626.json",
+            "Datasets/study_annotations/participant33/ISIC_0032626.json",
+            "Datasets/study_annotations/participant41/ISIC_0032626.json",
+            "Datasets/study_annotations/participant45/ISIC_0032626.json",
+            "Datasets/study_annotations/participant76/ISIC_0032626.json",
+            "Datasets/study_annotations/participant98/ISIC_0032626.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0032645",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0032645.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0032645.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0032645.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant30/ISIC_0032645.json",
+            "Datasets/study_annotations/participant4/ISIC_0032645.json",
+            "Datasets/study_annotations/participant53/ISIC_0032645.json",
+            "Datasets/study_annotations/participant58/ISIC_0032645.json",
+            "Datasets/study_annotations/participant6/ISIC_0032645.json",
+            "Datasets/study_annotations/participant64/ISIC_0032645.json",
+            "Datasets/study_annotations/participant71/ISIC_0032645.json",
+            "Datasets/study_annotations/participant77/ISIC_0032645.json",
+            "Datasets/study_annotations/participant97/ISIC_0032645.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0032653",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0032653.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0032653.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant110/ISIC_0032653.json",
+            "Datasets/study_annotations/participant13/ISIC_0032653.json",
+            "Datasets/study_annotations/participant17/ISIC_0032653.json",
+            "Datasets/study_annotations/participant26/ISIC_0032653.json",
+            "Datasets/study_annotations/participant32/ISIC_0032653.json",
+            "Datasets/study_annotations/participant40/ISIC_0032653.json",
+            "Datasets/study_annotations/participant52/ISIC_0032653.json",
+            "Datasets/study_annotations/participant67/ISIC_0032653.json",
+            "Datasets/study_annotations/participant85/ISIC_0032653.json",
+            "Datasets/study_annotations/participant93/ISIC_0032653.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0032722",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0032722.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0032722.json",
+            "Datasets/ground_truth_annotations/annotator3/ISIC_0032722.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant14/ISIC_0032722.json",
+            "Datasets/study_annotations/participant18/ISIC_0032722.json",
+            "Datasets/study_annotations/participant31/ISIC_0032722.json",
+            "Datasets/study_annotations/participant56/ISIC_0032722.json",
+            "Datasets/study_annotations/participant70/ISIC_0032722.json",
+            "Datasets/study_annotations/participant87/ISIC_0032722.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0032728",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0032728.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0032728.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0032728.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant19/ISIC_0032728.json",
+            "Datasets/study_annotations/participant47/ISIC_0032728.json",
+            "Datasets/study_annotations/participant5/ISIC_0032728.json",
+            "Datasets/study_annotations/participant72/ISIC_0032728.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0032774",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0032774.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0032774.json",
+            "Datasets/ground_truth_annotations/annotator7/ISIC_0032774.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant11/ISIC_0032774.json",
+            "Datasets/study_annotations/participant24/ISIC_0032774.json",
+            "Datasets/study_annotations/participant36/ISIC_0032774.json",
+            "Datasets/study_annotations/participant43/ISIC_0032774.json",
+            "Datasets/study_annotations/participant88/ISIC_0032774.json",
+            "Datasets/study_annotations/participant92/ISIC_0032774.json",
+            "Datasets/study_annotations/participant99/ISIC_0032774.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0032871",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0032871.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0032871.json",
+            "Datasets/ground_truth_annotations/annotator10/ISIC_0032871.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant100/ISIC_0032871.json",
+            "Datasets/study_annotations/participant108/ISIC_0032871.json",
+            "Datasets/study_annotations/participant20/ISIC_0032871.json",
+            "Datasets/study_annotations/participant29/ISIC_0032871.json",
+            "Datasets/study_annotations/participant34/ISIC_0032871.json",
+            "Datasets/study_annotations/participant55/ISIC_0032871.json",
+            "Datasets/study_annotations/participant57/ISIC_0032871.json",
+            "Datasets/study_annotations/participant61/ISIC_0032871.json",
+            "Datasets/study_annotations/participant68/ISIC_0032871.json",
+            "Datasets/study_annotations/participant75/ISIC_0032871.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0032908",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0032908.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0032908.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0032908.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant12/ISIC_0032908.json",
+            "Datasets/study_annotations/participant46/ISIC_0032908.json",
+            "Datasets/study_annotations/participant62/ISIC_0032908.json",
+            "Datasets/study_annotations/participant65/ISIC_0032908.json",
+            "Datasets/study_annotations/participant7/ISIC_0032908.json",
+            "Datasets/study_annotations/participant74/ISIC_0032908.json",
+            "Datasets/study_annotations/participant86/ISIC_0032908.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0032953",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0032953.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0032953.json",
+            "Datasets/ground_truth_annotations/annotator6/ISIC_0032953.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant112/ISIC_0032953.json",
+            "Datasets/study_annotations/participant15/ISIC_0032953.json",
+            "Datasets/study_annotations/participant33/ISIC_0032953.json",
+            "Datasets/study_annotations/participant41/ISIC_0032953.json",
+            "Datasets/study_annotations/participant45/ISIC_0032953.json",
+            "Datasets/study_annotations/participant76/ISIC_0032953.json",
+            "Datasets/study_annotations/participant98/ISIC_0032953.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0032990",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0032990.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0032990.json",
+            "Datasets/ground_truth_annotations/annotator6/ISIC_0032990.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant112/ISIC_0032990.json",
+            "Datasets/study_annotations/participant15/ISIC_0032990.json",
+            "Datasets/study_annotations/participant33/ISIC_0032990.json",
+            "Datasets/study_annotations/participant41/ISIC_0032990.json",
+            "Datasets/study_annotations/participant45/ISIC_0032990.json",
+            "Datasets/study_annotations/participant76/ISIC_0032990.json",
+            "Datasets/study_annotations/participant98/ISIC_0032990.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033055",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033055.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033055.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0033055.json",
+            "Datasets/ground_truth_annotations/annotator14/ISIC_0033055.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant105/ISIC_0033055.json",
+            "Datasets/study_annotations/participant106/ISIC_0033055.json",
+            "Datasets/study_annotations/participant37/ISIC_0033055.json",
+            "Datasets/study_annotations/participant63/ISIC_0033055.json",
+            "Datasets/study_annotations/participant81/ISIC_0033055.json",
+            "Datasets/study_annotations/participant89/ISIC_0033055.json",
+            "Datasets/study_annotations/participant9/ISIC_0033055.json",
+            "Datasets/study_annotations/participant91/ISIC_0033055.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033106",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033106.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033106.json",
+            "Datasets/ground_truth_annotations/annotator5/ISIC_0033106.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant110/ISIC_0033106.json",
+            "Datasets/study_annotations/participant13/ISIC_0033106.json",
+            "Datasets/study_annotations/participant17/ISIC_0033106.json",
+            "Datasets/study_annotations/participant26/ISIC_0033106.json",
+            "Datasets/study_annotations/participant32/ISIC_0033106.json",
+            "Datasets/study_annotations/participant40/ISIC_0033106.json",
+            "Datasets/study_annotations/participant52/ISIC_0033106.json",
+            "Datasets/study_annotations/participant67/ISIC_0033106.json",
+            "Datasets/study_annotations/participant85/ISIC_0033106.json",
+            "Datasets/study_annotations/participant93/ISIC_0033106.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033152",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033152.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033152.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0033152.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant10/ISIC_0033152.json",
+            "Datasets/study_annotations/participant103/ISIC_0033152.json",
+            "Datasets/study_annotations/participant113/ISIC_0033152.json",
+            "Datasets/study_annotations/participant21/ISIC_0033152.json",
+            "Datasets/study_annotations/participant25/ISIC_0033152.json",
+            "Datasets/study_annotations/participant44/ISIC_0033152.json",
+            "Datasets/study_annotations/participant48/ISIC_0033152.json",
+            "Datasets/study_annotations/participant51/ISIC_0033152.json",
+            "Datasets/study_annotations/participant84/ISIC_0033152.json",
+            "Datasets/study_annotations/participant95/ISIC_0033152.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033229",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033229.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033229.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0033229.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant100/ISIC_0033229.json",
+            "Datasets/study_annotations/participant20/ISIC_0033229.json",
+            "Datasets/study_annotations/participant29/ISIC_0033229.json",
+            "Datasets/study_annotations/participant34/ISIC_0033229.json",
+            "Datasets/study_annotations/participant55/ISIC_0033229.json",
+            "Datasets/study_annotations/participant57/ISIC_0033229.json",
+            "Datasets/study_annotations/participant61/ISIC_0033229.json",
+            "Datasets/study_annotations/participant68/ISIC_0033229.json",
+            "Datasets/study_annotations/participant75/ISIC_0033229.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033289",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033289.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033289.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0033289.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant102/ISIC_0033289.json",
+            "Datasets/study_annotations/participant107/ISIC_0033289.json",
+            "Datasets/study_annotations/participant23/ISIC_0033289.json",
+            "Datasets/study_annotations/participant49/ISIC_0033289.json",
+            "Datasets/study_annotations/participant82/ISIC_0033289.json",
+            "Datasets/study_annotations/participant94/ISIC_0033289.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033316",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033316.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033316.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0033316.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant105/ISIC_0033316.json",
+            "Datasets/study_annotations/participant106/ISIC_0033316.json",
+            "Datasets/study_annotations/participant37/ISIC_0033316.json",
+            "Datasets/study_annotations/participant63/ISIC_0033316.json",
+            "Datasets/study_annotations/participant81/ISIC_0033316.json",
+            "Datasets/study_annotations/participant89/ISIC_0033316.json",
+            "Datasets/study_annotations/participant9/ISIC_0033316.json",
+            "Datasets/study_annotations/participant91/ISIC_0033316.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033368",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033368.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033368.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0033368.json",
+            "Datasets/ground_truth_annotations/annotator14/ISIC_0033368.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant11/ISIC_0033368.json",
+            "Datasets/study_annotations/participant24/ISIC_0033368.json",
+            "Datasets/study_annotations/participant36/ISIC_0033368.json",
+            "Datasets/study_annotations/participant43/ISIC_0033368.json",
+            "Datasets/study_annotations/participant88/ISIC_0033368.json",
+            "Datasets/study_annotations/participant92/ISIC_0033368.json",
+            "Datasets/study_annotations/participant99/ISIC_0033368.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033377",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033377.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033377.json",
+            "Datasets/ground_truth_annotations/annotator12/ISIC_0033377.json",
+            "Datasets/ground_truth_annotations/annotator5/ISIC_0033377.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant100/ISIC_0033377.json",
+            "Datasets/study_annotations/participant108/ISIC_0033377.json",
+            "Datasets/study_annotations/participant20/ISIC_0033377.json",
+            "Datasets/study_annotations/participant29/ISIC_0033377.json",
+            "Datasets/study_annotations/participant34/ISIC_0033377.json",
+            "Datasets/study_annotations/participant55/ISIC_0033377.json",
+            "Datasets/study_annotations/participant57/ISIC_0033377.json",
+            "Datasets/study_annotations/participant61/ISIC_0033377.json",
+            "Datasets/study_annotations/participant68/ISIC_0033377.json",
+            "Datasets/study_annotations/participant75/ISIC_0033377.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033419",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033419.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033419.json",
+            "Datasets/ground_truth_annotations/annotator13/ISIC_0033419.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant101/ISIC_0033419.json",
+            "Datasets/study_annotations/participant111/ISIC_0033419.json",
+            "Datasets/study_annotations/participant16/ISIC_0033419.json",
+            "Datasets/study_annotations/participant2/ISIC_0033419.json",
+            "Datasets/study_annotations/participant27/ISIC_0033419.json",
+            "Datasets/study_annotations/participant38/ISIC_0033419.json",
+            "Datasets/study_annotations/participant59/ISIC_0033419.json",
+            "Datasets/study_annotations/participant60/ISIC_0033419.json",
+            "Datasets/study_annotations/participant69/ISIC_0033419.json",
+            "Datasets/study_annotations/participant96/ISIC_0033419.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033429",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033429.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033429.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant102/ISIC_0033429.json",
+            "Datasets/study_annotations/participant107/ISIC_0033429.json",
+            "Datasets/study_annotations/participant23/ISIC_0033429.json",
+            "Datasets/study_annotations/participant39/ISIC_0033429.json",
+            "Datasets/study_annotations/participant49/ISIC_0033429.json",
+            "Datasets/study_annotations/participant8/ISIC_0033429.json",
+            "Datasets/study_annotations/participant82/ISIC_0033429.json",
+            "Datasets/study_annotations/participant94/ISIC_0033429.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033500",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033500.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033500.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0033500.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant30/ISIC_0033500.json",
+            "Datasets/study_annotations/participant4/ISIC_0033500.json",
+            "Datasets/study_annotations/participant53/ISIC_0033500.json",
+            "Datasets/study_annotations/participant58/ISIC_0033500.json",
+            "Datasets/study_annotations/participant6/ISIC_0033500.json",
+            "Datasets/study_annotations/participant64/ISIC_0033500.json",
+            "Datasets/study_annotations/participant71/ISIC_0033500.json",
+            "Datasets/study_annotations/participant77/ISIC_0033500.json",
+            "Datasets/study_annotations/participant97/ISIC_0033500.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033502",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033502.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033502.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0033502.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant30/ISIC_0033502.json",
+            "Datasets/study_annotations/participant4/ISIC_0033502.json",
+            "Datasets/study_annotations/participant53/ISIC_0033502.json",
+            "Datasets/study_annotations/participant58/ISIC_0033502.json",
+            "Datasets/study_annotations/participant6/ISIC_0033502.json",
+            "Datasets/study_annotations/participant64/ISIC_0033502.json",
+            "Datasets/study_annotations/participant71/ISIC_0033502.json",
+            "Datasets/study_annotations/participant77/ISIC_0033502.json",
+            "Datasets/study_annotations/participant97/ISIC_0033502.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033533",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033533.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033533.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0033533.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant101/ISIC_0033533.json",
+            "Datasets/study_annotations/participant111/ISIC_0033533.json",
+            "Datasets/study_annotations/participant16/ISIC_0033533.json",
+            "Datasets/study_annotations/participant2/ISIC_0033533.json",
+            "Datasets/study_annotations/participant27/ISIC_0033533.json",
+            "Datasets/study_annotations/participant38/ISIC_0033533.json",
+            "Datasets/study_annotations/participant59/ISIC_0033533.json",
+            "Datasets/study_annotations/participant60/ISIC_0033533.json",
+            "Datasets/study_annotations/participant69/ISIC_0033533.json",
+            "Datasets/study_annotations/participant96/ISIC_0033533.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033573",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033573.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033573.json",
+            "Datasets/ground_truth_annotations/annotator7/ISIC_0033573.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant105/ISIC_0033573.json",
+            "Datasets/study_annotations/participant106/ISIC_0033573.json",
+            "Datasets/study_annotations/participant37/ISIC_0033573.json",
+            "Datasets/study_annotations/participant81/ISIC_0033573.json",
+            "Datasets/study_annotations/participant89/ISIC_0033573.json",
+            "Datasets/study_annotations/participant9/ISIC_0033573.json",
+            "Datasets/study_annotations/participant91/ISIC_0033573.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033689",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033689.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033689.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0033689.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant30/ISIC_0033689.json",
+            "Datasets/study_annotations/participant4/ISIC_0033689.json",
+            "Datasets/study_annotations/participant53/ISIC_0033689.json",
+            "Datasets/study_annotations/participant58/ISIC_0033689.json",
+            "Datasets/study_annotations/participant6/ISIC_0033689.json",
+            "Datasets/study_annotations/participant64/ISIC_0033689.json",
+            "Datasets/study_annotations/participant71/ISIC_0033689.json",
+            "Datasets/study_annotations/participant77/ISIC_0033689.json",
+            "Datasets/study_annotations/participant97/ISIC_0033689.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033700",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033700.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033700.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0033700.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant101/ISIC_0033700.json",
+            "Datasets/study_annotations/participant111/ISIC_0033700.json",
+            "Datasets/study_annotations/participant16/ISIC_0033700.json",
+            "Datasets/study_annotations/participant2/ISIC_0033700.json",
+            "Datasets/study_annotations/participant27/ISIC_0033700.json",
+            "Datasets/study_annotations/participant38/ISIC_0033700.json",
+            "Datasets/study_annotations/participant59/ISIC_0033700.json",
+            "Datasets/study_annotations/participant60/ISIC_0033700.json",
+            "Datasets/study_annotations/participant69/ISIC_0033700.json",
+            "Datasets/study_annotations/participant96/ISIC_0033700.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033713",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033713.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033713.json",
+            "Datasets/ground_truth_annotations/annotator10/ISIC_0033713.json",
+            "Datasets/ground_truth_annotations/annotator13/ISIC_0033713.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant10/ISIC_0033713.json",
+            "Datasets/study_annotations/participant103/ISIC_0033713.json",
+            "Datasets/study_annotations/participant113/ISIC_0033713.json",
+            "Datasets/study_annotations/participant21/ISIC_0033713.json",
+            "Datasets/study_annotations/participant25/ISIC_0033713.json",
+            "Datasets/study_annotations/participant44/ISIC_0033713.json",
+            "Datasets/study_annotations/participant48/ISIC_0033713.json",
+            "Datasets/study_annotations/participant51/ISIC_0033713.json",
+            "Datasets/study_annotations/participant84/ISIC_0033713.json",
+            "Datasets/study_annotations/participant95/ISIC_0033713.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033714",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033714.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033714.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0033714.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant11/ISIC_0033714.json",
+            "Datasets/study_annotations/participant24/ISIC_0033714.json",
+            "Datasets/study_annotations/participant36/ISIC_0033714.json",
+            "Datasets/study_annotations/participant43/ISIC_0033714.json",
+            "Datasets/study_annotations/participant88/ISIC_0033714.json",
+            "Datasets/study_annotations/participant92/ISIC_0033714.json",
+            "Datasets/study_annotations/participant99/ISIC_0033714.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033740",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033740.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033740.json",
+            "Datasets/ground_truth_annotations/annotator5/ISIC_0033740.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant1/ISIC_0033740.json",
+            "Datasets/study_annotations/participant104/ISIC_0033740.json",
+            "Datasets/study_annotations/participant28/ISIC_0033740.json",
+            "Datasets/study_annotations/participant35/ISIC_0033740.json",
+            "Datasets/study_annotations/participant50/ISIC_0033740.json",
+            "Datasets/study_annotations/participant54/ISIC_0033740.json",
+            "Datasets/study_annotations/participant73/ISIC_0033740.json",
+            "Datasets/study_annotations/participant78/ISIC_0033740.json",
+            "Datasets/study_annotations/participant83/ISIC_0033740.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033753",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033753.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033753.json",
+            "Datasets/ground_truth_annotations/annotator9/ISIC_0033753.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant109/ISIC_0033753.json",
+            "Datasets/study_annotations/participant22/ISIC_0033753.json",
+            "Datasets/study_annotations/participant3/ISIC_0033753.json",
+            "Datasets/study_annotations/participant42/ISIC_0033753.json",
+            "Datasets/study_annotations/participant66/ISIC_0033753.json",
+            "Datasets/study_annotations/participant80/ISIC_0033753.json",
+            "Datasets/study_annotations/participant90/ISIC_0033753.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033757",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033757.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033757.json",
+            "Datasets/ground_truth_annotations/annotator9/ISIC_0033757.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant14/ISIC_0033757.json",
+            "Datasets/study_annotations/participant18/ISIC_0033757.json",
+            "Datasets/study_annotations/participant31/ISIC_0033757.json",
+            "Datasets/study_annotations/participant56/ISIC_0033757.json",
+            "Datasets/study_annotations/participant70/ISIC_0033757.json",
+            "Datasets/study_annotations/participant79/ISIC_0033757.json",
+            "Datasets/study_annotations/participant87/ISIC_0033757.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033836",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033836.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033836.json",
+            "Datasets/ground_truth_annotations/annotator9/ISIC_0033836.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant109/ISIC_0033836.json",
+            "Datasets/study_annotations/participant22/ISIC_0033836.json",
+            "Datasets/study_annotations/participant3/ISIC_0033836.json",
+            "Datasets/study_annotations/participant42/ISIC_0033836.json",
+            "Datasets/study_annotations/participant66/ISIC_0033836.json",
+            "Datasets/study_annotations/participant80/ISIC_0033836.json",
+            "Datasets/study_annotations/participant90/ISIC_0033836.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033881",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033881.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033881.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0033881.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant19/ISIC_0033881.json",
+            "Datasets/study_annotations/participant47/ISIC_0033881.json",
+            "Datasets/study_annotations/participant5/ISIC_0033881.json",
+            "Datasets/study_annotations/participant72/ISIC_0033881.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033956",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033956.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033956.json",
+            "Datasets/ground_truth_annotations/annotator3/ISIC_0033956.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant100/ISIC_0033956.json",
+            "Datasets/study_annotations/participant20/ISIC_0033956.json",
+            "Datasets/study_annotations/participant29/ISIC_0033956.json",
+            "Datasets/study_annotations/participant34/ISIC_0033956.json",
+            "Datasets/study_annotations/participant55/ISIC_0033956.json",
+            "Datasets/study_annotations/participant57/ISIC_0033956.json",
+            "Datasets/study_annotations/participant61/ISIC_0033956.json",
+            "Datasets/study_annotations/participant68/ISIC_0033956.json",
+            "Datasets/study_annotations/participant75/ISIC_0033956.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033968",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033968.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033968.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0033968.json",
+            "Datasets/ground_truth_annotations/annotator14/ISIC_0033968.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant112/ISIC_0033968.json",
+            "Datasets/study_annotations/participant15/ISIC_0033968.json",
+            "Datasets/study_annotations/participant33/ISIC_0033968.json",
+            "Datasets/study_annotations/participant41/ISIC_0033968.json",
+            "Datasets/study_annotations/participant45/ISIC_0033968.json",
+            "Datasets/study_annotations/participant76/ISIC_0033968.json",
+            "Datasets/study_annotations/participant98/ISIC_0033968.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0033985",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0033985.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0033985.json",
+            "Datasets/ground_truth_annotations/annotator6/ISIC_0033985.json",
+            "Datasets/ground_truth_annotations/annotator9/ISIC_0033985.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant105/ISIC_0033985.json",
+            "Datasets/study_annotations/participant106/ISIC_0033985.json",
+            "Datasets/study_annotations/participant37/ISIC_0033985.json",
+            "Datasets/study_annotations/participant63/ISIC_0033985.json",
+            "Datasets/study_annotations/participant81/ISIC_0033985.json",
+            "Datasets/study_annotations/participant89/ISIC_0033985.json",
+            "Datasets/study_annotations/participant9/ISIC_0033985.json",
+            "Datasets/study_annotations/participant91/ISIC_0033985.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0034002",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0034002.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0034002.json",
+            "Datasets/ground_truth_annotations/annotator8/ISIC_0034002.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant19/ISIC_0034002.json",
+            "Datasets/study_annotations/participant5/ISIC_0034002.json",
+            "Datasets/study_annotations/participant72/ISIC_0034002.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0034049",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0034049.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0034049.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0034049.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant102/ISIC_0034049.json",
+            "Datasets/study_annotations/participant107/ISIC_0034049.json",
+            "Datasets/study_annotations/participant23/ISIC_0034049.json",
+            "Datasets/study_annotations/participant39/ISIC_0034049.json",
+            "Datasets/study_annotations/participant49/ISIC_0034049.json",
+            "Datasets/study_annotations/participant8/ISIC_0034049.json",
+            "Datasets/study_annotations/participant82/ISIC_0034049.json",
+            "Datasets/study_annotations/participant94/ISIC_0034049.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0034065",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0034065.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0034065.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0034065.json",
+            "Datasets/ground_truth_annotations/annotator14/ISIC_0034065.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant30/ISIC_0034065.json",
+            "Datasets/study_annotations/participant4/ISIC_0034065.json",
+            "Datasets/study_annotations/participant53/ISIC_0034065.json",
+            "Datasets/study_annotations/participant58/ISIC_0034065.json",
+            "Datasets/study_annotations/participant6/ISIC_0034065.json",
+            "Datasets/study_annotations/participant64/ISIC_0034065.json",
+            "Datasets/study_annotations/participant71/ISIC_0034065.json",
+            "Datasets/study_annotations/participant77/ISIC_0034065.json",
+            "Datasets/study_annotations/participant97/ISIC_0034065.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0034067",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0034067.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0034067.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0034067.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant10/ISIC_0034067.json",
+            "Datasets/study_annotations/participant103/ISIC_0034067.json",
+            "Datasets/study_annotations/participant113/ISIC_0034067.json",
+            "Datasets/study_annotations/participant21/ISIC_0034067.json",
+            "Datasets/study_annotations/participant25/ISIC_0034067.json",
+            "Datasets/study_annotations/participant44/ISIC_0034067.json",
+            "Datasets/study_annotations/participant48/ISIC_0034067.json",
+            "Datasets/study_annotations/participant51/ISIC_0034067.json",
+            "Datasets/study_annotations/participant84/ISIC_0034067.json",
+            "Datasets/study_annotations/participant95/ISIC_0034067.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0034089",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0034089.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0034089.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0034089.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant101/ISIC_0034089.json",
+            "Datasets/study_annotations/participant111/ISIC_0034089.json",
+            "Datasets/study_annotations/participant16/ISIC_0034089.json",
+            "Datasets/study_annotations/participant2/ISIC_0034089.json",
+            "Datasets/study_annotations/participant27/ISIC_0034089.json",
+            "Datasets/study_annotations/participant38/ISIC_0034089.json",
+            "Datasets/study_annotations/participant59/ISIC_0034089.json",
+            "Datasets/study_annotations/participant60/ISIC_0034089.json",
+            "Datasets/study_annotations/participant69/ISIC_0034089.json",
+            "Datasets/study_annotations/participant96/ISIC_0034089.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0034100",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0034100.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0034100.json",
+            "Datasets/ground_truth_annotations/annotator3/ISIC_0034100.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant112/ISIC_0034100.json",
+            "Datasets/study_annotations/participant15/ISIC_0034100.json",
+            "Datasets/study_annotations/participant33/ISIC_0034100.json",
+            "Datasets/study_annotations/participant41/ISIC_0034100.json",
+            "Datasets/study_annotations/participant45/ISIC_0034100.json",
+            "Datasets/study_annotations/participant76/ISIC_0034100.json",
+            "Datasets/study_annotations/participant98/ISIC_0034100.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0034183",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0034183.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0034183.json",
+            "Datasets/ground_truth_annotations/annotator11/ISIC_0034183.json",
+            "Datasets/ground_truth_annotations/annotator14/ISIC_0034183.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant1/ISIC_0034183.json",
+            "Datasets/study_annotations/participant104/ISIC_0034183.json",
+            "Datasets/study_annotations/participant28/ISIC_0034183.json",
+            "Datasets/study_annotations/participant35/ISIC_0034183.json",
+            "Datasets/study_annotations/participant50/ISIC_0034183.json",
+            "Datasets/study_annotations/participant54/ISIC_0034183.json",
+            "Datasets/study_annotations/participant73/ISIC_0034183.json",
+            "Datasets/study_annotations/participant78/ISIC_0034183.json",
+            "Datasets/study_annotations/participant83/ISIC_0034183.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0034188",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0034188.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0034188.json",
+            "Datasets/ground_truth_annotations/annotator2/ISIC_0034188.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant10/ISIC_0034188.json",
+            "Datasets/study_annotations/participant103/ISIC_0034188.json",
+            "Datasets/study_annotations/participant113/ISIC_0034188.json",
+            "Datasets/study_annotations/participant21/ISIC_0034188.json",
+            "Datasets/study_annotations/participant25/ISIC_0034188.json",
+            "Datasets/study_annotations/participant44/ISIC_0034188.json",
+            "Datasets/study_annotations/participant48/ISIC_0034188.json",
+            "Datasets/study_annotations/participant51/ISIC_0034188.json",
+            "Datasets/study_annotations/participant84/ISIC_0034188.json",
+            "Datasets/study_annotations/participant95/ISIC_0034188.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0034264",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0034264.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0034264.json",
+            "Datasets/ground_truth_annotations/annotator9/ISIC_0034264.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant14/ISIC_0034264.json",
+            "Datasets/study_annotations/participant18/ISIC_0034264.json",
+            "Datasets/study_annotations/participant31/ISIC_0034264.json",
+            "Datasets/study_annotations/participant56/ISIC_0034264.json",
+            "Datasets/study_annotations/participant70/ISIC_0034264.json",
+            "Datasets/study_annotations/participant79/ISIC_0034264.json",
+            "Datasets/study_annotations/participant87/ISIC_0034264.json"
+        ]
+    },
+    {
+        "isic_id": "ISIC_0034298",
+        "image_dir": "ISIC2018_Task3_Training_Input/ISIC_0034298.jpg",
+        "annotator_list": [
+            "Datasets/ground_truth_annotations/annotator1/ISIC_0034298.json",
+            "Datasets/ground_truth_annotations/annotator9/ISIC_0034298.json"
+        ],
+        "participant_list": [
+            "Datasets/study_annotations/participant12/ISIC_0034298.json",
+            "Datasets/study_annotations/participant46/ISIC_0034298.json",
+            "Datasets/study_annotations/participant62/ISIC_0034298.json",
+            "Datasets/study_annotations/participant65/ISIC_0034298.json",
+            "Datasets/study_annotations/participant7/ISIC_0034298.json",
+            "Datasets/study_annotations/participant74/ISIC_0034298.json",
+            "Datasets/study_annotations/participant86/ISIC_0034298.json"
+        ]
+    }
+]

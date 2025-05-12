@@ -1,0 +1,18 @@
+TRBL: Thick reticular or branched lines
+ESA: Eccentrically located structureless area (any colour except skin colour, white and grey)
+GP: Grey patterns
+PV: Polymorphous vessels
+BDG: Black dots or globules in the periphery of the lesion
+WLSA: White lines or white structureless area
+PLR: Parallel lines on ridges (acral lesions only)
+PES: Pigmentation extends beyond the area of the scar (only after excision)
+PIF: Pigmentation invades the openings of hair follicles (facial lesions)
+OPC: Only one pattern and only one colour
+SPC: Symmetrical combination of patterns and/or colours
+MVP: Monomorphic vascular pattern
+PRL: Pseudopods or radial lines at the lesional margin involving the entire lesional circumference
+PLF: Parallel lines in the furrows (acral lesions only)
+PDES: Pigmentation does not extend beyond the area of the scar (only after excision)
+APC: Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria
+MS: Melanoma simulator
+PRLC: Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference
