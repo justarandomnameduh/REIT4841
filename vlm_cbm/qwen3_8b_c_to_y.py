@@ -173,10 +173,12 @@ def main():
                 continue
             
             # Create the proper message format for Qwen3
+            # Using the /no_think flag in the system message to disable thinking mode
             messages = [
                 {
                     "role": "system", 
                     "content": (
+                        "/no_think\n\n"  # Disable thinking mode as per Qwen3 docs
                         "You are a specialized dermatological diagnosis assistant. "
                         "Your task is to classify skin lesions based on visual descriptions "
                         "into exactly one of seven categories.\n\n"
@@ -184,38 +186,31 @@ def main():
                         "- MEL: Melanoma - A type of skin cancer that can be irregular in shape, with varied colors "
                         "(often including shades of black, brown, red, or blue), asymmetrical appearance, and uneven borders.\n"
                         "- NV: Melanocytic nevus - A common mole, typically symmetrical with regular borders, "
-                        "uniform color (usually brown, tan, or skin-colored), and smaller size.\n"
-                        "- BCC: Basal cell carcinoma - Often appears as a pearly, waxy bump, or a flat, "
-                        "flesh-colored or brown scar-like lesion. May have visible blood vessels and can have "
-                        "a central depression or ulceration.\n"
-                        "- AKIEC: Actinic keratosis / Bowen's disease - Rough, scaly patches that can be red, "
-                        "pink, or brown. May appear as crusty, scaly areas with irregular borders.\n"
-                        "- BKL: Benign keratosis - Waxy, stuck-on appearance, can be brown, black, or tan with "
-                        "well-defined borders, often with a 'warty' surface texture.\n"
-                        "- DF: Dermatofibroma - Firm, raised growths that are usually round, reddish-brown to pink, "
-                        "and may dimple when pinched.\n"
-                        "- VASC: Vascular lesion - Bright red or purple in color, can be raised or flat, well-defined, "
-                        "and may blanch under pressure. Includes cherry angiomas and pyogenic granulomas.\n\n"
-                        "You can use <think> tags to think through your reasoning process, then present your final answer. "
-                        "Your final answer should be just the category abbreviation on its own line preceded by 'FINAL ANSWER:'"
+                        "uniform color (usually brown, tan, or skin-colored), and smaller size.\n\n"
+                        "Respond with only the abbreviation of your classification (either MEL or NV) "
+                        "and nothing else."
                     )
                 },
                 {
                     "role": "user", 
                     "content": (
                         f"Based on the following description of a skin lesion, classify it into exactly one of "
-                        f"the seven categories listed above.\n\n"
-                        f"Description: {description}\n\n"
-                        f"You can think through your reasoning using <think> tags, then provide your final answer "
-                        f"in the format 'FINAL ANSWER: XXX' where XXX is just the category abbreviation (e.g., MEL, NV, BCC, etc.)."
+                        f"the seven categories listed above. Respond with just the category abbreviation "
+                        f"(e.g., 'MEL', 'NV') and nothing else.\n\n"
+                        f"Description: {description}"
                     )
+                },
+                # Add an empty assistant message with think tag to enforce non-thinking mode
+                {
+                    "role": "assistant",
+                    "content": "<think>\n\n</think>\n\n"
                 }
             ]
             
             # Generate response from Qwen using the pipeline
             output = pipe(
                 messages,
-                max_new_tokens=32768,  # Increased to allow thinking
+                max_new_tokens=5,  # Reduced since we're in non-thinking mode
                 temperature=0.1,
                 top_k=2,
                 top_p=0.95,
@@ -227,7 +222,7 @@ def main():
             
             # Extract the response
             response = output[0]["generated_text"]
-            print(f"Image: {image_id}, Response: '{response}...'")  # Show first 50 chars
+            print(f"Image: {image_id}, Response: '{response}'")
             
             # Extract the category using our improved function
             predicted_category = extract_category(response)

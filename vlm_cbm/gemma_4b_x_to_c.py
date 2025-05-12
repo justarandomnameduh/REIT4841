@@ -11,7 +11,7 @@ torch.set_float32_matmul_precision('high')
 
 # --- Configuration ---
 # Paths for the dataset
-BASE_DATA_PATH = "../ham-concept/ham_concept_dataset/Datasets"
+BASE_DATA_PATH = "../ham-concept/ham_concept_dataset"
 IMAGE_DIR = os.path.join(BASE_DATA_PATH, "ISIC2018_Task3_Validation_Input")
 OUTPUT_JSON_PATH = "skin_lesion_concepts.json"  # Output JSON file name
 
