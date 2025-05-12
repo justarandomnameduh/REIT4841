@@ -1,0 +1,651 @@
+lesion_id,image_id,dx,dx_type,age,sex,localization,dataset,benign_malignant,APC,BDG,ESA,GP,MS,MVP,None,OPC,PDES,PES,PIF,PLF,PLR,PRL,PRLC,PV,SPC,TRBL,WLSA,annotator
+HAM_0003606,ISIC_0033420,nv,histo,70.0,male,trunk,vidir_modern,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0007089,ISIC_0030066,nv,histo,35.0,male,chest,vienna_dias,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,12
+HAM_0007519,ISIC_0033726,nv,histo,35.0,female,upper extremity,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2
+HAM_0006833,ISIC_0030512,mel,histo,50.0,male,upper extremity,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0002711,ISIC_0031795,mel,histo,65.0,male,lower extremity,vienna_dias,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+HAM_0000060,ISIC_0031953,mel,histo,55.0,male,abdomen,vidir_modern,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0002552,ISIC_0033232,mel,histo,25.0,male,upper extremity,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1
+HAM_0001280,ISIC_0033704,mel,histo,60.0,male,back,vidir_modern,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0001934,ISIC_0026753,nv,histo,65.0,male,abdomen,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+HAM_0006189,ISIC_0033269,mel,histo,55.0,female,back,vidir_modern,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,4
+HAM_0000169,ISIC_0033708,mel,histo,,male,face,vidir_modern,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1
+HAM_0003002,ISIC_0032830,nv,histo,40.0,male,lower extremity,vidir_modern,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+HAM_0002671,ISIC_0034263,mel,histo,80.0,male,upper extremity,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+HAM_0003221,ISIC_0029756,nv,histo,40.0,female,lower extremity,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,12
+HAM_0006347,ISIC_0027444,nv,histo,80.0,female,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006757,ISIC_0024497,nv,histo,55.0,male,lower extremity,rosendahl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2
+HAM_0005523,ISIC_0027087,nv,histo,25.0,male,lower extremity,vidir_modern,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+HAM_0001450,ISIC_0030771,nv,histo,45.0,male,lower extremity,vienna_dias,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+HAM_0001863,ISIC_0032810,mel,histo,70.0,male,upper extremity,vidir_modern,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,13
+HAM_0003590,ISIC_0027262,nv,histo,45.0,female,lower extremity,rosendahl,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+HAM_0003822,ISIC_0030115,nv,histo,60.0,male,back,rosendahl,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,12
+HAM_0004654,ISIC_0027130,mel,histo,70.0,male,chest,rosendahl,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+HAM_0004030,ISIC_0029926,nv,histo,50.0,male,hand,rosendahl,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+HAM_0007462,ISIC_0032633,nv,histo,25.0,male,neck,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003428,ISIC_0024652,mel,histo,85.0,female,upper extremity,rosendahl,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+HAM_0003003,ISIC_0033502,nv,histo,35.0,female,back,vidir_modern,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0004767,ISIC_0028285,mel,histo,80.0,male,face,rosendahl,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0003983,ISIC_0033975,mel,histo,85.0,male,abdomen,vidir_modern,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4
+HAM_0000878,ISIC_0028746,mel,histo,70.0,male,back,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1
+HAM_0006684,ISIC_0029614,nv,histo,40.0,male,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0007079,ISIC_0029904,nv,histo,35.0,male,upper extremity,vienna_dias,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0001041,ISIC_0027942,nv,histo,10.0,female,upper extremity,vienna_dias,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,10
+HAM_0001847,ISIC_0030898,mel,histo,50.0,male,back,vidir_modern,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0005007,ISIC_0024668,nv,histo,25.0,female,unknown,vienna_dias,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0004007,ISIC_0031541,nv,histo,35.0,female,lower extremity,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005846,ISIC_0024459,mel,histo,80.0,male,back,vienna_dias,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,11
+HAM_0001525,ISIC_0024355,nv,histo,35.0,male,upper extremity,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006244,ISIC_0027197,nv,histo,45.0,female,lower extremity,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000892,ISIC_0029845,nv,histo,40.0,male,trunk,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8
+HAM_0007583,ISIC_0034205,mel,histo,55.0,female,upper extremity,vidir_modern,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4
+HAM_0006685,ISIC_0029095,nv,histo,20.0,female,scalp,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0001790,ISIC_0032874,nv,histo,70.0,male,abdomen,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,9
+HAM_0003276,ISIC_0025782,nv,histo,35.0,female,trunk,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006191,ISIC_0028829,nv,histo,45.0,male,abdomen,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000900,ISIC_0026552,nv,histo,25.0,female,back,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8
+HAM_0003083,ISIC_0033428,mel,histo,75.0,male,chest,vidir_modern,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,3
+HAM_0006197,ISIC_0032334,nv,histo,40.0,male,back,vidir_modern,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0000169,ISIC_0033708,mel,histo,,male,face,vidir_modern,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6
+HAM_0003091,ISIC_0027235,nv,histo,25.0,female,unknown,vidir_modern,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+HAM_0005329,ISIC_0028686,nv,histo,45.0,female,chest,rosendahl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,11
+HAM_0001673,ISIC_0033966,nv,histo,15.0,female,lower extremity,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+HAM_0002547,ISIC_0029516,nv,histo,20.0,female,back,vienna_dias,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+HAM_0002952,ISIC_0033843,mel,histo,80.0,male,upper extremity,vidir_modern,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1
+HAM_0003504,ISIC_0028075,mel,histo,55.0,male,face,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0005786,ISIC_0026491,nv,histo,50.0,female,upper extremity,rosendahl,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0001680,ISIC_0030125,nv,histo,55.0,male,lower extremity,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+HAM_0000362,ISIC_0026043,nv,histo,30.0,male,lower extremity,rosendahl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,10
+HAM_0004949,ISIC_0034145,mel,histo,55.0,male,back,vidir_modern,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+HAM_0000517,ISIC_0031005,mel,histo,65.0,male,back,rosendahl,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,13
+HAM_0003505,ISIC_0033032,nv,histo,40.0,male,back,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0006520,ISIC_0033795,nv,histo,65.0,male,back,vidir_modern,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+HAM_0007112,ISIC_0027757,nv,histo,10.0,female,back,vidir_modern,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+HAM_0002113,ISIC_0029839,mel,histo,65.0,male,back,rosendahl,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5
+HAM_0007165,ISIC_0029547,mel,histo,80.0,male,unknown,vidir_modern,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,14
+HAM_0007014,ISIC_0032310,nv,histo,45.0,female,abdomen,rosendahl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,11
+HAM_0006334,ISIC_0032779,nv,histo,40.0,female,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005594,ISIC_0034245,nv,histo,40.0,female,neck,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+HAM_0002324,ISIC_0025381,nv,histo,40.0,male,foot,vienna_dias,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2
+HAM_0002051,ISIC_0031784,mel,histo,50.0,female,foot,vidir_modern,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+HAM_0000279,ISIC_0028429,nv,histo,40.0,female,trunk,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006856,ISIC_0028831,nv,histo,35.0,male,chest,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0007188,ISIC_0031543,mel,histo,60.0,female,upper extremity,rosendahl,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+HAM_0002032,ISIC_0030575,mel,histo,25.0,male,back,rosendahl,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+HAM_0001319,ISIC_0028599,nv,histo,70.0,male,back,rosendahl,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+HAM_0006492,ISIC_0031092,nv,histo,35.0,female,abdomen,vidir_molemax,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003315,ISIC_0024481,mel,histo,50.0,female,trunk,vidir_modern,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5
+HAM_0000133,ISIC_0028548,mel,histo,60.0,female,back,rosendahl,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13
+HAM_0005730,ISIC_0028923,nv,histo,65.0,male,chest,rosendahl,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0006225,ISIC_0029075,nv,histo,45.0,female,abdomen,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006886,ISIC_0032823,mel,histo,55.0,male,back,vidir_modern,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,8
+HAM_0003003,ISIC_0033343,nv,histo,35.0,female,back,vidir_modern,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0006435,ISIC_0034071,mel,histo,50.0,male,back,vidir_modern,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+HAM_0006380,ISIC_0028718,mel,histo,35.0,female,upper extremity,rosendahl,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0005141,ISIC_0034034,mel,histo,70.0,male,back,vidir_modern,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,13
+HAM_0007390,ISIC_0027043,mel,histo,50.0,male,abdomen,vidir_modern,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5
+HAM_0007238,ISIC_0028306,mel,histo,55.0,male,upper extremity,rosendahl,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0001600,ISIC_0025891,mel,histo,65.0,female,lower extremity,vidir_modern,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,13
+HAM_0000706,ISIC_0032690,mel,histo,50.0,male,face,vidir_modern,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0006244,ISIC_0027197,nv,histo,45.0,female,lower extremity,rosendahl,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7
+HAM_0006437,ISIC_0033469,mel,histo,65.0,female,ear,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1
+HAM_0003627,ISIC_0026497,nv,histo,30.0,female,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000014,ISIC_0025759,nv,histo,40.0,male,abdomen,rosendahl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3
+HAM_0006433,ISIC_0029370,mel,histo,85.0,female,upper extremity,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0005198,ISIC_0033673,nv,histo,60.0,male,lower extremity,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2
+HAM_0001877,ISIC_0025409,mel,histo,80.0,female,back,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0007583,ISIC_0033081,mel,histo,55.0,female,upper extremity,vidir_modern,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,13
+HAM_0007086,ISIC_0034180,mel,histo,65.0,female,back,vidir_modern,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0000662,ISIC_0033317,mel,histo,80.0,male,face,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0002502,ISIC_0033425,nv,histo,40.0,male,abdomen,vidir_modern,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+HAM_0006426,ISIC_0032922,mel,histo,80.0,female,upper extremity,vidir_modern,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4
+HAM_0006905,ISIC_0030451,nv,histo,85.0,male,foot,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005280,ISIC_0033595,mel,histo,70.0,male,upper extremity,vidir_modern,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,14
+HAM_0002552,ISIC_0033232,mel,histo,25.0,male,upper extremity,vidir_modern,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+HAM_0005762,ISIC_0026216,nv,histo,65.0,female,lower extremity,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005513,ISIC_0033229,nv,histo,5.0,female,back,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+HAM_0006245,ISIC_0030733,nv,histo,60.0,male,back,rosendahl,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+HAM_0003137,ISIC_0033233,nv,histo,40.0,female,lower extremity,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+HAM_0006516,ISIC_0033846,nv,histo,35.0,female,trunk,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004432,ISIC_0024529,nv,histo,25.0,male,abdomen,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0007574,ISIC_0033238,mel,histo,70.0,male,scalp,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0001740,ISIC_0033930,nv,histo,30.0,male,chest,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+HAM_0002291,ISIC_0024836,nv,histo,45.0,male,back,rosendahl,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006725,ISIC_0026022,nv,histo,45.0,female,foot,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004081,ISIC_0031957,mel,histo,70.0,female,lower extremity,rosendahl,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+HAM_0007530,ISIC_0024410,mel,histo,30.0,male,chest,rosendahl,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0006605,ISIC_0026055,nv,histo,50.0,female,neck,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0004296,ISIC_0033739,nv,histo,35.0,female,abdomen,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0005052,ISIC_0033786,nv,histo,35.0,male,lower extremity,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,9
+HAM_0003723,ISIC_0032141,nv,histo,60.0,female,ear,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0007433,ISIC_0033149,nv,histo,45.0,male,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005336,ISIC_0033192,mel,histo,30.0,male,trunk,vidir_modern,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0007196,ISIC_0024907,nv,histo,30.0,female,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000468,ISIC_0032663,nv,histo,5.0,female,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+HAM_0004784,ISIC_0027872,mel,histo,55.0,female,foot,vidir_modern,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,9
+HAM_0000397,ISIC_0025208,nv,histo,35.0,male,trunk,vienna_dias,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+HAM_0000226,ISIC_0024854,nv,histo,15.0,male,back,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005884,ISIC_0027469,nv,histo,30.0,male,back,rosendahl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7
+HAM_0003623,ISIC_0032788,nv,histo,50.0,female,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004149,ISIC_0033880,nv,histo,45.0,female,foot,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+HAM_0000588,ISIC_0028929,mel,histo,65.0,female,back,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+HAM_0001692,ISIC_0033172,nv,histo,40.0,female,chest,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0007586,ISIC_0029819,mel,histo,70.0,female,upper extremity,vienna_dias,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0002025,ISIC_0028091,nv,histo,5.0,male,scalp,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006052,ISIC_0025476,nv,histo,60.0,female,face,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0001507,ISIC_0030179,nv,histo,35.0,male,abdomen,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+HAM_0000547,ISIC_0032546,nv,histo,55.0,male,back,vidir_modern,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006512,ISIC_0030140,nv,histo,35.0,female,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0001764,ISIC_0032251,nv,histo,40.0,female,lower extremity,rosendahl,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1
+HAM_0002086,ISIC_0033814,mel,histo,70.0,male,face,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+HAM_0001349,ISIC_0032425,mel,histo,70.0,female,lower extremity,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+HAM_0005312,ISIC_0034033,nv,histo,20.0,female,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005194,ISIC_0032561,nv,histo,55.0,male,lower extremity,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5
+HAM_0004787,ISIC_0029566,nv,histo,50.0,male,back,vienna_dias,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,12
+HAM_0003460,ISIC_0034086,nv,histo,50.0,male,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0007096,ISIC_0024674,nv,histo,40.0,male,lower extremity,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002128,ISIC_0029867,nv,histo,35.0,female,scalp,rosendahl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,10
+HAM_0006618,ISIC_0028804,nv,histo,75.0,female,ear,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002235,ISIC_0034222,mel,histo,30.0,male,back,vidir_modern,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005545,ISIC_0033947,mel,histo,40.0,female,face,vidir_modern,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3
+HAM_0003137,ISIC_0034184,nv,histo,40.0,female,lower extremity,vidir_modern,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+HAM_0004844,ISIC_0034233,mel,histo,50.0,male,trunk,vidir_modern,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0003446,ISIC_0027201,nv,histo,30.0,male,foot,rosendahl,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,9
+HAM_0000376,ISIC_0031617,nv,histo,55.0,female,abdomen,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0001358,ISIC_0033170,nv,histo,50.0,female,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002661,ISIC_0030597,nv,histo,55.0,female,lower extremity,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002238,ISIC_0031238,nv,histo,60.0,female,chest,rosendahl,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000337,ISIC_0026081,mel,histo,50.0,female,back,rosendahl,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,14
+HAM_0000433,ISIC_0025472,mel,histo,55.0,male,back,vienna_dias,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,12
+HAM_0000064,ISIC_0032955,mel,histo,30.0,female,lower extremity,vidir_modern,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7
+HAM_0005686,ISIC_0033745,nv,histo,25.0,male,back,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+HAM_0005539,ISIC_0033838,nv,histo,30.0,female,lower extremity,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+HAM_0007264,ISIC_0028476,nv,histo,55.0,male,lower extremity,rosendahl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,9
+HAM_0006975,ISIC_0024967,mel,histo,60.0,male,back,vidir_modern,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12
+HAM_0004288,ISIC_0026445,nv,histo,35.0,male,chest,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+HAM_0006372,ISIC_0032817,nv,histo,35.0,male,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006550,ISIC_0033406,nv,histo,50.0,female,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0007284,ISIC_0027255,nv,histo,60.0,female,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005594,ISIC_0034245,nv,histo,40.0,female,neck,vidir_modern,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+HAM_0006423,ISIC_0028685,mel,histo,55.0,male,back,rosendahl,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0004949,ISIC_0033883,mel,histo,55.0,male,back,vidir_modern,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000799,ISIC_0033226,mel,histo,65.0,male,upper extremity,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0003590,ISIC_0032459,nv,histo,45.0,female,lower extremity,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0001507,ISIC_0028362,nv,histo,35.0,male,abdomen,vienna_dias,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3
+HAM_0003951,ISIC_0025555,nv,histo,35.0,female,abdomen,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,14
+HAM_0005395,ISIC_0027471,nv,histo,75.0,female,lower extremity,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0007422,ISIC_0024862,nv,histo,85.0,male,genital,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005084,ISIC_0028505,mel,histo,75.0,male,ear,vidir_modern,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,9
+HAM_0003951,ISIC_0032242,nv,histo,35.0,female,abdomen,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+HAM_0004240,ISIC_0034284,mel,histo,50.0,male,back,vidir_modern,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1
+HAM_0000042,ISIC_0033981,mel,histo,45.0,female,upper extremity,vidir_modern,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+HAM_0006137,ISIC_0026738,mel,histo,85.0,female,face,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1
+HAM_0006273,ISIC_0031573,nv,histo,75.0,male,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0001753,ISIC_0024929,mel,histo,55.0,male,back,vienna_dias,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,5
+HAM_0002429,ISIC_0028139,nv,histo,35.0,female,hand,rosendahl,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,3
+HAM_0004239,ISIC_0027887,nv,histo,75.0,female,lower extremity,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005557,ISIC_0028215,mel,histo,75.0,female,lower extremity,vidir_modern,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+HAM_0005519,ISIC_0032029,nv,histo,55.0,female,upper extremity,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+HAM_0003848,ISIC_0032096,nv,histo,55.0,female,abdomen,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,11
+HAM_0005083,ISIC_0032944,nv,histo,55.0,female,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000970,ISIC_0033244,nv,histo,45.0,male,face,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0001734,ISIC_0032927,mel,histo,55.0,male,upper extremity,vidir_modern,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0001446,ISIC_0026754,mel,histo,65.0,female,scalp,vidir_modern,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0003386,ISIC_0033452,mel,histo,70.0,male,abdomen,vidir_modern,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2
+HAM_0003018,ISIC_0032639,nv,histo,35.0,female,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005601,ISIC_0033441,nv,histo,20.0,female,abdomen,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002641,ISIC_0034077,nv,histo,40.0,female,back,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0003525,ISIC_0024653,nv,histo,60.0,female,trunk,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005611,ISIC_0029187,nv,histo,35.0,female,lower extremity,vidir_modern,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0005274,ISIC_0033261,mel,histo,55.0,male,upper extremity,vidir_modern,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,13
+HAM_0002205,ISIC_0026217,nv,histo,35.0,male,back,rosendahl,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+HAM_0000624,ISIC_0029089,mel,histo,70.0,male,back,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0000187,ISIC_0026260,nv,histo,55.0,male,back,rosendahl,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+HAM_0006559,ISIC_0034247,nv,histo,25.0,female,ear,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0003535,ISIC_0033403,nv,histo,35.0,female,trunk,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003904,ISIC_0025871,nv,histo,50.0,male,back,vidir_modern,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4
+HAM_0005905,ISIC_0034257,nv,histo,50.0,male,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006543,ISIC_0026096,nv,histo,35.0,male,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003159,ISIC_0026108,nv,histo,30.0,female,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006626,ISIC_0029914,mel,histo,60.0,male,lower extremity,vienna_dias,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1
+HAM_0006896,ISIC_0024911,mel,histo,45.0,female,back,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0002409,ISIC_0028843,nv,histo,35.0,female,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000896,ISIC_0025051,nv,histo,45.0,female,lower extremity,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002970,ISIC_0027350,mel,histo,60.0,male,chest,rosendahl,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,12
+HAM_0007052,ISIC_0033794,nv,histo,50.0,male,abdomen,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002231,ISIC_0028235,nv,histo,15.0,male,face,vidir_modern,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,8
+HAM_0003884,ISIC_0033702,nv,histo,35.0,female,back,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0006899,ISIC_0025128,mel,histo,80.0,female,lower extremity,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0004559,ISIC_0028220,mel,histo,60.0,male,face,rosendahl,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+HAM_0007620,ISIC_0027616,mel,histo,55.0,female,back,vidir_modern,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4
+HAM_0004980,ISIC_0029017,mel,histo,45.0,female,back,vidir_modern,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0005740,ISIC_0033558,nv,histo,35.0,female,acral,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0001741,ISIC_0028211,mel,histo,65.0,male,face,vidir_modern,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0002208,ISIC_0034029,nv,histo,20.0,female,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000762,ISIC_0025667,nv,histo,30.0,female,back,rosendahl,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+HAM_0001964,ISIC_0032149,mel,histo,50.0,male,neck,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0007014,ISIC_0027798,nv,histo,45.0,female,abdomen,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006782,ISIC_0032581,nv,histo,50.0,female,abdomen,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,11
+HAM_0002772,ISIC_0031908,mel,histo,75.0,male,back,rosendahl,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,14
+HAM_0001014,ISIC_0032423,nv,histo,70.0,male,back,rosendahl,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+HAM_0004872,ISIC_0033202,nv,histo,35.0,female,foot,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,12
+HAM_0003627,ISIC_0024855,nv,histo,30.0,female,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003435,ISIC_0031350,mel,histo,60.0,male,back,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0002754,ISIC_0026866,nv,histo,40.0,female,lower extremity,rosendahl,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+HAM_0003983,ISIC_0033278,mel,histo,85.0,male,abdomen,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0004000,ISIC_0033147,nv,histo,35.0,female,upper extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005194,ISIC_0033839,nv,histo,55.0,male,lower extremity,vidir_modern,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+HAM_0007464,ISIC_0030063,nv,histo,50.0,male,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000176,ISIC_0033696,mel,histo,65.0,male,upper extremity,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+HAM_0000273,ISIC_0025106,nv,histo,65.0,male,upper extremity,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003496,ISIC_0027308,nv,histo,50.0,male,lower extremity,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004579,ISIC_0025603,mel,histo,75.0,male,trunk,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+HAM_0006363,ISIC_0024936,nv,histo,25.0,male,abdomen,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005064,ISIC_0028198,mel,histo,40.0,female,back,vienna_dias,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+HAM_0001220,ISIC_0029636,nv,histo,60.0,female,chest,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0001793,ISIC_0028520,mel,histo,75.0,male,back,vidir_modern,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,13
+HAM_0004596,ISIC_0031087,mel,histo,65.0,male,upper extremity,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0003874,ISIC_0028578,nv,histo,40.0,female,scalp,rosendahl,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003193,ISIC_0034078,nv,histo,35.0,female,abdomen,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002491,ISIC_0026770,mel,histo,65.0,male,upper extremity,vienna_dias,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10
+HAM_0000709,ISIC_0033114,mel,histo,45.0,female,lower extremity,vidir_modern,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+HAM_0001846,ISIC_0029457,nv,histo,20.0,female,upper extremity,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002198,ISIC_0024314,nv,histo,75.0,male,lower extremity,vidir_modern,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+HAM_0005393,ISIC_0025506,nv,histo,35.0,female,lower extremity,rosendahl,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0000706,ISIC_0032918,mel,histo,50.0,male,face,vidir_modern,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,6
+HAM_0002647,ISIC_0032284,nv,histo,50.0,female,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006376,ISIC_0034317,mel,histo,70.0,female,lower extremity,vidir_modern,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4
+HAM_0006813,ISIC_0033937,nv,histo,30.0,female,trunk,vidir_modern,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000889,ISIC_0030370,nv,histo,30.0,female,lower extremity,rosendahl,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7
+HAM_0005840,ISIC_0032260,nv,histo,45.0,female,chest,vienna_dias,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+HAM_0001531,ISIC_0030106,mel,histo,70.0,male,back,vidir_modern,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,13
+HAM_0002217,ISIC_0025073,nv,histo,35.0,female,unknown,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000603,ISIC_0030742,nv,histo,80.0,male,abdomen,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002721,ISIC_0032899,nv,histo,25.0,male,abdomen,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006540,ISIC_0032988,mel,histo,70.0,female,face,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0003181,ISIC_0034030,nv,histo,35.0,male,back,vidir_modern,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,13
+HAM_0002979,ISIC_0030588,nv,histo,35.0,female,back,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000667,ISIC_0028551,nv,histo,75.0,male,lower extremity,rosendahl,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+HAM_0006020,ISIC_0029572,nv,histo,55.0,male,back,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000851,ISIC_0025074,nv,histo,50.0,female,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0007091,ISIC_0027552,mel,histo,40.0,male,face,vidir_molemax,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1
+HAM_0002448,ISIC_0034122,nv,histo,35.0,female,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+HAM_0001986,ISIC_0025512,mel,histo,50.0,male,upper extremity,vienna_dias,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+HAM_0003350,ISIC_0027300,mel,histo,60.0,male,chest,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1
+HAM_0002919,ISIC_0028518,nv,histo,25.0,male,trunk,vienna_dias,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+HAM_0000855,ISIC_0033897,nv,histo,45.0,male,upper extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002208,ISIC_0034029,nv,histo,20.0,female,lower extremity,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,9
+HAM_0002386,ISIC_0033927,nv,histo,65.0,male,trunk,vidir_modern,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0000320,ISIC_0027863,mel,histo,55.0,male,back,rosendahl,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0006191,ISIC_0033530,nv,histo,45.0,male,abdomen,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,10
+HAM_0000321,ISIC_0032564,mel,histo,70.0,male,back,vidir_modern,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,10
+HAM_0002484,ISIC_0029194,nv,histo,30.0,male,upper extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005937,ISIC_0027679,nv,histo,35.0,male,foot,vidir_modern,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,7
+HAM_0000179,ISIC_0033700,mel,histo,45.0,male,back,vidir_modern,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+HAM_0002613,ISIC_0030925,mel,histo,45.0,male,lower extremity,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0000762,ISIC_0027137,nv,histo,30.0,female,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002434,ISIC_0033941,nv,histo,40.0,female,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000597,ISIC_0030654,nv,histo,35.0,female,abdomen,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002136,ISIC_0032914,nv,histo,75.0,male,upper extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002975,ISIC_0028810,nv,histo,45.0,male,upper extremity,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0004225,ISIC_0026029,nv,histo,25.0,female,lower extremity,rosendahl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9
+HAM_0003504,ISIC_0026823,mel,histo,55.0,male,face,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0004369,ISIC_0025969,nv,histo,40.0,male,trunk,vidir_molemax,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006097,ISIC_0034253,mel,histo,60.0,male,chest,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+HAM_0005319,ISIC_0025469,nv,histo,70.0,male,trunk,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0001230,ISIC_0025295,nv,histo,80.0,male,back,rosendahl,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0000220,ISIC_0030360,mel,histo,65.0,male,upper extremity,rosendahl,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11
+HAM_0006972,ISIC_0030340,nv,histo,75.0,male,back,rosendahl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,11
+HAM_0001508,ISIC_0029298,nv,histo,65.0,female,lower extremity,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004784,ISIC_0029512,mel,histo,55.0,female,foot,vidir_modern,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,6
+HAM_0003448,ISIC_0026158,mel,histo,75.0,male,upper extremity,vidir_modern,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10
+HAM_0005992,ISIC_0032723,mel,histo,25.0,female,back,vidir_modern,1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,13
+HAM_0005755,ISIC_0025112,nv,histo,50.0,male,face,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005942,ISIC_0032679,nv,histo,60.0,unknown,foot,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+HAM_0000609,ISIC_0025990,nv,histo,75.0,female,upper extremity,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,14
+HAM_0005447,ISIC_0026389,nv,histo,70.0,male,back,vidir_modern,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+HAM_0000619,ISIC_0026690,mel,histo,50.0,male,lower extremity,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0004802,ISIC_0030966,nv,histo,45.0,female,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006120,ISIC_0025372,nv,histo,30.0,female,upper extremity,rosendahl,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+HAM_0000402,ISIC_0034039,nv,histo,10.0,female,foot,vidir_modern,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,9
+HAM_0000963,ISIC_0032227,nv,histo,35.0,male,trunk,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002576,ISIC_0031368,mel,histo,55.0,male,lower extremity,rosendahl,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6
+HAM_0002216,ISIC_0028454,nv,histo,60.0,male,back,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004024,ISIC_0034067,nv,histo,65.0,female,back,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,11
+HAM_0004099,ISIC_0033010,nv,histo,55.0,female,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0007031,ISIC_0025616,mel,histo,70.0,female,upper extremity,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0000182,ISIC_0025096,nv,histo,60.0,male,neck,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+HAM_0005673,ISIC_0033995,mel,histo,60.0,male,back,vidir_modern,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,11
+HAM_0000302,ISIC_0025942,nv,histo,50.0,female,upper extremity,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0007451,ISIC_0032964,nv,histo,45.0,male,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+HAM_0000395,ISIC_0029656,nv,histo,40.0,male,upper extremity,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+HAM_0006457,ISIC_0027987,nv,histo,40.0,male,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000179,ISIC_0034046,mel,histo,45.0,male,back,vidir_modern,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+HAM_0000486,ISIC_0028882,nv,histo,35.0,male,upper extremity,rosendahl,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0003137,ISIC_0032770,nv,histo,40.0,female,lower extremity,vidir_modern,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004380,ISIC_0029072,nv,histo,30.0,female,face,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002591,ISIC_0031389,mel,histo,55.0,female,lower extremity,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0003419,ISIC_0026097,nv,histo,5.0,male,upper extremity,rosendahl,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,14
+HAM_0002154,ISIC_0028478,nv,histo,70.0,male,chest,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000095,ISIC_0033186,mel,histo,55.0,male,lower extremity,vidir_modern,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0001492,ISIC_0025305,nv,histo,30.0,female,back,rosendahl,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0002198,ISIC_0024314,nv,histo,75.0,male,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004222,ISIC_0031757,nv,histo,15.0,female,abdomen,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004949,ISIC_0032981,mel,histo,55.0,male,back,vidir_modern,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11
+HAM_0004014,ISIC_0029809,nv,histo,45.0,male,chest,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003677,ISIC_0029409,nv,histo,55.0,male,upper extremity,vidir_modern,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006853,ISIC_0031143,nv,histo,50.0,male,lower extremity,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6
+HAM_0000917,ISIC_0024701,mel,histo,55.0,female,back,vienna_dias,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+HAM_0004927,ISIC_0034117,mel,histo,70.0,male,abdomen,vidir_modern,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,1
+HAM_0002053,ISIC_0028715,nv,histo,60.0,female,chest,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003158,ISIC_0025456,nv,histo,30.0,male,upper extremity,vidir_modern,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0002888,ISIC_0029079,nv,histo,50.0,male,trunk,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000182,ISIC_0026270,nv,histo,60.0,male,neck,vienna_dias,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,14
+HAM_0002031,ISIC_0031917,nv,histo,30.0,male,back,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004054,ISIC_0031756,nv,histo,70.0,male,hand,vienna_dias,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+HAM_0007123,ISIC_0025672,nv,histo,70.0,male,hand,vidir_modern,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002319,ISIC_0030740,nv,histo,30.0,female,face,rosendahl,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004754,ISIC_0032790,mel,histo,65.0,male,back,vidir_modern,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0001739,ISIC_0033845,nv,histo,80.0,male,abdomen,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005048,ISIC_0029553,nv,histo,35.0,male,trunk,vidir_modern,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0002838,ISIC_0030818,mel,histo,65.0,female,lower extremity,vidir_modern,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4
+HAM_0001142,ISIC_0029667,nv,histo,50.0,male,foot,vienna_dias,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,10
+HAM_0003142,ISIC_0031806,nv,histo,60.0,female,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000500,ISIC_0029441,nv,histo,45.0,male,lower extremity,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0001976,ISIC_0025732,mel,histo,85.0,male,upper extremity,rosendahl,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11
+HAM_0003305,ISIC_0027756,nv,histo,25.0,female,lower extremity,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0001509,ISIC_0034295,nv,histo,25.0,male,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+HAM_0003016,ISIC_0027670,nv,histo,85.0,male,back,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006947,ISIC_0032109,nv,histo,45.0,female,foot,rosendahl,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000910,ISIC_0027797,mel,histo,50.0,female,back,rosendahl,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3
+HAM_0006303,ISIC_0026911,nv,histo,55.0,male,abdomen,vidir_modern,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7
+HAM_0005828,ISIC_0026554,nv,histo,75.0,male,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000320,ISIC_0027863,mel,histo,55.0,male,back,rosendahl,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3
+HAM_0006529,ISIC_0024695,nv,histo,55.0,female,trunk,vienna_dias,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0000064,ISIC_0032955,mel,histo,30.0,female,lower extremity,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0000653,ISIC_0024552,mel,histo,60.0,female,lower extremity,vienna_dias,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3
+HAM_0006666,ISIC_0034088,nv,histo,35.0,female,abdomen,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+HAM_0001762,ISIC_0030535,nv,histo,60.0,male,lower extremity,rosendahl,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004897,ISIC_0026293,nv,histo,30.0,female,lower extremity,rosendahl,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0003735,ISIC_0033800,nv,histo,40.0,female,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006550,ISIC_0033493,nv,histo,50.0,female,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000861,ISIC_0026125,nv,histo,20.0,female,lower extremity,vienna_dias,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004138,ISIC_0030184,nv,histo,45.0,male,abdomen,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0001100,ISIC_0028194,nv,histo,55.0,male,chest,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004642,ISIC_0025963,mel,histo,50.0,female,upper extremity,vienna_dias,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6
+HAM_0006512,ISIC_0027614,nv,histo,35.0,female,back,rosendahl,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,9
+HAM_0002194,ISIC_0026853,mel,histo,65.0,male,back,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0007367,ISIC_0033658,nv,histo,5.0,male,trunk,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0002368,ISIC_0024841,nv,histo,60.0,male,back,rosendahl,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+HAM_0004043,ISIC_0033792,nv,histo,65.0,female,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004779,ISIC_0024823,mel,histo,35.0,male,back,vienna_dias,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,7
+HAM_0003033,ISIC_0025970,nv,histo,60.0,female,lower extremity,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+HAM_0002675,ISIC_0024969,nv,histo,30.0,female,upper extremity,rosendahl,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+HAM_0005106,ISIC_0034131,nv,histo,30.0,male,upper extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002670,ISIC_0030426,nv,histo,75.0,male,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003451,ISIC_0027098,nv,histo,70.0,male,back,rosendahl,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0001318,ISIC_0028358,nv,histo,50.0,female,lower extremity,rosendahl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7
+HAM_0005711,ISIC_0033911,mel,histo,35.0,male,back,vidir_modern,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,12
+HAM_0002411,ISIC_0025946,nv,histo,60.0,female,neck,rosendahl,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,8
+HAM_0001623,ISIC_0029488,nv,histo,85.0,female,unknown,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003400,ISIC_0032197,mel,histo,50.0,male,face,vienna_dias,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,10
+HAM_0004038,ISIC_0033052,nv,histo,50.0,female,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003423,ISIC_0028344,nv,histo,65.0,male,upper extremity,rosendahl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8
+HAM_0004121,ISIC_0026996,mel,histo,45.0,female,lower extremity,vidir_modern,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+HAM_0007350,ISIC_0030892,nv,histo,45.0,male,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004126,ISIC_0030060,mel,histo,80.0,female,back,vidir_modern,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+HAM_0005636,ISIC_0034140,mel,histo,70.0,male,back,vidir_modern,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5
+HAM_0006110,ISIC_0025289,nv,histo,50.0,male,back,rosendahl,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+HAM_0002170,ISIC_0034237,nv,histo,40.0,male,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003142,ISIC_0026956,nv,histo,60.0,female,back,rosendahl,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+HAM_0006032,ISIC_0027501,nv,histo,30.0,male,lower extremity,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+HAM_0002720,ISIC_0025277,mel,histo,75.0,male,ear,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+HAM_0003449,ISIC_0029242,mel,histo,85.0,male,back,vidir_modern,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0003106,ISIC_0032620,nv,histo,30.0,male,chest,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003468,ISIC_0025641,nv,histo,60.0,female,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005381,ISIC_0025153,mel,histo,45.0,female,lower extremity,vidir_modern,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+HAM_0001600,ISIC_0025891,mel,histo,65.0,female,lower extremity,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+HAM_0003790,ISIC_0028131,nv,histo,65.0,male,chest,rosendahl,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0003058,ISIC_0028032,nv,histo,70.0,male,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000291,ISIC_0028263,nv,histo,75.0,female,lower extremity,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005533,ISIC_0027065,mel,histo,85.0,female,upper extremity,rosendahl,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7
+HAM_0005483,ISIC_0033117,mel,histo,45.0,female,upper extremity,vidir_modern,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1
+HAM_0006257,ISIC_0029843,mel,histo,70.0,male,neck,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0004979,ISIC_0026596,mel,histo,85.0,male,back,vidir_modern,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+HAM_0000971,ISIC_0026546,nv,histo,25.0,female,unknown,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0001971,ISIC_0026839,nv,histo,50.0,male,back,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+HAM_0003142,ISIC_0026956,nv,histo,60.0,female,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004575,ISIC_0024789,nv,histo,50.0,female,ear,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0002582,ISIC_0032813,nv,histo,50.0,male,abdomen,vidir_modern,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,13
+HAM_0001953,ISIC_0031498,mel,histo,65.0,male,back,rosendahl,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,14
+HAM_0006080,ISIC_0033347,nv,histo,40.0,male,upper extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004397,ISIC_0025589,mel,histo,55.0,female,neck,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+HAM_0003801,ISIC_0033914,nv,histo,45.0,male,face,vidir_modern,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6
+HAM_0004600,ISIC_0028865,nv,histo,45.0,male,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004676,ISIC_0026247,mel,histo,85.0,male,back,vidir_modern,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0001953,ISIC_0031498,mel,histo,65.0,male,back,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+HAM_0002617,ISIC_0033957,mel,histo,60.0,male,upper extremity,vidir_modern,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+HAM_0007013,ISIC_0029544,nv,histo,85.0,male,back,rosendahl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,10
+HAM_0006835,ISIC_0026577,nv,histo,75.0,male,chest,rosendahl,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0001446,ISIC_0026754,mel,histo,65.0,female,scalp,vidir_modern,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,8
+HAM_0005805,ISIC_0027505,nv,histo,20.0,female,chest,vienna_dias,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006187,ISIC_0028214,nv,histo,50.0,male,scalp,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0006799,ISIC_0032677,nv,histo,25.0,female,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003534,ISIC_0031746,mel,histo,85.0,male,chest,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0006550,ISIC_0033007,nv,histo,50.0,female,lower extremity,vidir_modern,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+HAM_0006004,ISIC_0027702,mel,histo,70.0,female,back,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0001968,ISIC_0027421,nv,histo,35.0,male,scalp,vidir_modern,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003562,ISIC_0030962,nv,histo,60.0,female,face,rosendahl,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,11
+HAM_0004984,ISIC_0033630,mel,histo,80.0,male,face,vidir_modern,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1
+HAM_0003558,ISIC_0025303,mel,histo,55.0,male,back,vidir_modern,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7
+HAM_0001604,ISIC_0025458,nv,histo,45.0,female,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000996,ISIC_0027122,nv,histo,65.0,male,abdomen,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006258,ISIC_0028484,nv,histo,10.0,female,upper extremity,rosendahl,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0001274,ISIC_0032462,mel,histo,70.0,male,upper extremity,rosendahl,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13
+HAM_0007606,ISIC_0027907,nv,histo,70.0,female,foot,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+HAM_0000313,ISIC_0033100,nv,histo,40.0,male,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002952,ISIC_0033843,mel,histo,80.0,male,upper extremity,vidir_modern,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3
+HAM_0003767,ISIC_0030247,nv,histo,60.0,male,upper extremity,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0004853,ISIC_0032695,mel,histo,80.0,male,upper extremity,vidir_modern,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+HAM_0003352,ISIC_0032667,nv,histo,35.0,unknown,trunk,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005571,ISIC_0032825,nv,histo,35.0,male,neck,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004532,ISIC_0026706,nv,histo,40.0,female,back,rosendahl,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0004133,ISIC_0026028,nv,histo,40.0,female,lower extremity,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005541,ISIC_0025410,nv,histo,50.0,male,lower extremity,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003225,ISIC_0029740,mel,histo,65.0,male,neck,vidir_modern,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0002375,ISIC_0027442,mel,histo,80.0,male,neck,rosendahl,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,4
+HAM_0002314,ISIC_0027662,nv,histo,15.0,male,upper extremity,vidir_modern,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0000863,ISIC_0028899,mel,histo,70.0,male,back,rosendahl,1,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,7
+HAM_0001046,ISIC_0032951,nv,histo,40.0,male,abdomen,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003311,ISIC_0026452,nv,histo,55.0,female,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0007510,ISIC_0027382,nv,histo,20.0,female,lower extremity,rosendahl,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+HAM_0004997,ISIC_0027718,nv,histo,35.0,male,back,vidir_modern,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0006516,ISIC_0033315,nv,histo,35.0,female,trunk,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+HAM_0005364,ISIC_0032525,nv,histo,40.0,male,back,vidir_modern,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0004738,ISIC_0027512,nv,histo,85.0,male,chest,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004773,ISIC_0034148,nv,histo,25.0,female,chest,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002796,ISIC_0025261,nv,histo,20.0,female,abdomen,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0005789,ISIC_0032095,mel,histo,55.0,male,chest,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005433,ISIC_0034210,nv,histo,55.0,female,trunk,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005854,ISIC_0025926,nv,histo,60.0,female,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005249,ISIC_0033320,mel,histo,40.0,female,lower extremity,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0004779,ISIC_0024962,mel,histo,35.0,male,back,vienna_dias,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+HAM_0003614,ISIC_0032560,nv,histo,40.0,male,chest,vidir_modern,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+HAM_0002015,ISIC_0034035,nv,histo,30.0,female,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000268,ISIC_0034110,nv,histo,10.0,female,trunk,vidir_modern,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0007425,ISIC_0025823,nv,histo,15.0,female,foot,vidir_modern,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4
+HAM_0007003,ISIC_0025638,nv,histo,20.0,female,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004133,ISIC_0024941,nv,histo,40.0,female,lower extremity,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005239,ISIC_0028679,nv,histo,25.0,female,unknown,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003686,ISIC_0024870,nv,histo,25.0,male,upper extremity,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000362,ISIC_0030180,nv,histo,30.0,male,lower extremity,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0007234,ISIC_0033362,mel,histo,85.0,female,back,vidir_modern,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+HAM_0000095,ISIC_0033186,mel,histo,55.0,male,lower extremity,vidir_modern,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,6
+HAM_0000079,ISIC_0033752,mel,histo,50.0,female,face,vidir_modern,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4
+HAM_0006171,ISIC_0025663,mel,histo,75.0,female,upper extremity,rosendahl,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6
+HAM_0005274,ISIC_0033141,mel,histo,55.0,male,upper extremity,vidir_modern,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6
+HAM_0007516,ISIC_0024441,nv,histo,45.0,female,back,rosendahl,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7
+HAM_0005537,ISIC_0028643,nv,histo,60.0,male,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003857,ISIC_0028210,nv,histo,40.0,male,back,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000042,ISIC_0033981,mel,histo,45.0,female,upper extremity,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0000619,ISIC_0026690,mel,histo,50.0,male,lower extremity,rosendahl,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,13
+HAM_0004189,ISIC_0033036,nv,histo,40.0,female,unknown,vidir_modern,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,13
+HAM_0003127,ISIC_0028957,nv,histo,35.0,male,back,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003354,ISIC_0032892,mel,histo,85.0,female,back,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3
+HAM_0004076,ISIC_0033864,nv,histo,0.0,unknown,back,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+HAM_0003182,ISIC_0029028,mel,histo,85.0,female,trunk,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0001641,ISIC_0033680,nv,histo,60.0,male,abdomen,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2
+HAM_0001524,ISIC_0032915,mel,histo,75.0,male,lower extremity,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1
+HAM_0005051,ISIC_0031798,nv,histo,20.0,male,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005785,ISIC_0028489,mel,histo,70.0,male,upper extremity,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0007278,ISIC_0025009,nv,histo,,female,chest,rosendahl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,14
+HAM_0007511,ISIC_0024333,mel,histo,85.0,male,lower extremity,rosendahl,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10
+HAM_0005339,ISIC_0025428,nv,histo,35.0,male,back,vidir_modern,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+HAM_0003282,ISIC_0032474,nv,histo,60.0,male,chest,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000468,ISIC_0024524,nv,histo,5.0,female,lower extremity,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7
+HAM_0000590,ISIC_0030951,mel,histo,85.0,female,lower extremity,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0000676,ISIC_0032969,nv,histo,40.0,male,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004418,ISIC_0026376,nv,histo,30.0,male,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003617,ISIC_0029502,mel,histo,50.0,female,upper extremity,vienna_dias,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0003601,ISIC_0030795,mel,histo,60.0,male,back,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0001928,ISIC_0033725,mel,histo,55.0,male,chest,vidir_modern,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+HAM_0000423,ISIC_0033813,mel,histo,55.0,male,lower extremity,vidir_modern,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0004364,ISIC_0026697,mel,histo,75.0,male,face,vidir_modern,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10
+HAM_0007049,ISIC_0028179,nv,histo,55.0,male,lower extremity,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005490,ISIC_0033931,mel,histo,70.0,male,upper extremity,vidir_modern,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1
+HAM_0000767,ISIC_0031239,mel,histo,60.0,male,back,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0006886,ISIC_0032823,mel,histo,55.0,male,back,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0004898,ISIC_0029480,mel,histo,55.0,female,lower extremity,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+HAM_0001739,ISIC_0032884,nv,histo,80.0,male,abdomen,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+HAM_0005185,ISIC_0033876,nv,histo,40.0,female,lower extremity,vidir_modern,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+HAM_0001525,ISIC_0025662,nv,histo,35.0,male,upper extremity,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000187,ISIC_0026260,nv,histo,55.0,male,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002481,ISIC_0024684,nv,histo,20.0,male,chest,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+HAM_0003634,ISIC_0034023,nv,histo,45.0,male,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005251,ISIC_0026868,mel,histo,75.0,male,lower extremity,rosendahl,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,8
+HAM_0000274,ISIC_0031479,mel,histo,75.0,female,lower extremity,vidir_modern,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,13
+HAM_0003512,ISIC_0034300,nv,histo,35.0,male,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0007415,ISIC_0032515,nv,histo,35.0,female,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000002,ISIC_0032622,mel,histo,65.0,female,lower extremity,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+HAM_0000073,ISIC_0030817,nv,histo,50.0,male,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000611,ISIC_0033801,mel,histo,30.0,female,back,vidir_modern,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0000375,ISIC_0031233,mel,histo,45.0,male,back,rosendahl,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,8
+HAM_0002823,ISIC_0031354,nv,histo,35.0,female,face,rosendahl,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,10
+HAM_0005992,ISIC_0032723,mel,histo,25.0,female,back,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+HAM_0006521,ISIC_0025155,mel,histo,80.0,male,lower extremity,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0006423,ISIC_0028352,mel,histo,55.0,male,back,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0003556,ISIC_0033175,mel,histo,60.0,male,lower extremity,vidir_modern,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4
+HAM_0000534,ISIC_0025235,mel,histo,45.0,female,lower extremity,rosendahl,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,10
+HAM_0002016,ISIC_0032753,nv,histo,70.0,male,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005769,ISIC_0028472,nv,histo,60.0,male,abdomen,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0001381,ISIC_0029174,nv,histo,80.0,male,scalp,rosendahl,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0000880,ISIC_0033562,mel,histo,60.0,male,face,vidir_modern,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,13
+HAM_0000373,ISIC_0024806,mel,histo,70.0,female,back,rosendahl,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,4
+HAM_0002417,ISIC_0032943,nv,histo,,male,upper extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000152,ISIC_0032244,mel,histo,75.0,female,face,vidir_modern,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0005888,ISIC_0032355,nv,histo,65.0,female,trunk,vidir_molemax,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6
+HAM_0003299,ISIC_0026237,nv,histo,25.0,female,foot,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+HAM_0004814,ISIC_0033107,nv,histo,65.0,male,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003137,ISIC_0033233,nv,histo,40.0,female,lower extremity,vidir_modern,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002908,ISIC_0034182,nv,histo,65.0,male,back,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,9
+HAM_0003193,ISIC_0032818,nv,histo,35.0,female,abdomen,vidir_modern,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+HAM_0001316,ISIC_0031660,nv,histo,45.0,male,back,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+HAM_0005715,ISIC_0032519,nv,histo,65.0,male,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0004164,ISIC_0030695,mel,histo,80.0,male,lower extremity,rosendahl,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,12
+HAM_0005400,ISIC_0029363,mel,histo,80.0,male,back,rosendahl,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+HAM_0003263,ISIC_0028226,nv,histo,25.0,male,lower extremity,rosendahl,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+HAM_0000747,ISIC_0034044,nv,histo,30.0,male,trunk,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,11
+HAM_0005095,ISIC_0030324,mel,histo,85.0,male,face,vidir_modern,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,14
+HAM_0005040,ISIC_0033638,mel,histo,40.0,female,upper extremity,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0007448,ISIC_0032294,nv,histo,50.0,male,trunk,vidir_modern,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,12
+HAM_0007483,ISIC_0032628,nv,histo,35.0,female,back,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0002031,ISIC_0031917,nv,histo,30.0,male,back,vienna_dias,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+HAM_0002856,ISIC_0028154,nv,histo,70.0,male,upper extremity,vidir_modern,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0000459,ISIC_0026584,nv,histo,75.0,male,upper extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+HAM_0006760,ISIC_0031559,nv,histo,35.0,female,abdomen,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000321,ISIC_0032564,mel,histo,70.0,male,back,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+HAM_0005251,ISIC_0026868,mel,histo,75.0,male,lower extremity,rosendahl,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1
+HAM_0007356,ISIC_0025869,nv,histo,60.0,male,upper extremity,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3
+HAM_0001097,ISIC_0032950,nv,histo,50.0,female,chest,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0007483,ISIC_0032942,nv,histo,35.0,female,back,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5
+HAM_0000897,ISIC_0029306,nv,histo,35.0,female,acral,vienna_dias,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0006803,ISIC_0024545,mel,histo,60.0,female,abdomen,vidir_modern,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,7
+HAM_0006092,ISIC_0029241,mel,histo,70.0,male,face,vidir_modern,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5
+HAM_0006011,ISIC_0034150,mel,histo,85.0,male,back,vidir_modern,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6
+HAM_0004443,ISIC_0028758,nv,histo,75.0,male,face,rosendahl,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000380,ISIC_0025836,nv,histo,85.0,female,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002800,ISIC_0026239,mel,histo,55.0,male,chest,rosendahl,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0005153,ISIC_0030847,nv,histo,65.0,male,lower extremity,rosendahl,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+HAM_0002189,ISIC_0030940,nv,histo,55.0,male,scalp,rosendahl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,10
+HAM_0003447,ISIC_0033142,nv,histo,65.0,male,abdomen,vidir_modern,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003315,ISIC_0030281,mel,histo,50.0,female,trunk,vidir_modern,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,7
+HAM_0001612,ISIC_0025618,nv,histo,30.0,female,foot,vienna_dias,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3
+HAM_0003125,ISIC_0025477,nv,histo,55.0,male,chest,rosendahl,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+HAM_0003468,ISIC_0025641,nv,histo,60.0,female,lower extremity,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+HAM_0000313,ISIC_0033292,nv,histo,40.0,male,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005175,ISIC_0032278,nv,histo,60.0,female,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002576,ISIC_0031368,mel,histo,55.0,male,lower extremity,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+HAM_0001444,ISIC_0026352,mel,histo,40.0,female,lower extremity,vienna_dias,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+HAM_0003495,ISIC_0032869,mel,histo,85.0,male,back,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+HAM_0000977,ISIC_0028803,nv,histo,45.0,male,abdomen,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0007169,ISIC_0033433,nv,histo,20.0,male,foot,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+HAM_0003634,ISIC_0034023,nv,histo,45.0,male,lower extremity,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+HAM_0005352,ISIC_0027100,mel,histo,75.0,male,face,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0000704,ISIC_0033823,nv,histo,35.0,female,trunk,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+HAM_0005987,ISIC_0029993,nv,histo,80.0,female,lower extremity,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000589,ISIC_0027103,nv,histo,15.0,female,neck,vidir_modern,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+HAM_0001729,ISIC_0024537,mel,histo,85.0,male,upper extremity,vidir_modern,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,11
+HAM_0004853,ISIC_0034101,mel,histo,80.0,male,upper extremity,vidir_modern,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,14
+HAM_0001953,ISIC_0025611,mel,histo,65.0,male,back,rosendahl,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+HAM_0006923,ISIC_0032656,mel,histo,80.0,male,foot,vidir_modern,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,5
+HAM_0003614,ISIC_0032560,nv,histo,40.0,male,chest,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0001755,ISIC_0029393,nv,histo,25.0,male,trunk,vienna_dias,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,13
+HAM_0007385,ISIC_0030920,nv,histo,30.0,male,scalp,rosendahl,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0000040,ISIC_0027190,mel,histo,80.0,male,upper extremity,rosendahl,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,12
+HAM_0000006,ISIC_0032187,mel,histo,70.0,male,back,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1
+HAM_0004302,ISIC_0028582,mel,histo,60.0,male,abdomen,vidir_modern,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0004936,ISIC_0029705,mel,histo,80.0,male,chest,rosendahl,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,7
+HAM_0001001,ISIC_0026852,nv,histo,40.0,female,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003983,ISIC_0033975,mel,histo,85.0,male,abdomen,vidir_modern,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0007350,ISIC_0030892,nv,histo,45.0,male,back,vidir_modern,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0003566,ISIC_0034052,mel,histo,50.0,male,abdomen,vidir_modern,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+HAM_0005987,ISIC_0026741,nv,histo,80.0,female,lower extremity,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0003735,ISIC_0033800,nv,histo,40.0,female,back,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0007374,ISIC_0025730,nv,histo,30.0,male,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006699,ISIC_0024571,mel,histo,65.0,male,face,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0002480,ISIC_0028589,nv,histo,75.0,male,foot,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006185,ISIC_0032309,nv,histo,25.0,male,trunk,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005363,ISIC_0033944,nv,histo,60.0,male,trunk,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000194,ISIC_0030456,nv,histo,50.0,female,lower extremity,rosendahl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6
+HAM_0000863,ISIC_0028899,mel,histo,70.0,male,back,rosendahl,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+HAM_0001437,ISIC_0033580,nv,histo,10.0,male,foot,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+HAM_0001531,ISIC_0024951,mel,histo,70.0,male,back,vidir_modern,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1
+HAM_0006853,ISIC_0031863,nv,histo,50.0,male,lower extremity,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0000097,ISIC_0033103,mel,histo,65.0,male,foot,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1
+HAM_0001679,ISIC_0027783,nv,histo,50.0,female,abdomen,rosendahl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,9
+HAM_0006910,ISIC_0029862,nv,histo,40.0,female,lower extremity,rosendahl,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,10
+HAM_0007311,ISIC_0026367,nv,histo,45.0,male,face,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005298,ISIC_0029662,nv,histo,50.0,female,foot,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0000397,ISIC_0024538,nv,histo,35.0,male,trunk,vienna_dias,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4
+HAM_0007451,ISIC_0032527,nv,histo,45.0,male,lower extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005854,ISIC_0025926,nv,histo,60.0,female,back,rosendahl,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+HAM_0003299,ISIC_0026237,nv,histo,25.0,female,foot,vidir_modern,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,14
+HAM_0007163,ISIC_0032750,mel,histo,50.0,female,lower extremity,vidir_modern,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,10
+HAM_0005588,ISIC_0026458,mel,histo,80.0,female,lower extremity,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+HAM_0007367,ISIC_0032705,nv,histo,5.0,male,trunk,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0001547,ISIC_0034209,nv,histo,25.0,male,lower extremity,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HAM_0001452,ISIC_0026402,nv,histo,25.0,female,lower extremity,vienna_dias,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002471,ISIC_0027060,mel,histo,40.0,female,lower extremity,vidir_modern,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+HAM_0002841,ISIC_0032982,mel,histo,20.0,male,back,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HAM_0001272,ISIC_0029265,mel,histo,85.0,male,upper extremity,vidir_modern,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11
+HAM_0006004,ISIC_0027702,mel,histo,70.0,female,back,rosendahl,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8
+HAM_0001512,ISIC_0028101,nv,histo,20.0,female,trunk,vienna_dias,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+HAM_0000836,ISIC_0030960,nv,histo,45.0,female,back,rosendahl,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0002100,ISIC_0031440,nv,histo,55.0,male,back,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0005381,ISIC_0025153,mel,histo,45.0,female,lower extremity,vidir_modern,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1
+HAM_0007420,ISIC_0031890,mel,histo,85.0,male,face,vidir_modern,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+HAM_0000182,ISIC_0025096,nv,histo,60.0,male,neck,vienna_dias,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8
+HAM_0001895,ISIC_0029196,nv,histo,25.0,male,chest,vienna_dias,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0006675,ISIC_0033672,nv,histo,65.0,female,upper extremity,vidir_modern,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HAM_0006616,ISIC_0031794,nv,histo,85.0,male,upper extremity,rosendahl,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+HAM_0001563,ISIC_0028633,nv,histo,55.0,female,ear,vidir_modern,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
