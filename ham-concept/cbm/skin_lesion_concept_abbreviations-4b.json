@@ -1,0 +1,4584 @@
+[
+  {
+    "image_id": "ISIC_0033420",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030066",
+    "concepts": [
+      "GP",
+      "ESA",
+      "BDG"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033726",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030512",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031795",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031953",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033232",
+    "concepts": [
+      "GP",
+      "BDG",
+      "WLSA",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033704",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026753",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033269",
+    "concepts": [
+      "GP",
+      "BDG",
+      "WLSA",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033708",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032830",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034263",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029756",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027444",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024497",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027087",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030771",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032810",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027262",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030115",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027130",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029926",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032633",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024652",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033502",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028285",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033975",
+    "concepts": [
+      "GP",
+      "WLSA"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028746",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029614",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029904",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027942",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030898",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024668",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031541",
+    "concepts": [
+      "ESA",
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024459",
+    "concepts": [
+      "GP",
+      "ESA",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024355",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027197",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029845",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034205",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029095",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032874",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025782",
+    "concepts": [
+      "GP",
+      "ESA",
+      "BDG"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028829",
+    "concepts": [
+      "GP",
+      "PRL",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026552",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033428",
+    "concepts": [
+      "GP",
+      "BDG",
+      "ESA",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032334",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033708",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027235",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028686",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033966",
+    "concepts": [
+      "GP",
+      "BDG",
+      "PRL",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029516",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033843",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028075",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026491",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030125",
+    "concepts": [
+      "APC",
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026043",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034145",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031005",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033032",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033795",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027757",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029839",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029547",
+    "concepts": [
+      "GP",
+      "BDG",
+      "ESA",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032310",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032779",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034245",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025381",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031784",
+    "concepts": [
+      "GP",
+      "ESA",
+      "WLSA",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028429",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028831",
+    "concepts": [
+      "BDG",
+      "GP",
+      "ESA"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031543",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030575",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028599",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031092",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024481",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028548",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028923",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029075",
+    "concepts": [
+      "GP",
+      "BDG",
+      "ESA",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032823",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033343",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034071",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028718",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034034",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027043",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028306",
+    "concepts": [
+      "GP",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025891",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032690",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027197",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033469",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026497",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025759",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029370",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033673",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025409",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033081",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034180",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033317",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033425",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032922",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030451",
+    "concepts": [
+      "GP",
+      "ESA",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033595",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033232",
+    "concepts": [
+      "GP",
+      "ESA",
+      "BDG"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026216",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033229",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030733",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033233",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033846",
+    "concepts": [
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024529",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033238",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033930",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024836",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026022",
+    "concepts": []
+  },
+  {
+    "image_id": "ISIC_0031957",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024410",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026055",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033739",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033786",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032141",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033149",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033192",
+    "concepts": [
+      "GP",
+      "BDG",
+      "ESA",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024907",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032663",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027872",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025208",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024854",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027469",
+    "concepts": [
+      "GP",
+      "ESA",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032788",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033880",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028929",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033172",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029819",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028091",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025476",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030179",
+    "concepts": [
+      "GP",
+      "BDG",
+      "ESA",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032546",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030140",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032251",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033814",
+    "concepts": [
+      "GP",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032425",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034033",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032561",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029566",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034086",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024674",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029867",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028804",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034222",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033947",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034184",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034233",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027201",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031617",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033170",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030597",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031238",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026081",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025472",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032955",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033745",
+    "concepts": [
+      "GP",
+      "BDG",
+      "ESA",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033838",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028476",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024967",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026445",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032817",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033406",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027255",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034245",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028685",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033883",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033226",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032459",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028362",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025555",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027471",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024862",
+    "concepts": [
+      "GP",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028505",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032242",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034284",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033981",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026738",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031573",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024929",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028139",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027887",
+    "concepts": [
+      "GP",
+      "BDG",
+      "ESA"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028215",
+    "concepts": [
+      "ESA",
+      "GP",
+      "BDG"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032029",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032096",
+    "concepts": [
+      "GP",
+      "BDG"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032944",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033244",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032927",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026754",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033452",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032639",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033441",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034077",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024653",
+    "concepts": [
+      "GP",
+      "BDG"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029187",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033261",
+    "concepts": [
+      "GP",
+      "BDG",
+      "PRL"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026217",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029089",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026260",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034247",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033403",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025871",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034257",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026096",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026108",
+    "concepts": [
+      "GP",
+      "SPC",
+      "PRL"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029914",
+    "concepts": [
+      "GP",
+      "ESA",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024911",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028843",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025051",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027350",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033794",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028235",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033702",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025128",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028220",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027616",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029017",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033558",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028211",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034029",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025667",
+    "concepts": [
+      "GP",
+      "BDG",
+      "ESA",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032149",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027798",
+    "concepts": [
+      "GP",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032581",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031908",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032423",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033202",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024855",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031350",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026866",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033278",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033147",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033839",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030063",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033696",
+    "concepts": [
+      "ESA",
+      "GP",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025106",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027308",
+    "concepts": [
+      "GP",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025603",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024936",
+    "concepts": [
+      "GP",
+      "PRL",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028198",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029636",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028520",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031087",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028578",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034078",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026770",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033114",
+    "concepts": [
+      "ESA",
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029457",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024314",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025506",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032918",
+    "concepts": [
+      "GP",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032284",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034317",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033937",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030370",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032260",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030106",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025073",
+    "concepts": [
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030742",
+    "concepts": [
+      "GP",
+      "BDG",
+      "ESA",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032899",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032988",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034030",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030588",
+    "concepts": [
+      "GP",
+      "BDG",
+      "ESA"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028551",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029572",
+    "concepts": [
+      "GP",
+      "BDG",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025074",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027552",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034122",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025512",
+    "concepts": [
+      "GP",
+      "ESA",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027300",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028518",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033897",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034029",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033927",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027863",
+    "concepts": [
+      "GP",
+      "SPC",
+      "PRL"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033530",
+    "concepts": [
+      "GP",
+      "BDG"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032564",
+    "concepts": [
+      "GP",
+      "WLSA",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029194",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027679",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033700",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030925",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027137",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033941",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030654",
+    "concepts": [
+      "BDG",
+      "GP",
+      "ESA",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032914",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028810",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026029",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026823",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025969",
+    "concepts": [
+      "GP",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034253",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025469",
+    "concepts": [
+      "GP",
+      "BDG",
+      "ESA",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025295",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030360",
+    "concepts": [
+      "GP",
+      "ESA",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030340",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029298",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029512",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026158",
+    "concepts": [
+      "GP",
+      "BDG",
+      "ESA",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032723",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025112",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032679",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025990",
+    "concepts": [
+      "GP",
+      "SPC",
+      "PRL"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026389",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026690",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030966",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025372",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034039",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032227",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031368",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028454",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034067",
+    "concepts": [
+      "BDG",
+      "GP",
+      "ESA"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033010",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025616",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025096",
+    "concepts": [
+      "GP",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033995",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025942",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032964",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029656",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027987",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034046",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028882",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032770",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029072",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031389",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026097",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028478",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033186",
+    "concepts": [
+      "GP",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025305",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024314",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031757",
+    "concepts": [
+      "BDG",
+      "GP",
+      "ESA"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032981",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029809",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029409",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031143",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024701",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034117",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028715",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025456",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029079",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026270",
+    "concepts": [
+      "BDG",
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031917",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031756",
+    "concepts": [
+      "ESA",
+      "GP",
+      "WLSA"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025672",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030740",
+    "concepts": [
+      "BDG",
+      "GP",
+      "ESA"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032790",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033845",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029553",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030818",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029667",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031806",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029441",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025732",
+    "concepts": [
+      "GP",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027756",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034295",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027670",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032109",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027797",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026911",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026554",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027863",
+    "concepts": [
+      "GP",
+      "SPC",
+      "PRL"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024695",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032955",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024552",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034088",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030535",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026293",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033800",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033493",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026125",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030184",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028194",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025963",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027614",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026853",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033658",
+    "concepts": [
+      "GP",
+      "BDG",
+      "PRL"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024841",
+    "concepts": [
+      "GP",
+      "BDG",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033792",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024823",
+    "concepts": [
+      "ESA",
+      "GP",
+      "BDG",
+      "PRL",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025970",
+    "concepts": [
+      "GP",
+      "BDG"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024969",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034131",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030426",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027098",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028358",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033911",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025946",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029488",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032197",
+    "concepts": [
+      "GP",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033052",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028344",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026996",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030892",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030060",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034140",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025289",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034237",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026956",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027501",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025277",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029242",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032620",
+    "concepts": [
+      "GP",
+      "ESA",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025641",
+    "concepts": [
+      "GP",
+      "BDG",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025153",
+    "concepts": [
+      "ESA",
+      "GP",
+      "BDG"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025891",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028131",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028032",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028263",
+    "concepts": [
+      "GP",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027065",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033117",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029843",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026596",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026546",
+    "concepts": [
+      "GP",
+      "BDG",
+      "ESA",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026839",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026956",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024789",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032813",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031498",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033347",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025589",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033914",
+    "concepts": [
+      "GP",
+      "ESA",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028865",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026247",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031498",
+    "concepts": [
+      "GP",
+      "ESA",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033957",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029544",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026577",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026754",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027505",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028214",
+    "concepts": [
+      "ESA",
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032677",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031746",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033007",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027702",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027421",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030962",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033630",
+    "concepts": [
+      "GP",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025303",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025458",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027122",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028484",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032462",
+    "concepts": [
+      "GP",
+      "BDG",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027907",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033100",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033843",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030247",
+    "concepts": [
+      "ESA",
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032695",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032667",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032825",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026706",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026028",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025410",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029740",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027442",
+    "concepts": [
+      "GP",
+      "BDG",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027662",
+    "concepts": [
+      "GP",
+      "ESA",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028899",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032951",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026452",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027382",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027718",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033315",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032525",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027512",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034148",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025261",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032095",
+    "concepts": [
+      "GP",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034210",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025926",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033320",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024962",
+    "concepts": [
+      "ESA",
+      "GP",
+      "BDG",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032560",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034035",
+    "concepts": [
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034110",
+    "concepts": [
+      "GP",
+      "BDG"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025823",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025638",
+    "concepts": [
+      "GP",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024941",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028679",
+    "concepts": [
+      "GP",
+      "BDG",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024870",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030180",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033362",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033186",
+    "concepts": [
+      "GP",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033752",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025663",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033141",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024441",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028643",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028210",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033981",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026690",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033036",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028957",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032892",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033864",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029028",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033680",
+    "concepts": []
+  },
+  {
+    "image_id": "ISIC_0032915",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031798",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028489",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025009",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024333",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025428",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032474",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024524",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030951",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032969",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026376",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029502",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030795",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033725",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033813",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026697",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028179",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033931",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031239",
+    "concepts": [
+      "GP",
+      "PV",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032823",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029480",
+    "concepts": [
+      "BDG",
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032884",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033876",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025662",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026260",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024684",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034023",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026868",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031479",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034300",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032515",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032622",
+    "concepts": [
+      "GP",
+      "BDG",
+      "ESA",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030817",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033801",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031233",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031354",
+    "concepts": [
+      "GP",
+      "BDG"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032723",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025155",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028352",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033175",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025235",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032753",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028472",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029174",
+    "concepts": [
+      "ESA",
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033562",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024806",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032943",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032244",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032355",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026237",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033107",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033233",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034182",
+    "concepts": [
+      "GP",
+      "BDG",
+      "PRL"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032818",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031660",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032519",
+    "concepts": [
+      "GP",
+      "BDG",
+      "ESA",
+      "WLSA"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030695",
+    "concepts": [
+      "GP",
+      "BDG",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029363",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028226",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034044",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030324",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033638",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032294",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032628",
+    "concepts": [
+      "GP",
+      "PRL",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031917",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028154",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026584",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031559",
+    "concepts": [
+      "ESA",
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032564",
+    "concepts": [
+      "GP",
+      "WLSA",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026868",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025869",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032950",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032942",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029306",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024545",
+    "concepts": [
+      "ESA",
+      "GP",
+      "WLSA",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029241",
+    "concepts": [
+      "GP",
+      "WLSA",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034150",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028758",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025836",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026239",
+    "concepts": [
+      "BDG",
+      "GP",
+      "ESA"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030847",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030940",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033142",
+    "concepts": [
+      "GP",
+      "SPC",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030281",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025618",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025477",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025641",
+    "concepts": [
+      "GP",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033292",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032278",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031368",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026352",
+    "concepts": [
+      "GP",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032869",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028803",
+    "concepts": []
+  },
+  {
+    "image_id": "ISIC_0033433",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034023",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027100",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033823",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029993",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027103",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024537",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034101",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025611",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032656",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032560",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029393",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030920",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027190",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032187",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028582",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029705",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026852",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033975",
+    "concepts": [
+      "GP",
+      "WLSA"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030892",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034052",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026741",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033800",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025730",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024571",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028589",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032309",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033944",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030456",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028899",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033580",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024951",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031863",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033103",
+    "concepts": [
+      "GP",
+      "BDG",
+      "PRL",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027783",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029862",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026367",
+    "concepts": [
+      "BDG",
+      "GP",
+      "PV"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029662",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0024538",
+    "concepts": [
+      "GP",
+      "PV",
+      "PRL",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032527",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025926",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026237",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032750",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026458",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032705",
+    "concepts": [
+      "BDG",
+      "GP",
+      "PRL"
+    ]
+  },
+  {
+    "image_id": "ISIC_0034209",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0026402",
+    "concepts": [
+      "GP"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027060",
+    "concepts": [
+      "GP",
+      "BDG",
+      "PRL"
+    ]
+  },
+  {
+    "image_id": "ISIC_0032982",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029265",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0027702",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0028101",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0030960",
+    "concepts": [
+      "GP",
+      "BDG",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031440",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025153",
+    "concepts": [
+      "ESA",
+      "GP",
+      "BDG"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031890",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0025096",
+    "concepts": [
+      "GP",
+      "BDG",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0029196",
+    "concepts": [
+      "GP",
+      "SPC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0033672",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  },
+  {
+    "image_id": "ISIC_0031794",
+    "concepts": [
+      "GP",
+      "APC"
+    ]
+  }
+]

@@ -19,13 +19,16 @@ HAM_CONCEPT_DATASET_PATH = f"{BASE_PROJECT_PATH}/ham_concept_dataset"
 
 IMAGE_DIR = f"{HAM_CONCEPT_DATASET_PATH}/ISIC2018_Task3_Training_Input"  # Updated image directory
 METADATA_CSV_PATH = f"{HAM_CONCEPT_DATASET_PATH}/Datasets/metadata/val.csv"  # Path to val.csv
-OUTPUT_JSON_PATH = "skin_lesion_concept_abbreviations.json"  # Output JSON file name
 
 # Number of rows to process from val.csv
-NUM_ROWS_TO_PROCESS = 100
+NUM_ROWS_TO_PROCESS = -1
 
+MODEL_SIZE = "12b"
 # Model configuration
-MODEL_NAME = "google/gemma-3-12b-it"  # Use the image-text-to-text model
+MODEL_NAME = f"google/gemma-3-{MODEL_SIZE}-it"  # Use the image-text-to-text model
+
+OUTPUT_JSON_PATH = f"skin_lesion_concept_abbreviations-{MODEL_SIZE}.json"  # Output JSON file name
+
 
 # Define an enhanced prompt for generating descriptive concepts
 SYSTEM_PROMPT = """You are an expert dermatoscopic image analyzer. Your task is to identify and list the presence of specific dermatoscopic features in the provided skin lesion image.
@@ -123,7 +126,7 @@ def main():
             # Load the image
             image = Image.open(image_path).convert('RGB')
                 
-            # Setup the message format for Gemma 3
+            # Setup the message format similar to the working gemma_4b_x_to_c.py
             messages = [
                 {
                     "role": "system", 
@@ -132,15 +135,15 @@ def main():
                 {
                     "role": "user", 
                     "content": [
-                        {"type": "text", "text": USER_PROMPT_TEXT}
+                        {"type": "image", "image": image},  # Embed the image object here
+                        {"type": "text", "text": USER_PROMPT_TEXT} # User's text prompt
                     ]
                 }
             ]
             
             raw_output = pipe(
-                messages,
-                images=[image],  # Pass the image as a keyword argument
-                max_new_tokens=100,
+                text=messages,  # Pass the messages list to the 'text' argument
+                max_new_tokens=64,
                 do_sample=False
             )
             
