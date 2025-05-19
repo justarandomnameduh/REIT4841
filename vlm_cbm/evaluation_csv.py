@@ -3,7 +3,7 @@ import numpy as np
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, balanced_accuracy_score, matthews_corrcoef, confusion_matrix, classification_report, cohen_kappa_score
 
 # Path to files
-predictions_file = '/home/nqmtien/REIT4841/rag_cbm/predictions_gemma.csv'
+predictions_file = '/home/nqmtien/REIT4841/rag_cbm/predictions_gemma_4b.csv'
 ground_truth_file = '/home/nqmtien/REIT4841/rag_cbm/isic_2018_task3/data/validation_ground_truth/ISIC2018_Task3_Validation_GroundTruth/ISIC2018_Task3_Validation_GroundTruth.csv'
 
 # Load data
