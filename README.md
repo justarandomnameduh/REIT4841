@@ -283,8 +283,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or issues:
 - Open an issue in this repository
-- Contact: [Your email/contact information]
-
 ---
 
 **Note**: This repository contains the complete implementation for reproducibility and transparency. The code has been cleaned and documented for public release while maintaining full functionality of all experiments described in the thesis.
