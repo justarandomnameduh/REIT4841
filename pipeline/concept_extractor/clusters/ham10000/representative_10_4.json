@@ -1,0 +1,92 @@
+[
+  {
+    "cluster_id": 0,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0025500.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0030839.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0027639.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0029983.jpg"
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0029894.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0024718.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0027052.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0031015.jpg"
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0028718.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0033362.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0032844.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0032521.jpg"
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0027036.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0034137.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0026105.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0026672.jpg"
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0033213.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0032028.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0034158.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0030031.jpg"
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0031107.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0032470.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0031019.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0032803.jpg"
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0029985.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0032794.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0033887.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0032596.jpg"
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0034102.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0029581.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0025918.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0031369.jpg"
+    ]
+  },
+  {
+    "cluster_id": 8,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0026584.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0028445.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0026611.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0028461.jpg"
+    ]
+  },
+  {
+    "cluster_id": 9,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0034159.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0027908.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0027099.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0033288.jpg"
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "mel": [
+    "Irregular lesion shape",
+    "Asymmetrical morphology",
+    "Ill-defined borders",
+    "Feathery border transition",
+    "Fuzzy border transition",
+    "Border indentations",
+    "Border protrusions",
+    "Highly irregular borders",
+    "Color variegation",
+    "Mottled pigmentation",
+    "Dark brown pigmentation",
+    "Black pigmentation",
+    "Reddish-brown pigmentation",
+    "Heterogeneous pigment distribution",
+    "Intensely pigmented areas",
+    "Asymmetrical color distribution",
+    "Central-peripheral pigment contrast",
+    "Radial streaks (pseudopods)",
+    "Elongated pigmented extensions",
+    "Complex pigment network",
+    "Flat to slightly elevated",
+    "Subtly raised texture",
+    "Superficial desquamation",
+    "Prominent hyperkeratosis",
+    "Erythematous coloration"
+  ],
+  "nv": [
+    "Flat to slightly elevated",
+    "Subtly raised texture",
+    "Light brown pigmentation",
+    "Tan pigmentation",
+    "Dark brown pigmentation",
+    "Black pigmentation",
+    "Complex pigment network",
+    "Central-peripheral pigment contrast",
+    "Heterogeneous pigment distribution",
+    "Intensely pigmented areas"
+  ]
+}

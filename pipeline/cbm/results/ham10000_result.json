@@ -1,0 +1,425 @@
+[
+  {
+    "model": "ham10000_k1_n1_c1",
+    "k": 1,
+    "n": 1,
+    "c": 1,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 104.20961594581604
+  },
+  {
+    "model": "ham10000_k1_n1_c1",
+    "k": 1,
+    "n": 1,
+    "c": 1,
+    "vlm": "qwen",
+    "dataset": "ham10000",
+    "duration_seconds": 100.82974314689636
+  },
+  {
+    "model": "ham10000_k1_n1_c3",
+    "k": 1,
+    "n": 1,
+    "c": 3,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 372.04721760749817
+  },
+  {
+    "model": "ham10000_k1_n1_c3",
+    "k": 1,
+    "n": 1,
+    "c": 3,
+    "vlm": "qwen",
+    "dataset": "ham10000",
+    "duration_seconds": 291.2414426803589
+  },
+  {
+    "model": "ham10000_k1_n1_c5",
+    "k": 1,
+    "n": 1,
+    "c": 5,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 343.22216176986694
+  },
+  {
+    "model": "ham10000_k1_n1_c5",
+    "k": 1,
+    "n": 1,
+    "c": 5,
+    "vlm": "qwen",
+    "dataset": "ham10000",
+    "duration_seconds": 384.2654695510864
+  },
+  {
+    "model": "ham10000_k1_n1_c10",
+    "k": 1,
+    "n": 1,
+    "c": 10,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 316.7930357456207
+  },
+  {
+    "model": "ham10000_k1_n1_c10",
+    "k": 1,
+    "n": 1,
+    "c": 10,
+    "vlm": "qwen",
+    "dataset": "ham10000",
+    "duration_seconds": 322.80846428871155
+  },
+  {
+    "model": "ham10000_k1_n1_c30",
+    "k": 1,
+    "n": 1,
+    "c": 30,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 420.15541982650757
+  },
+  {
+    "model": "ham10000_k1_n1_c30",
+    "k": 1,
+    "n": 1,
+    "c": 30,
+    "vlm": "qwen",
+    "dataset": "ham10000",
+    "duration_seconds": 377.7574017047882
+  },
+  {
+    "model": "ham10000_k1_n1_c50",
+    "k": 1,
+    "n": 1,
+    "c": 50,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 337.17905044555664
+  },
+  {
+    "model": "ham10000_k1_n1_c100",
+    "k": 1,
+    "n": 1,
+    "c": 100,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 444.9074020385742
+  },
+  {
+    "model": "ham10000_k1_n1_c200",
+    "k": 1,
+    "n": 1,
+    "c": 200,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 293.46392846107483
+  },
+  {
+    "model": "ham10000_k1_n2_c50",
+    "k": 1,
+    "n": 2,
+    "c": 50,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 287.96676874160767
+  },
+  {
+    "model": "ham10000_k3_n2_c10",
+    "k": 3,
+    "n": 2,
+    "c": 10,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 493.02886605262756
+  },
+  {
+    "model": "ham10000_k3_n2_c30",
+    "k": 3,
+    "n": 2,
+    "c": 30,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 844.4932832717896
+  },
+  {
+    "model": "ham10000_k3_n2_c50",
+    "k": 3,
+    "n": 2,
+    "c": 50,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 794.1433465480804
+  },
+  {
+    "model": "ham10000_k3_n2_c100",
+    "k": 3,
+    "n": 2,
+    "c": 100,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 825.223432302475
+  },
+  {
+    "model": "ham10000_k3_n2_c200",
+    "k": 3,
+    "n": 2,
+    "c": 200,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 1144.1655564308167
+  },
+  {
+    "model": "ham10000_k3_n4_c10",
+    "k": 3,
+    "n": 4,
+    "c": 10,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 429.02422547340393
+  },
+  {
+    "model": "ham10000_k3_n4_c30",
+    "k": 3,
+    "n": 4,
+    "c": 30,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 984.5692934989929
+  },
+  {
+    "model": "ham10000_k3_n4_c50",
+    "k": 3,
+    "n": 4,
+    "c": 50,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 1209.9806082248688
+  },
+  {
+    "model": "ham10000_k3_n4_c100",
+    "k": 3,
+    "n": 4,
+    "c": 100,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 757.6146197319031
+  },
+  {
+    "model": "ham10000_k3_n4_c200",
+    "k": 3,
+    "n": 4,
+    "c": 200,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 1026.513440132141
+  },
+  {
+    "model": "ham10000_k3_n2_c3",
+    "k": 3,
+    "n": 2,
+    "c": 3,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 643.6048755645752
+  },
+  {
+    "model": "ham10000_k3_n2_c5",
+    "k": 3,
+    "n": 2,
+    "c": 5,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 540.8890254497528
+  },
+  {
+    "model": "ham10000_k3_n4_c3",
+    "k": 3,
+    "n": 4,
+    "c": 3,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 927.3559894561768
+  },
+  {
+    "model": "ham10000_k3_n4_c5",
+    "k": 3,
+    "n": 4,
+    "c": 5,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 622.4090676307678
+  },
+  {
+    "model": "ham10000_k5_n2_c3",
+    "k": 5,
+    "n": 2,
+    "c": 3,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 914.8066704273224
+  },
+  {
+    "model": "ham10000_k5_n2_c5",
+    "k": 5,
+    "n": 2,
+    "c": 5,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 944.9952850341797
+  },
+  {
+    "model": "ham10000_k5_n2_c10",
+    "k": 5,
+    "n": 2,
+    "c": 10,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 556.579610824585
+  },
+  {
+    "model": "ham10000_k5_n2_c30",
+    "k": 5,
+    "n": 2,
+    "c": 30,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 816.0705094337463
+  },
+  {
+    "model": "ham10000_k5_n2_c50",
+    "k": 5,
+    "n": 2,
+    "c": 50,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 569.6143341064453
+  },
+  {
+    "model": "ham10000_k5_n2_c100",
+    "k": 5,
+    "n": 2,
+    "c": 100,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 1179.6038310527802
+  },
+  {
+    "model": "ham10000_k5_n2_c200",
+    "k": 5,
+    "n": 2,
+    "c": 200,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 1450.0860641002655
+  },
+  {
+    "model": "ham10000_k5_n4_c3",
+    "k": 5,
+    "n": 4,
+    "c": 3,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 390.6074833869934
+  },
+  {
+    "model": "ham10000_k5_n4_c5",
+    "k": 5,
+    "n": 4,
+    "c": 5,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 700.3412311077118
+  },
+  {
+    "model": "ham10000_k10_n4_c10",
+    "k": 10,
+    "n": 4,
+    "c": 10,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 602.3430688381195
+  },
+  {
+    "model": "ham10000_k10_n4_c30",
+    "k": 10,
+    "n": 4,
+    "c": 30,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 869.8749957084656
+  },
+  {
+    "model": "ham10000_k10_n4_c50",
+    "k": 10,
+    "n": 4,
+    "c": 50,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 758.703049659729
+  },
+  {
+    "model": "ham10000_k10_n4_c100",
+    "k": 10,
+    "n": 4,
+    "c": 100,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 2401.5058937072754
+  },
+  {
+    "model": "ham10000_k10_n4_c200",
+    "k": 10,
+    "n": 4,
+    "c": 200,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 1451.7636346817017
+  },
+  {
+    "model": "ham10000_k5_n4_c10",
+    "k": 5,
+    "n": 4,
+    "c": 10,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 598.1501889228821
+  },
+  {
+    "model": "ham10000_k5_n4_c30",
+    "k": 5,
+    "n": 4,
+    "c": 30,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 616.4225385189056
+  },
+  {
+    "model": "ham10000_k5_n4_c50",
+    "k": 5,
+    "n": 4,
+    "c": 50,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 750.7909138202667
+  },
+  {
+    "model": "ham10000_k5_n4_c100",
+    "k": 5,
+    "n": 4,
+    "c": 100,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 1738.4044291973114
+  },
+  {
+    "model": "ham10000_k5_n4_c200",
+    "k": 5,
+    "n": 4,
+    "c": 200,
+    "vlm": "gemini",
+    "dataset": "ham10000",
+    "duration_seconds": 2810.107087135315
+  }
+]

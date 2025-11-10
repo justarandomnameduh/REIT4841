@@ -1,0 +1,19 @@
+{
+  "all": [
+    "Asymmetric, irregular borders",
+    "Color heterogeneity",
+    "Surface texture/regression"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Asymmetric, irregular borders",
+      "Color heterogeneity",
+      "Surface texture/regression"
+    ],
+    "nv": [
+      "Asymmetric, irregular borders",
+      "Color heterogeneity",
+      "Surface texture/regression"
+    ]
+  }
+}

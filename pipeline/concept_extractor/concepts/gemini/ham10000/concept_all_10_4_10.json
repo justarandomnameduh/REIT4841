@@ -1,0 +1,33 @@
+{
+  "all": [
+    "Fine Reticular Pattern",
+    "Radial Streaking/Pseudopods",
+    "Pigment Heterogeneity",
+    "Granular/Pebbled Texture",
+    "Prominent Telangiectasias",
+    "Nodular Elevation",
+    "Cerebriform Epidermal Pattern",
+    "Surface Scaling/Crusting",
+    "Arborizing Pigment Network",
+    "Blue-Grey Pigmentation"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Radial Streaking/Pseudopods",
+      "Pigment Heterogeneity",
+      "Granular/Pebbled Texture",
+      "Prominent Telangiectasias",
+      "Nodular Elevation",
+      "Surface Scaling/Crusting",
+      "Arborizing Pigment Network",
+      "Blue-Grey Pigmentation"
+    ],
+    "nv": [
+      "Fine Reticular Pattern",
+      "Granular/Pebbled Texture",
+      "Nodular Elevation",
+      "Cerebriform Epidermal Pattern",
+      "Blue-Grey Pigmentation"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "all": [
+    "Border Irregularity",
+    "Internal Pigment Architecture",
+    "Epidermal Surface Texture"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Border Irregularity",
+      "Internal Pigment Architecture",
+      "Epidermal Surface Texture"
+    ],
+    "nv": [
+      "Border Irregularity",
+      "Internal Pigment Architecture",
+      "Epidermal Surface Texture"
+    ]
+  }
+}

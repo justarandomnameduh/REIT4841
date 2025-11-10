@@ -1,0 +1,19 @@
+{
+  "all": [
+    "Variegated color",
+    "Radial streaks/pseudopods",
+    "Disorganized internal pattern"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Variegated color",
+      "Radial streaks/pseudopods",
+      "Disorganized internal pattern"
+    ],
+    "nv": [
+      "Variegated color",
+      "Radial streaks/pseudopods",
+      "Disorganized internal pattern"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "all": [
+    "Radial streaks",
+    "Fine scaling pattern",
+    "Dark linear streaks"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Radial streaks",
+      "Dark linear streaks"
+    ],
+    "nv": [
+      "Dark linear streaks",
+      "Radial streaks"
+    ]
+  }
+}

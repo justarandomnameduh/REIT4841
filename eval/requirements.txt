@@ -1,0 +1,21 @@
+# Clinical Relevance Evaluation Dependencies
+
+# Core ML/NLP
+torch>=2.0.0
+transformers>=4.30.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# API Integration (for Gemini mapping)
+google-generativeai>=0.3.0
+python-dotenv>=1.0.0
+
+# Progress Bars
+tqdm>=4.65.0
+

@@ -1,0 +1,33 @@
+{
+  "all": [
+    "Lesion Asymmetry",
+    "Variegated Coloration",
+    "Ill-defined Borders",
+    "Radial Streaks Pseudopods",
+    "Chaotic Internal Structure",
+    "Peripheral Pigment Diffusion",
+    "Aggregated Pigment Globs",
+    "Central Erythema",
+    "Irregular Lesion Contours",
+    "Absent Pigment Network"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Lesion Asymmetry",
+      "Variegated Coloration",
+      "Ill-defined Borders",
+      "Radial Streaks Pseudopods",
+      "Chaotic Internal Structure",
+      "Peripheral Pigment Diffusion",
+      "Aggregated Pigment Globs",
+      "Irregular Lesion Contours",
+      "Absent Pigment Network"
+    ],
+    "nv": [
+      "Aggregated Pigment Globs",
+      "Absent Pigment Network",
+      "Lesion Asymmetry",
+      "Ill-defined Borders"
+    ]
+  }
+}

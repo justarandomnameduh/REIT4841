@@ -1,0 +1,12 @@
+__pycache__/
+.env
+*.env
+.ipynb_checkpoints
+.vscode/
+*.pkl
+*.pth
+*.ckpt
+*.h5
+*.npy
+*.log
+wandb/

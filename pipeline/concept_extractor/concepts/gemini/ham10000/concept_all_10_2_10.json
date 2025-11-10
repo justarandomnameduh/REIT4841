@@ -1,0 +1,30 @@
+{
+  "all": [
+    "Pseudoreticular pigment pattern",
+    "Ill-defined feathery borders",
+    "Starburst pattern",
+    "Color heterogeneity",
+    "Cerebriform epidermal pattern",
+    "Architectural disorganization",
+    "Translucent reddish papules",
+    "Prominent reticular vasculature",
+    "Dendritic/leaf-like pattern",
+    "Central punctate globules"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Ill-defined feathery borders",
+      "Color heterogeneity",
+      "Architectural disorganization",
+      "Translucent reddish papules",
+      "Prominent reticular vasculature",
+      "Dendritic/leaf-like pattern"
+    ],
+    "nv": [
+      "Pseudoreticular pigment pattern",
+      "Starburst pattern",
+      "Cerebriform epidermal pattern",
+      "Central punctate globules"
+    ]
+  }
+}

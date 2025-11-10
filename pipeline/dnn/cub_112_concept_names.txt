@@ -1,0 +1,115 @@
+# CUB-200-2011: 112 Selected Concept Names
+# Reference: Concept Bottleneck Models (Koh et al., 2020)
+
+  0. [  1] has_bill_shape::dagger
+  1. [  4] has_bill_shape::hooked_seabird
+  2. [  6] has_bill_shape::all-purpose
+  3. [  7] has_bill_shape::cone
+  4. [ 10] has_wing_color::brown
+  5. [ 14] has_wing_color::grey
+  6. [ 15] has_wing_color::yellow
+  7. [ 20] has_wing_color::black
+  8. [ 21] has_wing_color::white
+  9. [ 23] has_wing_color::buff
+ 10. [ 25] has_upperparts_color::brown
+ 11. [ 29] has_upperparts_color::grey
+ 12. [ 30] has_upperparts_color::yellow
+ 13. [ 35] has_upperparts_color::black
+ 14. [ 36] has_upperparts_color::white
+ 15. [ 38] has_upperparts_color::buff
+ 16. [ 40] has_underparts_color::brown
+ 17. [ 44] has_underparts_color::grey
+ 18. [ 45] has_underparts_color::yellow
+ 19. [ 50] has_underparts_color::black
+ 20. [ 51] has_underparts_color::white
+ 21. [ 53] has_underparts_color::buff
+ 22. [ 54] has_breast_pattern::solid
+ 23. [ 56] has_breast_pattern::striped
+ 24. [ 57] has_breast_pattern::multi-colored
+ 25. [ 59] has_back_color::brown
+ 26. [ 63] has_back_color::grey
+ 27. [ 64] has_back_color::yellow
+ 28. [ 69] has_back_color::black
+ 29. [ 70] has_back_color::white
+ 30. [ 72] has_back_color::buff
+ 31. [ 75] has_tail_shape::notched_tail
+ 32. [ 80] has_upper_tail_color::brown
+ 33. [ 84] has_upper_tail_color::grey
+ 34. [ 90] has_upper_tail_color::black
+ 35. [ 91] has_upper_tail_color::white
+ 36. [ 93] has_upper_tail_color::buff
+ 37. [ 99] has_head_pattern::eyebrow
+ 38. [101] has_head_pattern::plain
+ 39. [106] has_breast_color::brown
+ 40. [110] has_breast_color::grey
+ 41. [111] has_breast_color::yellow
+ 42. [116] has_breast_color::black
+ 43. [117] has_breast_color::white
+ 44. [119] has_breast_color::buff
+ 45. [125] has_throat_color::grey
+ 46. [126] has_throat_color::yellow
+ 47. [131] has_throat_color::black
+ 48. [132] has_throat_color::white
+ 49. [134] has_throat_color::buff
+ 50. [145] has_eye_color::black
+ 51. [149] has_bill_length::about_the_same_as_head
+ 52. [151] has_bill_length::shorter_than_head
+ 53. [152] has_forehead_color::blue
+ 54. [153] has_forehead_color::brown
+ 55. [157] has_forehead_color::grey
+ 56. [158] has_forehead_color::yellow
+ 57. [163] has_forehead_color::black
+ 58. [164] has_forehead_color::white
+ 59. [168] has_under_tail_color::brown
+ 60. [172] has_under_tail_color::grey
+ 61. [178] has_under_tail_color::black
+ 62. [179] has_under_tail_color::white
+ 63. [181] has_under_tail_color::buff
+ 64. [183] has_nape_color::brown
+ 65. [187] has_nape_color::grey
+ 66. [188] has_nape_color::yellow
+ 67. [193] has_nape_color::black
+ 68. [194] has_nape_color::white
+ 69. [196] has_nape_color::buff
+ 70. [198] has_belly_color::brown
+ 71. [202] has_belly_color::grey
+ 72. [203] has_belly_color::yellow
+ 73. [208] has_belly_color::black
+ 74. [209] has_belly_color::white
+ 75. [211] has_belly_color::buff
+ 76. [212] has_wing_shape::rounded-wings
+ 77. [213] has_wing_shape::pointed-wings
+ 78. [218] has_size::small_(5_-_9_in)
+ 79. [220] has_size::medium_(9_-_16_in)
+ 80. [221] has_size::very_small_(3_-_5_in)
+ 81. [225] has_shape::duck-like
+ 82. [235] has_shape::perching-like
+ 83. [236] has_back_pattern::solid
+ 84. [238] has_back_pattern::striped
+ 85. [239] has_back_pattern::multi-colored
+ 86. [240] has_tail_pattern::solid
+ 87. [242] has_tail_pattern::striped
+ 88. [243] has_tail_pattern::multi-colored
+ 89. [244] has_belly_pattern::solid
+ 90. [249] has_primary_color::brown
+ 91. [253] has_primary_color::grey
+ 92. [254] has_primary_color::yellow
+ 93. [259] has_primary_color::black
+ 94. [260] has_primary_color::white
+ 95. [262] has_primary_color::buff
+ 96. [268] has_leg_color::grey
+ 97. [274] has_leg_color::black
+ 98. [277] has_leg_color::buff
+ 99. [283] has_bill_color::grey
+100. [289] has_bill_color::black
+101. [292] has_bill_color::buff
+102. [293] has_crown_color::blue
+103. [294] has_crown_color::brown
+104. [298] has_crown_color::grey
+105. [299] has_crown_color::yellow
+106. [304] has_crown_color::black
+107. [305] has_crown_color::white
+108. [308] has_wing_pattern::solid
+109. [309] has_wing_pattern::spotted
+110. [310] has_wing_pattern::striped
+111. [311] has_wing_pattern::multi-colored

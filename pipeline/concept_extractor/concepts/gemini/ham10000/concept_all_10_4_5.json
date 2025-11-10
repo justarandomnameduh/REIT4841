@@ -1,0 +1,22 @@
+{
+  "all": [
+    "Fine pseudonetwork pigmentation",
+    "Atypical radial streaming",
+    "Polychromatic variegated pigmentation",
+    "Granular globular pigment",
+    "Prominent vascularity/erythema"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Atypical radial streaming",
+      "Polychromatic variegated pigmentation",
+      "Granular globular pigment",
+      "Prominent vascularity/erythema"
+    ],
+    "nv": [
+      "Fine pseudonetwork pigmentation",
+      "Granular globular pigment",
+      "Prominent vascularity/erythema"
+    ]
+  }
+}

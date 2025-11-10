@@ -1,0 +1,33 @@
+{
+  "all": [
+    "Lesion Asymmetry",
+    "Pseudopodal Borders",
+    "Radiating Pigment Streaks",
+    "Variegated Pigmentation",
+    "Blue-black Pigmentation",
+    "Cerebriform Surface Pattern",
+    "Reticular Network Pattern",
+    "Arborizing Telangiectasias",
+    "Nodular Morphology",
+    "Peripheral Globules"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Lesion Asymmetry",
+      "Pseudopodal Borders",
+      "Radiating Pigment Streaks",
+      "Variegated Pigmentation",
+      "Blue-black Pigmentation",
+      "Nodular Morphology",
+      "Peripheral Globules"
+    ],
+    "nv": [
+      "Reticular Network Pattern",
+      "Peripheral Globules",
+      "Blue-black Pigmentation",
+      "Radiating Pigment Streaks",
+      "Lesion Asymmetry",
+      "Variegated Pigmentation"
+    ]
+  }
+}

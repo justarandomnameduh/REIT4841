@@ -1,0 +1,33 @@
+{
+  "sampling_strategy": "Random 200, select bottom 30 by Dermlike similarity",
+  "random_seed": 42,
+  "total_pool": 200,
+  "selected": 30,
+  "rejected": 170,
+  "statistics": {
+    "all_200": {
+      "mean": 0.8781602382659912,
+      "median": 0.8803545236587524,
+      "std": 0.023413212969899178,
+      "min": 0.8089154958724976,
+      "max": 0.9301817417144775
+    },
+    "selected_30": {
+      "mean": 0.8378722667694092,
+      "median": 0.8410507440567017,
+      "std": 0.012340301647782326,
+      "min": 0.8089154958724976,
+      "max": 0.8528199791908264
+    },
+    "rejected_170": {
+      "mean": 0.8852698802947998,
+      "median": 0.8846625089645386,
+      "std": 0.0167649257928133,
+      "min": 0.8537629842758179,
+      "max": 0.9301817417144775
+    }
+  },
+  "selected_concepts": [
+    {
+      "concept": "Passenger in pick-up truck or van injured in collision with pedestrian or animal in traffic accident",
+      "similarity": 

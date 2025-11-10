@@ -1,0 +1,38 @@
+{
+  "mel": [
+    "Marked visual asymmetry",
+    "Highly irregular borders",
+    "Ill-defined borders",
+    "Diffuse borders",
+    "Polychromatic pigmentation",
+    "Pigment heterogeneity",
+    "Amorphous shapes",
+    "Disorganized appearance",
+    "Pseudonetwork patterns",
+    "Multi-tonal dark pigmentation",
+    "Parallel ridge pattern",
+    "Irregular raised surface",
+    "Spiculated projections",
+    "Pseudopod-like projections",
+    "Stellate borders",
+    "Variegated pigmentation",
+    "Scattered dark globules",
+    "Mottled texture",
+    "Pronounced radial streaking",
+    "Erythematous background",
+    "Atypical pigment network",
+    "Granular texture",
+    "Polymorphous internal structure",
+    "Evidence of vasculature",
+    "ABCDE criteria presence"
+  ],
+  "nv": [
+    "Scalloped borders",
+    "Diffuse borders",
+    "Pigment heterogeneity",
+    "Pseudonetwork patterns",
+    "Papillomatous texture",
+    "Cobblestone-like texture",
+    "Granular texture"
+  ]
+}

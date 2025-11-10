@@ -1,0 +1,25 @@
+# Concept Extractor Requirements
+
+## Shared Requirements (Both Versions)
+umap-learn>=0.5.3
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+Pillow>=10.0.0
+scipy>=1.10.0
+
+## Gemini Version
+google-generativeai>=0.3.0
+python-dotenv>=1.0.0
+
+## Qwen Version
+torch>=2.0.0
+transformers>=4.48.0
+accelerate>=0.20.0
+qwen-vl-utils
+
+## Notes:
+# - For Gemini version: Set GEMINI_API_KEY in .env file
+# - For Qwen3-VL version: Requires GPU with 12GB+ VRAM (4B model)
+# - For flash_attention_2 (optional): pip install flash-attn --no-build-isolation
+# - Install with: pip install -r requirements.txt

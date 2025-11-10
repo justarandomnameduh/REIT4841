@@ -1,0 +1,34 @@
+{
+  "all": [
+    "Lesion asymmetry",
+    "Ill-defined borders",
+    "Peripheral projections",
+    "Fimbriated/serrated borders",
+    "Variegated pigmentation",
+    "Reticular network",
+    "Globular pattern",
+    "Dark foci/streaks",
+    "Diffuse border blending",
+    "Structural complexity"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Lesion asymmetry",
+      "Ill-defined borders",
+      "Peripheral projections",
+      "Fimbriated/serrated borders",
+      "Variegated pigmentation",
+      "Dark foci/streaks",
+      "Structural complexity",
+      "Reticular network"
+    ],
+    "nv": [
+      "Reticular network",
+      "Globular pattern",
+      "Structural complexity",
+      "Dark foci/streaks",
+      "Lesion asymmetry",
+      "Variegated pigmentation"
+    ]
+  }
+}

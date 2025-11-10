@@ -1,0 +1,19 @@
+{
+  "all": [
+    "Pigment heterogeneity",
+    "Border irregularity",
+    "Internal structural patterns"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Pigment heterogeneity",
+      "Border irregularity",
+      "Internal structural patterns"
+    ],
+    "nv": [
+      "Pigment heterogeneity",
+      "Border irregularity",
+      "Internal structural patterns"
+    ]
+  }
+}

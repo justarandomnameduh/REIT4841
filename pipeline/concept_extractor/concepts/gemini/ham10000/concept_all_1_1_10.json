@@ -1,0 +1,36 @@
+{
+  "all": [
+    "Pigmented lesion type",
+    "Brown pigment variation",
+    "Irregular pigment network",
+    "Reticular pattern",
+    "Lesion asymmetry",
+    "Irregular lesion shape",
+    "Ill-defined borders",
+    "Border fading/extensions",
+    "Peripheral pigmentation",
+    "Background photodamage"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Pigmented lesion type",
+      "Brown pigment variation",
+      "Irregular pigment network",
+      "Reticular pattern",
+      "Lesion asymmetry",
+      "Irregular lesion shape",
+      "Ill-defined borders",
+      "Border fading/extensions",
+      "Peripheral pigmentation",
+      "Background photodamage"
+    ],
+    "nv": [
+      "Pigmented lesion type",
+      "Reticular pattern",
+      "Lesion asymmetry",
+      "Irregular lesion shape",
+      "Brown pigment variation",
+      "Background photodamage"
+    ]
+  }
+}

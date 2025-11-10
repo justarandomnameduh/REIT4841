@@ -1,0 +1,36 @@
+{
+  "all": [
+    "Asymmetry",
+    "Irregular Borders",
+    "Polychromasia",
+    "Raised Textured Surface",
+    "Spiculated Pseudopods",
+    "Scattered Pigment Globules",
+    "Parallel Ridge Pattern",
+    "Atypical Pigment Network",
+    "Radial Streaking",
+    "Erythema and Vasculature"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Asymmetry",
+      "Irregular Borders",
+      "Polychromasia",
+      "Raised Textured Surface",
+      "Spiculated Pseudopods",
+      "Scattered Pigment Globules",
+      "Parallel Ridge Pattern",
+      "Atypical Pigment Network",
+      "Radial Streaking",
+      "Erythema and Vasculature"
+    ],
+    "nv": [
+      "Raised Textured Surface",
+      "Scattered Pigment Globules",
+      "Atypical Pigment Network",
+      "Asymmetry",
+      "Irregular Borders",
+      "Polychromasia"
+    ]
+  }
+}

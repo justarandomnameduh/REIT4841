@@ -1,0 +1,25 @@
+{
+  "all": [
+    "Overall Asymmetry",
+    "Border Irregularity",
+    "Pigment Heterogeneity",
+    "Surface Topography",
+    "Atypical Dermatoscopic Patterns"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Overall Asymmetry",
+      "Border Irregularity",
+      "Pigment Heterogeneity",
+      "Surface Topography",
+      "Atypical Dermatoscopic Patterns"
+    ],
+    "nv": [
+      "Overall Asymmetry",
+      "Border Irregularity",
+      "Pigment Heterogeneity",
+      "Surface Topography",
+      "Atypical Dermatoscopic Patterns"
+    ]
+  }
+}

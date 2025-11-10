@@ -1,0 +1,24 @@
+{
+  "all": [
+    "Lesion Asymmetry",
+    "Pigment Variegation",
+    "Irregular Borders",
+    "Surface Texture",
+    "Linear/Radial Streaks"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Lesion Asymmetry",
+      "Pigment Variegation",
+      "Irregular Borders",
+      "Surface Texture",
+      "Linear/Radial Streaks"
+    ],
+    "nv": [
+      "Lesion Asymmetry",
+      "Pigment Variegation",
+      "Irregular Borders",
+      "Surface Texture"
+    ]
+  }
+}

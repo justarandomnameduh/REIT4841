@@ -1,0 +1,35 @@
+{
+  "mel": [
+    "Irregular border contour",
+    "Blurred lesion margins",
+    "Mixed brown-red pigmentation",
+    "Feather-like central texture",
+    "Asymmetrical shape",
+    "Variable pigment distribution",
+    "Central erythematous blush",
+    "Fine hair within lesion",
+    "Lobulated lesion structure",
+    "Reticulated internal pattern",
+    "Scalloped lesion edge",
+    "Heterogeneous color zones",
+    "Dark central pigment focus",
+    "Lighter peripheral radiance",
+    "Streaky reticular texture",
+    "Smooth irregular border",
+    "Granular surface texture",
+    "Radiating skin lines",
+    "Dark central streak",
+    "Pale pink background",
+    "Discrete single lesion",
+    "Non-uniform pigmentation",
+    "Vascular blush presence",
+    "Symmetry absence",
+    "Dense pigment concentration",
+    "Diffuse pigment spread"
+  ],
+  "nv": [
+    "Uniform brown coloration",
+    "Benign pigmented lesion",
+    "Melanocytic nevus pattern"
+  ]
+}

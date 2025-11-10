@@ -1,0 +1,4372 @@
+{
+  "generated_file": "/home/nqmtien/REIT4841/pipeline/concept_extractor/concepts/gemini/ham10000/concept_all_10_2_100.json",
+  "num_generated_concepts": 100,
+  "use_auto_threshold": true,
+  "vocabulary_results": {
+    "derm7pt": {
+      "mappings": {
+        "Light brown pigmentation": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9189682006835938
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.9077528119087219
+          },
+          {
+            "concept": "has localized irregular pigmentation",
+            "similarity": 0.9060791730880737
+          },
+          {
+            "concept": "has diffuse regular pigmentation",
+            "similarity": 0.905086874961853
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.9042183756828308
+          },
+          {
+            "concept": "has blue-whitish veil",
+            "similarity": 0.9032166600227356
+          },
+          {
+            "concept": "has diffuse irregular pigmentation",
+            "similarity": 0.9008364081382751
+          },
+          {
+            "concept": "has localized regular pigmentation",
+            "similarity": 0.9001612663269043
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.89781254529953
+          },
+          {
+            "concept": "has atypical pigment network",
+            "similarity": 0.8889830112457275
+          },
+          {
+            "concept": "has typical pigment network",
+            "similarity": 0.8873178958892822
+          }
+        ],
+        "Dark brown pigmentation": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8968383073806763
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.8948307037353516
+          }
+        ],
+        "Irregularly distributed pigment": [
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8892275094985962
+          }
+        ],
+        "Delicate pseudoreticular pattern": [
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8888187408447266
+          }
+        ],
+        "Patchy pseudoreticular pattern": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9113715887069702
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8935409784317017
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8917981386184692
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8894496560096741
+          }
+        ],
+        "Fine neural network pattern": [],
+        "Intricate meshwork of lines": [
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.908540666103363
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8878300786018372
+          }
+        ],
+        "Amorphous brown blotches": [],
+        "Confluent areas pigmentation": [
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.9124054908752441
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.9112612009048462
+          },
+          {
+            "concept": "has blue areas regression structures",
+            "similarity": 0.9039191603660583
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.9034360647201538
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.902101993560791
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8992041349411011
+          },
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8961611390113831
+          },
+          {
+            "concept": "has dotted vascular structures",
+            "similarity": 0.8926500678062439
+          },
+          {
+            "concept": "has diffuse regular pigmentation",
+            "similarity": 0.8898018598556519
+          },
+          {
+            "concept": "has localized regular pigmentation",
+            "similarity": 0.8887494206428528
+          },
+          {
+            "concept": "has localized irregular pigmentation",
+            "similarity": 0.8886046409606934
+          },
+          {
+            "concept": "absent of vascular structures",
+            "similarity": 0.8868602514266968
+          }
+        ],
+        "Asymmetry in shape": [],
+        "Irregular internal structure": [],
+        "Ill-defined borders": [],
+        "Feathery borders": [],
+        "Fading borders": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8915284872055054
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8877388834953308
+          }
+        ],
+        "Lack sharp demarcation": [],
+        "Polymorphic lesion presentation": [],
+        "Lightly pigmented skin background": [],
+        "Scattered small dark macules": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.898662805557251
+          }
+        ],
+        "Scattered small dark papules": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9014768004417419
+          }
+        ],
+        "Reddish-pink coloration": [
+          {
+            "concept": "has blue-whitish veil",
+            "similarity": 0.8970965147018433
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8936524987220764
+          }
+        ],
+        "Translucent areas": [],
+        "Well-demarcated borders": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9068700671195984
+          }
+        ],
+        "Fuzzy borders": [],
+        "Cobblestone texture": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.9039400815963745
+          },
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.9033835530281067
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8980153799057007
+          },
+          {
+            "concept": "has blue areas regression structures",
+            "similarity": 0.8929619789123535
+          },
+          {
+            "concept": "has regular streaks",
+            "similarity": 0.8876574039459229
+          },
+          {
+            "concept": "absent of regression structures",
+            "similarity": 0.8873490691184998
+          },
+          {
+            "concept": "has hairpin vascular structures",
+            "similarity": 0.8859721422195435
+          }
+        ],
+        "Honeycomb-like texture": [
+          {
+            "concept": "has hairpin vascular structures",
+            "similarity": 0.8961074352264404
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8947925567626953
+          },
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8937634229660034
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8895478248596191
+          },
+          {
+            "concept": "has regular streaks",
+            "similarity": 0.8865390419960022
+          }
+        ],
+        "Translucent papules": [],
+        "Interspersed darker dots": [],
+        "Prominent reddish vascularity": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9236452579498291
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.899743914604187
+          },
+          {
+            "concept": "absent of vascular structures",
+            "similarity": 0.8897193074226379
+          }
+        ],
+        "Heavily pigmented lesions": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9005126953125
+          },
+          {
+            "concept": "has localized irregular pigmentation",
+            "similarity": 0.8971354961395264
+          },
+          {
+            "concept": "has diffuse irregular pigmentation",
+            "similarity": 0.893129289150238
+          },
+          {
+            "concept": "has diffuse regular pigmentation",
+            "similarity": 0.8916047811508179
+          }
+        ],
+        "Internal color variability": [],
+        "Internal texture variability": [],
+        "Aggregated pigment clods": [],
+        "Epidermal-proliferative growth": [],
+        "Seborrheic keratosis morphology": [],
+        "Black central pigmentation": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8990387916564941
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.8963611721992493
+          },
+          {
+            "concept": "has localized irregular pigmentation",
+            "similarity": 0.8944945335388184
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8931232690811157
+          },
+          {
+            "concept": "has diffuse regular pigmentation",
+            "similarity": 0.8931088447570801
+          },
+          {
+            "concept": "has diffuse irregular pigmentation",
+            "similarity": 0.8903933763504028
+          },
+          {
+            "concept": "has localized regular pigmentation",
+            "similarity": 0.8865317106246948
+          }
+        ],
+        "Pigment network pattern": [
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8961036205291748
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8924688100814819
+          },
+          {
+            "concept": "has hairpin vascular structures",
+            "similarity": 0.8872742056846619
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8860131502151489
+          }
+        ],
+        "Pseudonetwork pattern": [],
+        "Coarser pigment network": [],
+        "Lobulated network pattern": [
+          {
+            "concept": "has blue areas regression structures",
+            "similarity": 0.8921271562576294
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8880443572998047
+          },
+          {
+            "concept": "absent of regression structures",
+            "similarity": 0.8870693445205688
+          }
+        ],
+        "Globular network periphery": [
+          {
+            "concept": "has hairpin vascular structures",
+            "similarity": 0.9155805110931396
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.9086371064186096
+          },
+          {
+            "concept": "has blue areas regression structures",
+            "similarity": 0.9044694900512695
+          },
+          {
+            "concept": "has regular streaks",
+            "similarity": 0.9027875661849976
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.9014513492584229
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8952234387397766
+          },
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8947954177856445
+          },
+          {
+            "concept": "absent of regression structures",
+            "similarity": 0.8943203091621399
+          },
+          {
+            "concept": "has irregular streaks",
+            "similarity": 0.8917126655578613
+          },
+          {
+            "concept": "has dotted vascular structures",
+            "similarity": 0.8895262479782104
+          }
+        ],
+        "Finer delicate network": [],
+        "Branching network structure": [
+          {
+            "concept": "absent of regression structures",
+            "similarity": 0.8951187133789062
+          },
+          {
+            "concept": "has hairpin vascular structures",
+            "similarity": 0.8918142318725586
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8915870189666748
+          },
+          {
+            "concept": "has blue areas regression structures",
+            "similarity": 0.8894434571266174
+          }
+        ],
+        "Denser pigment accumulation": [],
+        "Prominent starburst pattern": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.895862340927124
+          }
+        ],
+        "Central darker brown core": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9072458744049072
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8943762183189392
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8919228911399841
+          },
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8914384841918945
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8899937272071838
+          },
+          {
+            "concept": "has blue-whitish veil",
+            "similarity": 0.8892260789871216
+          }
+        ],
+        "Darker globules central": [
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8882569074630737
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8877904415130615
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8859978914260864
+          }
+        ],
+        "Radiating fine streaks": [],
+        "Spiky appearance": [],
+        "Sunburst-like appearance": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9070684909820557
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.901502788066864
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8985868692398071
+          },
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8922591209411621
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.8891294002532959
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8886739611625671
+          }
+        ],
+        "Highly irregular borders": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.9129993915557861
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9048882722854614
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8998438715934753
+          },
+          {
+            "concept": "absent of vascular structures",
+            "similarity": 0.8924249410629272
+          },
+          {
+            "concept": "has linear irregular vascular structures",
+            "similarity": 0.8901804685592651
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.889587938785553
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.8894456028938293
+          },
+          {
+            "concept": "has dotted vascular structures",
+            "similarity": 0.888763427734375
+          },
+          {
+            "concept": "has hairpin vascular structures",
+            "similarity": 0.8870530128479004
+          },
+          {
+            "concept": "has regular streaks",
+            "similarity": 0.8867942690849304
+          }
+        ],
+        "Uneven radial distribution": [],
+        "Dark blackish-brown central": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9181052446365356
+          },
+          {
+            "concept": "has blue-whitish veil",
+            "similarity": 0.9068326354026794
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8889763355255127
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8882981538772583
+          }
+        ],
+        "Lighter brown radiating periphery": [],
+        "Dominant central lesion": [],
+        "Very dark brown coloration": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9245267510414124
+          },
+          {
+            "concept": "has blue-whitish veil",
+            "similarity": 0.9190511703491211
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8991833329200745
+          },
+          {
+            "concept": "has typical pigment network",
+            "similarity": 0.8920145034790039
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.8898823261260986
+          },
+          {
+            "concept": "has diffuse regular pigmentation",
+            "similarity": 0.8897502422332764
+          },
+          {
+            "concept": "has atypical pigment network",
+            "similarity": 0.8863094449043274
+          }
+        ],
+        "Irregular pigment distribution": [],
+        "Blending lighter periphery": [],
+        "Roundish to oval shape": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8982968330383301
+          }
+        ],
+        "Lacks clear symmetry": [],
+        "Numerous smaller macules": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9038146734237671
+          },
+          {
+            "concept": "absent of dots and globules",
+            "similarity": 0.9036276936531067
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8976272940635681
+          },
+          {
+            "concept": "absent of vascular structures",
+            "similarity": 0.8936141729354858
+          }
+        ],
+        "More defined borders": [],
+        "Densely pigmented texture": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8989125490188599
+          },
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8980815410614014
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.897791862487793
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8877886533737183
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.8869731426239014
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8867531418800354
+          },
+          {
+            "concept": "has diffuse regular pigmentation",
+            "similarity": 0.886121392250061
+          },
+          {
+            "concept": "has localized irregular pigmentation",
+            "similarity": 0.8859525918960571
+          }
+        ],
+        "Obscuring finer patterns": [],
+        "Typical follicular openings": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9058358669281006
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.9040430188179016
+          },
+          {
+            "concept": "absent of vascular structures",
+            "similarity": 0.9022455215454102
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8998022079467773
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8961538076400757
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.8929284811019897
+          },
+          {
+            "concept": "absent of dots and globules",
+            "similarity": 0.8887403011322021
+          }
+        ],
+        "Fine hairs present": [
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8968300819396973
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8966559171676636
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8921781778335571
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8914382457733154
+          }
+        ],
+        "Stark contrast pigmentation": [],
+        "Small relatively flat lesions": [],
+        "Markedly asymmetrical shape": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8968875408172607
+          },
+          {
+            "concept": "absent of regression structures",
+            "similarity": 0.8899919390678406
+          },
+          {
+            "concept": "has hairpin vascular structures",
+            "similarity": 0.8888612985610962
+          }
+        ],
+        "Amorphous shape": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8882994651794434
+          }
+        ],
+        "Granular pigment": [
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8977913856506348
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8933303356170654
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8897128701210022
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.8874179124832153
+          }
+        ],
+        "Speckled pigment": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.895087480545044
+          }
+        ],
+        "Prominent darker punctate structures": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9163826704025269
+          },
+          {
+            "concept": "absent of vascular structures",
+            "similarity": 0.9037207365036011
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.9024252891540527
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.9020529985427856
+          },
+          {
+            "concept": "absent of dots and globules",
+            "similarity": 0.9020492434501648
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8971936702728271
+          },
+          {
+            "concept": "has dotted vascular structures",
+            "similarity": 0.8921247124671936
+          },
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8873686790466309
+          }
+        ],
+        "Small globules concentrated": [
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8856143951416016
+          }
+        ],
+        "Fragmented pigment appearance": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8975213766098022
+          }
+        ],
+        "Clumped pigment appearance": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9029319286346436
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8918068408966064
+          }
+        ],
+        "Subtle texture irregularities": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9145898818969727
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.9051514863967896
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.9047278165817261
+          },
+          {
+            "concept": "absent of dots and globules",
+            "similarity": 0.897301435470581
+          },
+          {
+            "concept": "absent of vascular structures",
+            "similarity": 0.8968793749809265
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.8926369547843933
+          },
+          {
+            "concept": "has localized irregular pigmentation",
+            "similarity": 0.8885564804077148
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8873801827430725
+          },
+          {
+            "concept": "has dotted vascular structures",
+            "similarity": 0.886934220790863
+          }
+        ],
+        "Uneven pigment aggregation": [],
+        "Significant color heterogeneity": [],
+        "Architectural disorganization": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8904931545257568
+          }
+        ],
+        "Variegated purplish-blue": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9060401916503906
+          }
+        ],
+        "Lighter speckled appearance": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9234694242477417
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8931151628494263
+          },
+          {
+            "concept": "absent of dots and globules",
+            "similarity": 0.8865319490432739
+          }
+        ],
+        "Central hypopigmented area": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9003456234931946
+          }
+        ],
+        "Dark reddish-brown periphery": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9006441831588745
+          },
+          {
+            "concept": "has blue-whitish veil",
+            "similarity": 0.8884385228157043
+          }
+        ],
+        "Discernible radial streaking": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8949118852615356
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.888053297996521
+          }
+        ],
+        "Pseudopods periphery": [
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8953596353530884
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8925101161003113
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8871082067489624
+          },
+          {
+            "concept": "has hairpin vascular structures",
+            "similarity": 0.8862668871879578
+          }
+        ],
+        "Scalloped borders": [],
+        "Raised nodular lesion": [],
+        "Finely textured central zone": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8892792463302612
+          }
+        ],
+        "Disorganized reticular network": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8973333835601807
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8940839171409607
+          },
+          {
+            "concept": "absent of vascular structures",
+            "similarity": 0.8929247856140137
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8921761512756348
+          }
+        ],
+        "Multifocal intense pigmentation": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.896310567855835
+          },
+          {
+            "concept": "has diffuse irregular pigmentation",
+            "similarity": 0.8895321488380432
+          },
+          {
+            "concept": "has localized irregular pigmentation",
+            "similarity": 0.8879802227020264
+          },
+          {
+            "concept": "has diffuse regular pigmentation",
+            "similarity": 0.8858312368392944
+          }
+        ],
+        "Pronounced asymmetry": [],
+        "Overtly disorganized borders": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.9113916158676147
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9043198823928833
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8987109065055847
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8981712460517883
+          },
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.897203803062439
+          },
+          {
+            "concept": "absent of vascular structures",
+            "similarity": 0.8910709023475647
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.8891134858131409
+          },
+          {
+            "concept": "absent of regression structures",
+            "similarity": 0.8870668411254883
+          }
+        ],
+        "Active growth suggested": [
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8877530097961426
+          }
+        ],
+        "Regression suggested": [
+          {
+            "concept": "absent of regression structures",
+            "similarity": 0.8966929912567139
+          },
+          {
+            "concept": "has blue areas regression structures",
+            "similarity": 0.8963881731033325
+          }
+        ],
+        "Chaotic pigment distribution": [],
+        "Multiple colors within lesion": [],
+        "Dendritic pigment pattern": [],
+        "Leaf-like pigment pattern": [
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.9071158766746521
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.9004634618759155
+          },
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8929343223571777
+          },
+          {
+            "concept": "has hairpin vascular structures",
+            "similarity": 0.8909524083137512
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8895999193191528
+          },
+          {
+            "concept": "has atypical pigment network",
+            "similarity": 0.8862510919570923
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.8860487341880798
+          },
+          {
+            "concept": "has typical pigment network",
+            "similarity": 0.8858623504638672
+          }
+        ],
+        "Cerebriform epidermal pattern": [
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8987941741943359
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.896255612373352
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8905723690986633
+          }
+        ],
+        "Widespread convoluted white lines": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8865289688110352
+          }
+        ]
+      },
+      "statistics": {
+        "vocab_size": 28,
+        "threshold_used": 0.8855954110622406,
+        "threshold_type": "auto",
+        "mean_max_similarity": 0.8845193982124329,
+        "median_max_similarity": 0.889886200428009,
+        "std_max_similarity": 0.02576133981347084,
+        "min_max_similarity": 0.7600885629653931,
+        "max_max_similarity": 0.9245267510414124,
+        "above_threshold": 58,
+        "mapped_concepts": 58,
+        "total_mappings": 224,
+        "avg_mappings_per_concept": 2.24,
+        "concepts_with_few_mappings": 31,
+        "concepts_with_many_mappings": 15,
+        "mean_std_across_vocab": 0.02090691588819027,
+        "mean_similarity_range": 0.08142972737550735,
+        "specificity_score": 0.006452751817342675
+      }
+    },
+    "dermlike": {
+      "mappings": {
+        "Light brown pigmentation": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9311524033546448
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9261369705200195
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.905471920967102
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.8874313831329346
+          }
+        ],
+        "Dark brown pigmentation": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9129016399383545
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9058708548545837
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8916177153587341
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.888752281665802
+          }
+        ],
+        "Irregularly distributed pigment": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9348202347755432
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9198938608169556
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9053595066070557
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.8979420065879822
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.8870236277580261
+          }
+        ],
+        "Delicate pseudoreticular pattern": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9323480129241943
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9266057014465332
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9122201204299927
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9114482998847961
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.8966574668884277
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8887749314308167
+          }
+        ],
+        "Patchy pseudoreticular pattern": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.932470440864563
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9249101877212524
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9190636873245239
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9077993035316467
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9038050770759583
+          }
+        ],
+        "Fine neural network pattern": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9165240526199341
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9089997410774231
+          }
+        ],
+        "Intricate meshwork of lines": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9296802282333374
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9267237186431885
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9128977656364441
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9101462960243225
+          }
+        ],
+        "Amorphous brown blotches": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9515094757080078
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.943142831325531
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9141589999198914
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9119563698768616
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8975582718849182
+          }
+        ],
+        "Confluent areas pigmentation": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9300101399421692
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9216265678405762
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9027304649353027
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.8980450630187988
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.891655683517456
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.8873119354248047
+          }
+        ],
+        "Asymmetry in shape": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9282501935958862
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.892504096031189
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8876663446426392
+          }
+        ],
+        "Irregular internal structure": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9473999738693237
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9153696298599243
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8937288522720337
+          }
+        ],
+        "Ill-defined borders": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.937070369720459
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9207249283790588
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9182867407798767
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9140069484710693
+          }
+        ],
+        "Feathery borders": [
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9214908480644226
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9162206649780273
+          }
+        ],
+        "Fading borders": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9505347609519958
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9247166514396667
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9220893383026123
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9177165031433105
+          }
+        ],
+        "Lack sharp demarcation": [],
+        "Polymorphic lesion presentation": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.927001953125
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9156154990196228
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.906233549118042
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8875110149383545
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8859677910804749
+          }
+        ],
+        "Lightly pigmented skin background": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9224609136581421
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9178438186645508
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9090721607208252
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9088831543922424
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8933275938034058
+          }
+        ],
+        "Scattered small dark macules": [
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9368175864219666
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.8949169516563416
+          }
+        ],
+        "Scattered small dark papules": [
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9463729858398438
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.8907843828201294
+          }
+        ],
+        "Reddish-pink coloration": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9230236411094666
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9029183387756348
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.8980727195739746
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8860088586807251
+          }
+        ],
+        "Translucent areas": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9436075091362
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9296169877052307
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9248274564743042
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9128681421279907
+          }
+        ],
+        "Well-demarcated borders": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9077882766723633
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9077665209770203
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.8860920667648315
+          }
+        ],
+        "Fuzzy borders": [
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9268167614936829
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9163228869438171
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.8877659440040588
+          }
+        ],
+        "Cobblestone texture": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.957767903804779
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.930419921875
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9172084331512451
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9152829647064209
+          }
+        ],
+        "Honeycomb-like texture": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.954681932926178
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.942935585975647
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9225647449493408
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8969906568527222
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.8881866931915283
+          }
+        ],
+        "Translucent papules": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9315878748893738
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9171991348266602
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9044893980026245
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9002242088317871
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.8902106285095215
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8857055902481079
+          }
+        ],
+        "Interspersed darker dots": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9488679766654968
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9268654584884644
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9142979383468628
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9052358865737915
+          }
+        ],
+        "Prominent reddish vascularity": [
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.8979896306991577
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8905341029167175
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.8897206783294678
+          }
+        ],
+        "Heavily pigmented lesions": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9435735940933228
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9214808344841003
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.91336590051651
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9060379266738892
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9057690501213074
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.8887670636177063
+          }
+        ],
+        "Internal color variability": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.8886520266532898
+          }
+        ],
+        "Internal texture variability": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.8927407264709473
+          }
+        ],
+        "Aggregated pigment clods": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9275293946266174
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9038616418838501
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.8927881121635437
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.891525387763977
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8866986632347107
+          }
+        ],
+        "Epidermal-proliferative growth": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9030274748802185
+          }
+        ],
+        "Seborrheic keratosis morphology": [
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9322309494018555
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9265331029891968
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9060918688774109
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8924604654312134
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8880032300949097
+          }
+        ],
+        "Black central pigmentation": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9273802638053894
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9169517755508423
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9091938138008118
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8911430835723877
+          }
+        ],
+        "Pigment network pattern": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9352542161941528
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9192426204681396
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8938306570053101
+          }
+        ],
+        "Pseudonetwork pattern": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9229127168655396
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9194384217262268
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8943417072296143
+          }
+        ],
+        "Coarser pigment network": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9489431381225586
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9362246990203857
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9172893762588501
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9162099361419678
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8940004110336304
+          }
+        ],
+        "Lobulated network pattern": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.935326337814331
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9181054830551147
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9175597429275513
+          }
+        ],
+        "Globular network periphery": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9333813190460205
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.91056227684021
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9019362926483154
+          }
+        ],
+        "Finer delicate network": [
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8997663855552673
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.8973187208175659
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8897653222084045
+          }
+        ],
+        "Branching network structure": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.937667191028595
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9164789915084839
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9077061414718628
+          }
+        ],
+        "Denser pigment accumulation": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9359899759292603
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9232586622238159
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9228901863098145
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9023600816726685
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8988595604896545
+          }
+        ],
+        "Prominent starburst pattern": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9311730861663818
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9304182529449463
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9091097116470337
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.9008716940879822
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.8875236511230469
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8870218992233276
+          }
+        ],
+        "Central darker brown core": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9356179237365723
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9172040224075317
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9142338037490845
+          }
+        ],
+        "Darker globules central": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.932086706161499
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9251474142074585
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9185553789138794
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9072762131690979
+          }
+        ],
+        "Radiating fine streaks": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9451850652694702
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9202039241790771
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9090615510940552
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.901986837387085
+          }
+        ],
+        "Spiky appearance": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9464167356491089
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9263544678688049
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9181264638900757
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.913352370262146
+          }
+        ],
+        "Sunburst-like appearance": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9372550249099731
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.930172324180603
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9127273559570312
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8990416526794434
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8953860998153687
+          }
+        ],
+        "Highly irregular borders": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9463132619857788
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.9197189807891846
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9184243083000183
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9138439893722534
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9134858846664429
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.9101474285125732
+          }
+        ],
+        "Uneven radial distribution": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.937283992767334
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9118956923484802
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8951936364173889
+          }
+        ],
+        "Dark blackish-brown central": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9300577640533447
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9177118539810181
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9123566746711731
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8856909275054932
+          }
+        ],
+        "Lighter brown radiating periphery": [
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9333606958389282
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9310987591743469
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8977326154708862
+          }
+        ],
+        "Dominant central lesion": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9071016907691956
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.8929325342178345
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.8920739889144897
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8885691165924072
+          }
+        ],
+        "Very dark brown coloration": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9019446969032288
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.8978663682937622
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8869994282722473
+          }
+        ],
+        "Irregular pigment distribution": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9435745477676392
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.943378210067749
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9231520891189575
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9089162349700928
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9058343172073364
+          }
+        ],
+        "Blending lighter periphery": [],
+        "Roundish to oval shape": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.941868782043457
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9315853714942932
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9222365021705627
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9154744744300842
+          }
+        ],
+        "Lacks clear symmetry": [
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9064188599586487
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.904570460319519
+          }
+        ],
+        "Numerous smaller macules": [
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9333394169807434
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.8904479742050171
+          }
+        ],
+        "More defined borders": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9050489664077759
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8865326642990112
+          }
+        ],
+        "Densely pigmented texture": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9481070041656494
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9418042302131653
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9166959524154663
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.904870867729187
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8986825942993164
+          }
+        ],
+        "Obscuring finer patterns": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9231568574905396
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9117395877838135
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9086186289787292
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9011794328689575
+          }
+        ],
+        "Typical follicular openings": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9333881139755249
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9178922176361084
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9116705656051636
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.9059188365936279
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.8969529867172241
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.8942766785621643
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8901060223579407
+          }
+        ],
+        "Fine hairs present": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9455002546310425
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9437893629074097
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9381344318389893
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9145272970199585
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8898162841796875
+          }
+        ],
+        "Stark contrast pigmentation": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9186794757843018
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9122971296310425
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8994917273521423
+          }
+        ],
+        "Small relatively flat lesions": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9303112030029297
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.9100745916366577
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9040775299072266
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9025874137878418
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.896625816822052
+          }
+        ],
+        "Markedly asymmetrical shape": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9499346613883972
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9197976589202881
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.90205317735672
+          }
+        ],
+        "Amorphous shape": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9531786441802979
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9200867414474487
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9094477295875549
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8859989643096924
+          }
+        ],
+        "Granular pigment": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9516187906265259
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9147501587867737
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9086579084396362
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9075772762298584
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9057441353797913
+          }
+        ],
+        "Speckled pigment": [
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9232518076896667
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9231635332107544
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9090851545333862
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9088760018348694
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.89743572473526
+          }
+        ],
+        "Prominent darker punctate structures": [
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.934005856513977
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9235115051269531
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9194870591163635
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.907345175743103
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.8900567293167114
+          }
+        ],
+        "Small globules concentrated": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.928762674331665
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.927220344543457
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9250127673149109
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9027949571609497
+          }
+        ],
+        "Fragmented pigment appearance": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9329966306686401
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9310411214828491
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9071615934371948
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9059581756591797
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8922007083892822
+          }
+        ],
+        "Clumped pigment appearance": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9388012886047363
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9350681900978088
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.92081218957901
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9090032577514648
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9013566374778748
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.8865329027175903
+          }
+        ],
+        "Subtle texture irregularities": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9248365163803101
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9163981676101685
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.9075119495391846
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9056227207183838
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9024999141693115
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.8891591429710388
+          }
+        ],
+        "Uneven pigment aggregation": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9356971979141235
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.918103814125061
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9127464294433594
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8875383138656616
+          }
+        ],
+        "Significant color heterogeneity": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9031267166137695
+          }
+        ],
+        "Architectural disorganization": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.934116005897522
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9056150913238525
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.8929622769355774
+          }
+        ],
+        "Variegated purplish-blue": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9099802374839783
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9080116152763367
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9060494303703308
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.905024528503418
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8858598470687866
+          }
+        ],
+        "Lighter speckled appearance": [
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9136644005775452
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9107587337493896
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9094220995903015
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.896331787109375
+          }
+        ],
+        "Central hypopigmented area": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.914342999458313
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9041885137557983
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.8999123573303223
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.891826331615448
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8868274688720703
+          }
+        ],
+        "Dark reddish-brown periphery": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9370096325874329
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9260171055793762
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9179421663284302
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9021738171577454
+          }
+        ],
+        "Discernible radial streaking": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9344918727874756
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9252488613128662
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9117935299873352
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.8944216966629028
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8941664695739746
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8894280791282654
+          }
+        ],
+        "Pseudopods periphery": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9348787069320679
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9085041880607605
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8994052410125732
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8887082934379578
+          }
+        ],
+        "Scalloped borders": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9146898984909058
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9081116914749146
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.887043833732605
+          }
+        ],
+        "Raised nodular lesion": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.896245002746582
+          }
+        ],
+        "Finely textured central zone": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9387175440788269
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9129096269607544
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9024826288223267
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.8904497027397156
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.8902669548988342
+          }
+        ],
+        "Disorganized reticular network": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9351400136947632
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9181418418884277
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.8927704691886902
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.8878380060195923
+          }
+        ],
+        "Multifocal intense pigmentation": [
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9139436483383179
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9108808040618896
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9023687243461609
+          }
+        ],
+        "Pronounced asymmetry": [
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.890915036201477
+          }
+        ],
+        "Overtly disorganized borders": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9353830814361572
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9318765997886658
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9310184121131897
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8963656425476074
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.8921915888786316
+          }
+        ],
+        "Active growth suggested": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9272351861000061
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9254230260848999
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9076877236366272
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9045438170433044
+          }
+        ],
+        "Regression suggested": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9210728406906128
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9086025357246399
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9035835862159729
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9031298160552979
+          }
+        ],
+        "Chaotic pigment distribution": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.943723201751709
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9280706644058228
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9004369974136353
+          }
+        ],
+        "Multiple colors within lesion": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9298737049102783
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9048265814781189
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9009937047958374
+          }
+        ],
+        "Dendritic pigment pattern": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9403836727142334
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9375647306442261
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9170686602592468
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9094640016555786
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9031594395637512
+          }
+        ],
+        "Leaf-like pigment pattern": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9385664463043213
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9284765124320984
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9067386984825134
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8987345099449158
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8942902088165283
+          }
+        ],
+        "Cerebriform epidermal pattern": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9428789615631104
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9248084425926208
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9208567142486572
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.902534544467926
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.8993249535560608
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.891663670539856
+          }
+        ],
+        "Widespread convoluted white lines": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9508243799209595
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9423208832740784
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9191937446594238
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9187821745872498
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9013233184814453
+          }
+        ]
+      },
+      "statistics": {
+        "vocab_size": 10,
+        "threshold_used": 0.8855954110622406,
+        "threshold_type": "auto",
+        "mean_max_similarity": 0.9288852214813232,
+        "median_max_similarity": 0.9327335357666016,
+        "std_max_similarity": 0.01697215810418129,
+        "min_max_similarity": 0.8718729615211487,
+        "max_max_similarity": 0.957767903804779,
+        "above_threshold": 98,
+        "mapped_concepts": 98,
+        "total_mappings": 387,
+        "avg_mappings_per_concept": 3.87,
+        "concepts_with_few_mappings": 35,
+        "concepts_with_many_mappings": 11,
+        "mean_std_across_vocab": 0.038950465619564056,
+        "mean_similarity_range": 0.1295361965894699,
+        "specificity_score": 0.007998042221676398
+      }
+    },
+    "icd10cm": {
+      "mappings": {
+        "Light brown pigmentation": [
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.8892807960510254
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8876943588256836
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.8864012360572815
+          }
+        ],
+        "Dark brown pigmentation": [],
+        "Irregularly distributed pigment": [
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.9133743047714233
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.910603940486908
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.9070378541946411
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.8948585391044617
+          },
+          {
+            "concept": "Cerebral infarction due to thrombosis of vertebral artery",
+            "similarity": 0.8905820846557617
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8858969211578369
+          },
+          {
+            "concept": "Congenital deformity of sternocleidomastoid muscle",
+            "similarity": 0.8858290314674377
+          }
+        ],
+        "Delicate pseudoreticular pattern": [
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.9255117774009705
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.9219724535942078
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.9176973104476929
+          },
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.9155426025390625
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.9145981073379517
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.9124290347099304
+          },
+          {
+            "concept": "Arthropathy following intestinal bypass, left knee",
+            "similarity": 0.9110665321350098
+          },
+          {
+            "concept": "Unspecified injury of unspecified muscles, fascia and tendons at thigh level",
+            "similarity": 0.9104635715484619
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.9083245396614075
+          },
+          {
+            "concept": "Congenital deformity of sternocleidomastoid muscle",
+            "similarity": 0.9079508781433105
+          },
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.9007235765457153
+          },
+          {
+            "concept": "Other complications of amputation stump",
+            "similarity": 0.8988474607467651
+          },
+          {
+            "concept": "Other specified joint disorders, ankle and foot",
+            "similarity": 0.8980625867843628
+          },
+          {
+            "concept": "Cerebral infarction due to thrombosis of vertebral artery",
+            "similarity": 0.8907736539840698
+          },
+          {
+            "concept": "Other specified malignant neoplasm of skin of left upper limb, including shoulder",
+            "similarity": 0.8897814154624939
+          },
+          {
+            "concept": "Other benign neoplasm of skin of lip",
+            "similarity": 0.8864086866378784
+          },
+          {
+            "concept": "War operations involving combat using blunt or piercing object",
+            "similarity": 0.8863240480422974
+          }
+        ],
+        "Patchy pseudoreticular pattern": [
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.9182613492012024
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.9162492752075195
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.9087463021278381
+          },
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.9015428423881531
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.8971734046936035
+          },
+          {
+            "concept": "Other specified malignant neoplasm of skin of left upper limb, including shoulder",
+            "similarity": 0.8965128660202026
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8954775333404541
+          },
+          {
+            "concept": "Arthropathy following intestinal bypass, left knee",
+            "similarity": 0.8879244327545166
+          }
+        ],
+        "Fine neural network pattern": [],
+        "Intricate meshwork of lines": [
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.9111438989639282
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.9082216024398804
+          },
+          {
+            "concept": "Arthropathy following intestinal bypass, left knee",
+            "similarity": 0.9052278399467468
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.9001643657684326
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8995819091796875
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.8971448540687561
+          },
+          {
+            "concept": "Unspecified injury of unspecified muscles, fascia and tendons at thigh level",
+            "similarity": 0.8955661058425903
+          },
+          {
+            "concept": "Congenital deformity of sternocleidomastoid muscle",
+            "similarity": 0.8927162885665894
+          },
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.8897328972816467
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.8895286321640015
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.886949360370636
+          },
+          {
+            "concept": "War operations involving combat using blunt or piercing object",
+            "similarity": 0.88602614402771
+          }
+        ],
+        "Amorphous brown blotches": [
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.9105222821235657
+          },
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.9072335362434387
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.8963379263877869
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.8948128819465637
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.892252504825592
+          }
+        ],
+        "Confluent areas pigmentation": [
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.9057168960571289
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.8973618149757385
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.8963876366615295
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.8945329785346985
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.891689658164978
+          },
+          {
+            "concept": "Other specified malignant neoplasm of skin of left upper limb, including shoulder",
+            "similarity": 0.8882868885993958
+          },
+          {
+            "concept": "Other specified joint disorders, ankle and foot",
+            "similarity": 0.8859971165657043
+          }
+        ],
+        "Asymmetry in shape": [
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.9009107351303101
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8981894254684448
+          }
+        ],
+        "Irregular internal structure": [
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.9064663648605347
+          },
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.9043442010879517
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.9018007516860962
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.895671010017395
+          },
+          {
+            "concept": "Unspecified injury of unspecified muscles, fascia and tendons at thigh level",
+            "similarity": 0.8935364484786987
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.8876343965530396
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.8873794078826904
+          },
+          {
+            "concept": "Congenital deformity of sternocleidomastoid muscle",
+            "similarity": 0.8870358467102051
+          }
+        ],
+        "Ill-defined borders": [
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.8879451155662537
+          }
+        ],
+        "Feathery borders": [],
+        "Fading borders": [
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.887334406375885
+          }
+        ],
+        "Lack sharp demarcation": [],
+        "Polymorphic lesion presentation": [
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.9226478338241577
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.9090551733970642
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.9048386812210083
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.9044041037559509
+          },
+          {
+            "concept": "Arthropathy following intestinal bypass, left knee",
+            "similarity": 0.8988924622535706
+          },
+          {
+            "concept": "Congenital deformity of sternocleidomastoid muscle",
+            "similarity": 0.8946534991264343
+          },
+          {
+            "concept": "Unspecified injury of unspecified muscles, fascia and tendons at thigh level",
+            "similarity": 0.8945762515068054
+          },
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.8927924036979675
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.8872095346450806
+          },
+          {
+            "concept": "Effusion, right shoulder",
+            "similarity": 0.8866115808486938
+          }
+        ],
+        "Lightly pigmented skin background": [
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.9013116359710693
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.8870449066162109
+          }
+        ],
+        "Scattered small dark macules": [
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.8883920907974243
+          }
+        ],
+        "Scattered small dark papules": [
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.8919922709465027
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.8892685770988464
+          }
+        ],
+        "Reddish-pink coloration": [],
+        "Translucent areas": [],
+        "Well-demarcated borders": [],
+        "Fuzzy borders": [],
+        "Cobblestone texture": [
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.9083783030509949
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8950766324996948
+          },
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.890491247177124
+          }
+        ],
+        "Honeycomb-like texture": [
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.8981529474258423
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8944425582885742
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8923950791358948
+          }
+        ],
+        "Translucent papules": [
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.9170842170715332
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.9118384122848511
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.9085648655891418
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.8977428674697876
+          }
+        ],
+        "Interspersed darker dots": [],
+        "Prominent reddish vascularity": [],
+        "Heavily pigmented lesions": [
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.9261223077774048
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.9124721884727478
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.9095675349235535
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.9090585708618164
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8978749513626099
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.8951082825660706
+          },
+          {
+            "concept": "Other specified malignant neoplasm of skin of left upper limb, including shoulder",
+            "similarity": 0.8875330090522766
+          },
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.8871942758560181
+          }
+        ],
+        "Internal color variability": [],
+        "Internal texture variability": [],
+        "Aggregated pigment clods": [
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.9308334589004517
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.9228258728981018
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.910643458366394
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.9057453274726868
+          },
+          {
+            "concept": "Congenital deformity of sternocleidomastoid muscle",
+            "similarity": 0.8984736204147339
+          },
+          {
+            "concept": "Cerebral infarction due to thrombosis of vertebral artery",
+            "similarity": 0.8962128758430481
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8955011367797852
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.8925207257270813
+          }
+        ],
+        "Epidermal-proliferative growth": [],
+        "Seborrheic keratosis morphology": [
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.9248721599578857
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.9234205484390259
+          },
+          {
+            "concept": "Congenital deformity of sternocleidomastoid muscle",
+            "similarity": 0.9194647073745728
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.9193013906478882
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.9083858728408813
+          },
+          {
+            "concept": "Unspecified injury of unspecified muscles, fascia and tendons at thigh level",
+            "similarity": 0.9068794250488281
+          },
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.906082034111023
+          },
+          {
+            "concept": "Cerebral infarction due to thrombosis of vertebral artery",
+            "similarity": 0.8982304334640503
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.896848201751709
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.8888558745384216
+          },
+          {
+            "concept": "War operations involving combat using blunt or piercing object",
+            "similarity": 0.8879916667938232
+          },
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.887573778629303
+          },
+          {
+            "concept": "Other allergic rhinitis",
+            "similarity": 0.8858051896095276
+          }
+        ],
+        "Black central pigmentation": [
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.9145715832710266
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.9073539972305298
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8989028930664062
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.8955569863319397
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8885647058486938
+          }
+        ],
+        "Pigment network pattern": [
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8872530460357666
+          }
+        ],
+        "Pseudonetwork pattern": [
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.8987354636192322
+          }
+        ],
+        "Coarser pigment network": [
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.8936859965324402
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8899789452552795
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8886568546295166
+          },
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.8886085748672485
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.8882259726524353
+          },
+          {
+            "concept": "Arthropathy following intestinal bypass, left knee",
+            "similarity": 0.8877906799316406
+          }
+        ],
+        "Lobulated network pattern": [],
+        "Globular network periphery": [],
+        "Finer delicate network": [],
+        "Branching network structure": [
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8894801139831543
+          },
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.8857118487358093
+          }
+        ],
+        "Denser pigment accumulation": [
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.895900547504425
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8932042121887207
+          },
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.8921620845794678
+          },
+          {
+            "concept": "Arthropathy following intestinal bypass, left knee",
+            "similarity": 0.8869569301605225
+          },
+          {
+            "concept": "Encounter for screening examination for mental health and behavioral disorders",
+            "similarity": 0.8856875896453857
+          },
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.8856819868087769
+          }
+        ],
+        "Prominent starburst pattern": [
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.903964638710022
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.8945767283439636
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.8937573432922363
+          },
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.8887812495231628
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.8865321278572083
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8864535093307495
+          }
+        ],
+        "Central darker brown core": [],
+        "Darker globules central": [],
+        "Radiating fine streaks": [],
+        "Spiky appearance": [
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.8940624594688416
+          }
+        ],
+        "Sunburst-like appearance": [
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.902725338935852
+          },
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.8935457468032837
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.8914319276809692
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.8909237384796143
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.8877066373825073
+          }
+        ],
+        "Highly irregular borders": [
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.9072160720825195
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.9040700793266296
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.893780529499054
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.8919410705566406
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8898680210113525
+          },
+          {
+            "concept": "Other specified joint disorders, ankle and foot",
+            "similarity": 0.8887727856636047
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.8865894675254822
+          }
+        ],
+        "Uneven radial distribution": [
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.89150071144104
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.8867149949073792
+          }
+        ],
+        "Dark blackish-brown central": [
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.8881978988647461
+          }
+        ],
+        "Lighter brown radiating periphery": [],
+        "Dominant central lesion": [
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.9117454290390015
+          },
+          {
+            "concept": "Cerebral infarction due to thrombosis of vertebral artery",
+            "similarity": 0.9071342945098877
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.9062635898590088
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.9047137498855591
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.9023849368095398
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.8971810340881348
+          },
+          {
+            "concept": "Arthropathy following intestinal bypass, left knee",
+            "similarity": 0.8895996809005737
+          },
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.8861801624298096
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.8861010670661926
+          }
+        ],
+        "Very dark brown coloration": [
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8900036215782166
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.8860729932785034
+          }
+        ],
+        "Irregular pigment distribution": [
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.9118891358375549
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.9108866453170776
+          },
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.9090860486030579
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.9086697101593018
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.9006840586662292
+          },
+          {
+            "concept": "Unspecified injury of unspecified muscles, fascia and tendons at thigh level",
+            "similarity": 0.8977327346801758
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.8956432342529297
+          },
+          {
+            "concept": "Congenital deformity of sternocleidomastoid muscle",
+            "similarity": 0.8946182727813721
+          },
+          {
+            "concept": "Arthropathy following intestinal bypass, left knee",
+            "similarity": 0.8910410404205322
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.8906108140945435
+          },
+          {
+            "concept": "War operations involving combat using blunt or piercing object",
+            "similarity": 0.8859031200408936
+          }
+        ],
+        "Blending lighter periphery": [],
+        "Roundish to oval shape": [],
+        "Lacks clear symmetry": [],
+        "Numerous smaller macules": [],
+        "More defined borders": [],
+        "Densely pigmented texture": [
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.9056597352027893
+          },
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.8994369506835938
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8970258831977844
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8932670950889587
+          }
+        ],
+        "Obscuring finer patterns": [],
+        "Typical follicular openings": [
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.9143264293670654
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.9103949069976807
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.9066030979156494
+          },
+          {
+            "concept": "Other congenital malformations of vulva",
+            "similarity": 0.904915452003479
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.9040261507034302
+          },
+          {
+            "concept": "Other specified malignant neoplasm of skin of left upper limb, including shoulder",
+            "similarity": 0.8933964967727661
+          },
+          {
+            "concept": "Other benign neoplasm of skin of lip",
+            "similarity": 0.8889932632446289
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.8885332942008972
+          },
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.8866026401519775
+          }
+        ],
+        "Fine hairs present": [
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.8963865637779236
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8963295817375183
+          },
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.8878421187400818
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8858015537261963
+          }
+        ],
+        "Stark contrast pigmentation": [],
+        "Small relatively flat lesions": [
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.9006190896034241
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.8944393396377563
+          },
+          {
+            "concept": "Other specified joint disorders, ankle and foot",
+            "similarity": 0.8898364305496216
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8882240056991577
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8867075443267822
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.8864802718162537
+          }
+        ],
+        "Markedly asymmetrical shape": [
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.897394597530365
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8956083059310913
+          },
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.8899930119514465
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8891417384147644
+          }
+        ],
+        "Amorphous shape": [
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.886492133140564
+          }
+        ],
+        "Granular pigment": [
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.9164494276046753
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.9136989116668701
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.9108784198760986
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8951730728149414
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.8913905620574951
+          }
+        ],
+        "Speckled pigment": [
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.9066664576530457
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.9008712768554688
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8957693576812744
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.8861215114593506
+          }
+        ],
+        "Prominent darker punctate structures": [
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8874983787536621
+          }
+        ],
+        "Small globules concentrated": [],
+        "Fragmented pigment appearance": [
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.91041100025177
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.9092291593551636
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.8988466262817383
+          },
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.8986573219299316
+          },
+          {
+            "concept": "Arthropathy following intestinal bypass, left knee",
+            "similarity": 0.8959551453590393
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8958029747009277
+          },
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.8895820379257202
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.886237382888794
+          }
+        ],
+        "Clumped pigment appearance": [
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.9027291536331177
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.9025818109512329
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.8982639908790588
+          },
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.8930533528327942
+          },
+          {
+            "concept": "Arthropathy following intestinal bypass, left knee",
+            "similarity": 0.8913710117340088
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8885141611099243
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.8869331479072571
+          }
+        ],
+        "Subtle texture irregularities": [
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8911568522453308
+          }
+        ],
+        "Uneven pigment aggregation": [
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.914455771446228
+          },
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.9139274954795837
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.9112698435783386
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.901165783405304
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.8973080515861511
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8930538892745972
+          },
+          {
+            "concept": "Unspecified injury of unspecified muscles, fascia and tendons at thigh level",
+            "similarity": 0.8892832398414612
+          },
+          {
+            "concept": "Cerebral infarction due to thrombosis of vertebral artery",
+            "similarity": 0.8889253735542297
+          },
+          {
+            "concept": "Congenital deformity of sternocleidomastoid muscle",
+            "similarity": 0.8879433274269104
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.885969877243042
+          }
+        ],
+        "Significant color heterogeneity": [],
+        "Architectural disorganization": [
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.888471782207489
+          }
+        ],
+        "Variegated purplish-blue": [
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.8876733779907227
+          }
+        ],
+        "Lighter speckled appearance": [
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.890110969543457
+          }
+        ],
+        "Central hypopigmented area": [
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.9231541156768799
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.9160729050636292
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.9058372974395752
+          },
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.9018430709838867
+          },
+          {
+            "concept": "Other specified malignant neoplasm of skin of left upper limb, including shoulder",
+            "similarity": 0.9004122018814087
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.8961471319198608
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8933455348014832
+          }
+        ],
+        "Dark reddish-brown periphery": [
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.8926703333854675
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.8869390487670898
+          }
+        ],
+        "Discernible radial streaking": [
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.8944411873817444
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8920958042144775
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.8919951319694519
+          }
+        ],
+        "Pseudopods periphery": [],
+        "Scalloped borders": [],
+        "Raised nodular lesion": [
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.9098938703536987
+          },
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.8970275521278381
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.8962100744247437
+          },
+          {
+            "concept": "Arthropathy following intestinal bypass, left knee",
+            "similarity": 0.892783522605896
+          },
+          {
+            "concept": "Other specified malignant neoplasm of skin of left upper limb, including shoulder",
+            "similarity": 0.8908581733703613
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8908113241195679
+          },
+          {
+            "concept": "Effusion, right shoulder",
+            "similarity": 0.8905764222145081
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8894221782684326
+          },
+          {
+            "concept": "Other specified joint disorders, ankle and foot",
+            "similarity": 0.8860335350036621
+          }
+        ],
+        "Finely textured central zone": [
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8961198329925537
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8940184712409973
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.8903160095214844
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.8865759968757629
+          }
+        ],
+        "Disorganized reticular network": [
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.9007161259651184
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.9000753164291382
+          },
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.8969365358352661
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.8929202556610107
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.8927801847457886
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8908625841140747
+          }
+        ],
+        "Multifocal intense pigmentation": [
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.9110616445541382
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.9008910655975342
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.8994091749191284
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8941134214401245
+          }
+        ],
+        "Pronounced asymmetry": [],
+        "Overtly disorganized borders": [
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.902884840965271
+          },
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.8997374773025513
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.8893090486526489
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.8887587785720825
+          }
+        ],
+        "Active growth suggested": [
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.8889783620834351
+          }
+        ],
+        "Regression suggested": [
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.8986408710479736
+          }
+        ],
+        "Chaotic pigment distribution": [
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.9059675931930542
+          },
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.9035208225250244
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.8948493003845215
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.8931287527084351
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.8926243782043457
+          }
+        ],
+        "Multiple colors within lesion": [
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8963916897773743
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.8860311508178711
+          }
+        ],
+        "Dendritic pigment pattern": [
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.899874746799469
+          },
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.8967421054840088
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8947975635528564
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.8903111219406128
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8896775841712952
+          }
+        ],
+        "Leaf-like pigment pattern": [
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.8871062994003296
+          }
+        ],
+        "Cerebriform epidermal pattern": [
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.924874484539032
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.9210977554321289
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.9208672642707825
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.9194656014442444
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.9138134121894836
+          },
+          {
+            "concept": "Other chondrocalcinosis, elbow",
+            "similarity": 0.9079844951629639
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.904227614402771
+          },
+          {
+            "concept": "Other specified malignant neoplasm of skin of left upper limb, including shoulder",
+            "similarity": 0.903536319732666
+          },
+          {
+            "concept": "Cerebral infarction due to thrombosis of vertebral artery",
+            "similarity": 0.8970688581466675
+          },
+          {
+            "concept": "Congenital deformity of sternocleidomastoid muscle",
+            "similarity": 0.8968714475631714
+          },
+          {
+            "concept": "Arthropathy following intestinal bypass, left knee",
+            "similarity": 0.8948544263839722
+          },
+          {
+            "concept": "Other benign neoplasm of skin of lip",
+            "similarity": 0.8917035460472107
+          },
+          {
+            "concept": "Unspecified injury of unspecified muscles, fascia and tendons at thigh level",
+            "similarity": 0.8916195631027222
+          },
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.8867443203926086
+          }
+        ],
+        "Widespread convoluted white lines": [
+          {
+            "concept": "Explosion on board other powered watercraft",
+            "similarity": 0.9028873443603516
+          },
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.9003205895423889
+          },
+          {
+            "concept": "Fat necrosis of breast",
+            "similarity": 0.8996486663818359
+          },
+          {
+            "concept": "Unspecified malignant neoplasm of skin of other parts of face",
+            "similarity": 0.8987407684326172
+          },
+          {
+            "concept": "Laceration with foreign body of unspecified forearm",
+            "similarity": 0.8901323676109314
+          },
+          {
+            "concept": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation",
+            "similarity": 0.889592707157135
+          },
+          {
+            "concept": "Blister (nonthermal) of front wall of thorax",
+            "similarity": 0.8885303735733032
+          }
+        ]
+      },
+      "statistics": {
+        "vocab_size": 30,
+        "threshold_used": 0.8855954110622406,
+        "threshold_type": "auto",
+        "mean_max_similarity": 0.892569363117218,
+        "median_max_similarity": 0.8923313021659851,
+        "std_max_similarity": 0.019625691697001457,
+        "min_max_similarity": 0.8073161840438843,
+        "max_max_similarity": 0.9308334589004517,
+        "above_threshold": 68,
+        "mapped_concepts": 68,
+        "total_mappings": 332,
+        "avg_mappings_per_concept": 3.32,
+        "concepts_with_few_mappings": 28,
+        "concepts_with_many_mappings": 26,
+        "mean_std_across_vocab": 0.024155113846063614,
+        "mean_similarity_range": 0.10236171633005142,
+        "specificity_score": 0.005591461538440651
+      }
+    }
+  }
+}

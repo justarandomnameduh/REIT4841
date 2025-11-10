@@ -1,0 +1,56 @@
+{
+  "timestamp": "2025-10-22T16:45:10.438090",
+  "total": 5,
+  "successful": 5,
+  "failed": 0,
+  "skipped": 0,
+  "duration_seconds": 6084.237213373184,
+  "failed_configs": [],
+  "results": [
+    {
+      "model": "ham10000_k10_n4_c10",
+      "k": 10,
+      "n": 4,
+      "c": 10,
+      "vlm": "gemini",
+      "dataset": "ham10000",
+      "duration_seconds": 602.3430688381195
+    },
+    {
+      "model": "ham10000_k10_n4_c30",
+      "k": 10,
+      "n": 4,
+      "c": 30,
+      "vlm": "gemini",
+      "dataset": "ham10000",
+      "duration_seconds": 869.8749957084656
+    },
+    {
+      "model": "ham10000_k10_n4_c50",
+      "k": 10,
+      "n": 4,
+      "c": 50,
+      "vlm": "gemini",
+      "dataset": "ham10000",
+      "duration_seconds": 758.703049659729
+    },
+    {
+      "model": "ham10000_k10_n4_c100",
+      "k": 10,
+      "n": 4,
+      "c": 100,
+      "vlm": "gemini",
+      "dataset": "ham10000",
+      "duration_seconds": 2401.5058937072754
+    },
+    {
+      "model": "ham10000_k10_n4_c200",
+      "k": 10,
+      "n": 4,
+      "c": 200,
+      "vlm": "gemini",
+      "dataset": "ham10000",
+      "duration_seconds": 1451.7636346817017
+    }
+  ]
+}

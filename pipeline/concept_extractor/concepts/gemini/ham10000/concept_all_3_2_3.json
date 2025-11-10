@@ -1,0 +1,19 @@
+{
+  "all": [
+    "Asymmetry & Border Irregularity",
+    "Variegated Pigmentation",
+    "Complex Internal Patterns"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Asymmetry & Border Irregularity",
+      "Variegated Pigmentation",
+      "Complex Internal Patterns"
+    ],
+    "nv": [
+      "Asymmetry & Border Irregularity",
+      "Variegated Pigmentation",
+      "Complex Internal Patterns"
+    ]
+  }
+}

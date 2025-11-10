@@ -1,0 +1,19 @@
+{
+  "all": [
+    "Pigmentary Heterogeneity",
+    "Irregular Border Projections",
+    "Architectural Asymmetry"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Pigmentary Heterogeneity",
+      "Irregular Border Projections",
+      "Architectural Asymmetry"
+    ],
+    "nv": [
+      "Pigmentary Heterogeneity",
+      "Irregular Border Projections",
+      "Architectural Asymmetry"
+    ]
+  }
+}

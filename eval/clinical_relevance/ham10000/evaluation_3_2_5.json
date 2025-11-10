@@ -1,0 +1,137 @@
+{
+  "generated_file": "/home/nqmtien/REIT4841/pipeline/concept_extractor/concepts/gemini/ham10000/concept_all_3_2_5.json",
+  "num_generated_concepts": 5,
+  "use_auto_threshold": true,
+  "vocabulary_results": {
+    "derm7pt": {
+      "mappings": {
+        "Lesion Asymmetry": [],
+        "Variegated Pigmentation": [],
+        "Irregular Border Pattern": [],
+        "Peripheral Projections": [],
+        "Reticular/Globular Pattern": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9039008617401123
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8983763456344604
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.89836186170578
+          },
+          {
+            "concept": "absent of vascular structures",
+            "similarity": 0.8903754353523254
+          }
+        ]
+      },
+      "statistics": {
+        "vocab_size": 28,
+        "threshold_used": 0.8855954110622406,
+        "threshold_type": "auto",
+        "mean_max_similarity": 0.8663995862007141,
+        "median_max_similarity": 0.8629579544067383,
+        "std_max_similarity": 0.02064705081284046,
+        "min_max_similarity": 0.8448214530944824,
+        "max_max_similarity": 0.9039008617401123,
+        "above_threshold": 1,
+        "mapped_concepts": 1,
+        "total_mappings": 4,
+        "avg_mappings_per_concept": 0.8,
+        "concepts_with_few_mappings": 0,
+        "concepts_with_many_mappings": 0,
+        "mean_std_across_vocab": 0.020098429173231125,
+        "mean_similarity_range": 0.07755635678768158,
+        "specificity_score": 0.011165793985128403
+      }
+    },
+    "dermlike": {
+      "mappings": {
+        "Lesion Asymmetry": [],
+        "Variegated Pigmentation": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.8972598314285278
+          }
+        ],
+        "Irregular Border Pattern": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.8995788097381592
+          }
+        ],
+        "Peripheral Projections": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9066344499588013
+          }
+        ],
+        "Reticular/Globular Pattern": [
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9099960327148438
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.906379222869873
+          }
+        ]
+      },
+      "statistics": {
+        "vocab_size": 10,
+        "threshold_used": 0.8855954110622406,
+        "threshold_type": "auto",
+        "mean_max_similarity": 0.8968305587768555,
+        "median_max_similarity": 0.8995788097381592,
+        "std_max_similarity": 0.013862533494830132,
+        "min_max_similarity": 0.8706835508346558,
+        "max_max_similarity": 0.9099960327148438,
+        "above_threshold": 4,
+        "mapped_concepts": 4,
+        "total_mappings": 5,
+        "avg_mappings_per_concept": 1.0,
+        "concepts_with_few_mappings": 4,
+        "concepts_with_many_mappings": 0,
+        "mean_std_across_vocab": 0.032165803015232086,
+        "mean_similarity_range": 0.11553995311260223,
+        "specificity_score": 0.016082901507616043
+      }
+    },
+    "icd10cm": {
+      "mappings": {
+        "Lesion Asymmetry": [],
+        "Variegated Pigmentation": [],
+        "Irregular Border Pattern": [
+          {
+            "concept": "Ectropion of eyelid",
+            "similarity": 0.8861316442489624
+          }
+        ],
+        "Peripheral Projections": [],
+        "Reticular/Globular Pattern": []
+      },
+      "statistics": {
+        "vocab_size": 30,
+        "threshold_used": 0.8855954110622406,
+        "threshold_type": "auto",
+        "mean_max_similarity": 0.8780218362808228,
+        "median_max_similarity": 0.8802817463874817,
+        "std_max_similarity": 0.006046717055141926,
+        "min_max_similarity": 0.8685669898986816,
+        "max_max_similarity": 0.8861316442489624,
+        "above_threshold": 1,
+        "mapped_concepts": 1,
+        "total_mappings": 1,
+        "avg_mappings_per_concept": 0.2,
+        "concepts_with_few_mappings": 1,
+        "concepts_with_many_mappings": 0,
+        "mean_std_across_vocab": 0.023915886878967285,
+        "mean_similarity_range": 0.09851841628551483,
+        "specificity_score": 0.01992990573247274
+      }
+    }
+  }
+}

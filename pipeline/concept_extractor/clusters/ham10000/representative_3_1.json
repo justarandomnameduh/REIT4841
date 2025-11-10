@@ -1,0 +1,20 @@
+[
+  {
+    "cluster_id": 0,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0029885.jpg"
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0033279.jpg"
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0033202.jpg"
+    ]
+  }
+]

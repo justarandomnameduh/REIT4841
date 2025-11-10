@@ -1,0 +1,30 @@
+{
+  "all": [
+    "Color variegation",
+    "Lesion asymmetry",
+    "Irregular borders",
+    "Ill-defined borders",
+    "Radial streaks",
+    "Pseudopods present",
+    "Internal heterogeneity",
+    "Disorganized growth pattern",
+    "Stellate lesion contour",
+    "Notched borders"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Color variegation",
+      "Lesion asymmetry",
+      "Irregular borders",
+      "Pseudopods present",
+      "Disorganized growth pattern"
+    ],
+    "nv": [
+      "Lesion asymmetry",
+      "Irregular borders",
+      "Internal heterogeneity",
+      "Radial streaks",
+      "Stellate lesion contour"
+    ]
+  }
+}

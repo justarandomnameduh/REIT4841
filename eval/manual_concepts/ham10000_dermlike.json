@@ -1,0 +1,30 @@
+{
+    "all": [
+        "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+        "Black dots or globules in the periphery of the lesion",
+        "Eccentrically located structureless area (any colour except skin colour, white and grey)",
+        "Grey patterns",
+        "Melanoma simulator",
+        "Only one pattern and only one colour",
+        "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+        "Polymorphous vessels",
+        "Thick reticular or branched lines",
+        "White lines or white structureless area"
+    ],
+    "class_concepts": {
+        "mel": [
+            "Black dots or globules in the periphery of the lesion",
+            "Eccentrically located structureless area (any colour except skin colour, white and grey)",
+            "Grey patterns",
+            "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "Polymorphous vessels",
+            "Thick reticular or branched lines",
+            "White lines or white structureless area"
+        ],
+        "nev": [
+            "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "Melanoma simulator",
+            "Only one pattern and only one colour"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-10-22T02:19:32.054974",
+  "total": 1,
+  "successful": 0,
+  "failed": 1,
+  "skipped": 0,
+  "duration_seconds": 16.955819129943848,
+  "failed_configs": [
+    {
+      "k": 1,
+      "n": 1,
+      "c": 1,
+      "vlm": "gemini"
+    }
+  ],
+  "results": []
+}

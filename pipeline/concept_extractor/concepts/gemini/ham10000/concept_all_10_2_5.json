@@ -1,0 +1,23 @@
+{
+  "all": [
+    "Border Irregularity",
+    "Color Variegation",
+    "Pigment Network Pattern",
+    "Radial Streaking Pattern",
+    "Cerebriform Surface Texture"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Border Irregularity",
+      "Color Variegation",
+      "Pigment Network Pattern",
+      "Radial Streaking Pattern"
+    ],
+    "nv": [
+      "Pigment Network Pattern",
+      "Cerebriform Surface Texture",
+      "Border Irregularity",
+      "Color Variegation"
+    ]
+  }
+}

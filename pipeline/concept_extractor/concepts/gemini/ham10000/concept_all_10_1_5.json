@@ -1,0 +1,20 @@
+{
+  "all": [
+    "Architectural asymmetry",
+    "Irregular border projections",
+    "Heterogeneous pigmentation",
+    "Globular or reticular patterns",
+    "Cerebriform surface pattern"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Architectural asymmetry",
+      "Irregular border projections",
+      "Heterogeneous pigmentation",
+      "Globular or reticular patterns"
+    ],
+    "nv": [
+      "Globular or reticular patterns"
+    ]
+  }
+}

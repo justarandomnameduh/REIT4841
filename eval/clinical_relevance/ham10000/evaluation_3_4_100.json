@@ -1,0 +1,5256 @@
+{
+  "generated_file": "/home/nqmtien/REIT4841/pipeline/concept_extractor/concepts/gemini/ham10000/concept_all_3_4_100.json",
+  "num_generated_concepts": 100,
+  "use_auto_threshold": true,
+  "vocabulary_results": {
+    "derm7pt": {
+      "mappings": {
+        "Polychromatic color appearance": [],
+        "Color heterogeneity": [],
+        "Uneven pigment distribution": [],
+        "Varied shades and hues": [],
+        "Light brown pigmentation": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9189682006835938
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.9077528119087219
+          },
+          {
+            "concept": "has localized irregular pigmentation",
+            "similarity": 0.9060791730880737
+          },
+          {
+            "concept": "has diffuse regular pigmentation",
+            "similarity": 0.905086874961853
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.9042183756828308
+          },
+          {
+            "concept": "has blue-whitish veil",
+            "similarity": 0.9032166600227356
+          },
+          {
+            "concept": "has diffuse irregular pigmentation",
+            "similarity": 0.9008364081382751
+          },
+          {
+            "concept": "has localized regular pigmentation",
+            "similarity": 0.9001612663269043
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.89781254529953
+          },
+          {
+            "concept": "has atypical pigment network",
+            "similarity": 0.8889830112457275
+          },
+          {
+            "concept": "has typical pigment network",
+            "similarity": 0.8873178958892822
+          }
+        ],
+        "Dark brown pigmentation": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8968383073806763
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.8948307037353516
+          }
+        ],
+        "Very dark brown tones": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8860657811164856
+          }
+        ],
+        "Black pigment presence": [],
+        "Reddish-pink coloration": [
+          {
+            "concept": "has blue-whitish veil",
+            "similarity": 0.8970965147018433
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8936524987220764
+          }
+        ],
+        "Purplish hue observed": [],
+        "Marked overall asymmetry": [],
+        "Internal structural asymmetry": [],
+        "Irregular lesion contours": [],
+        "Elongated lesion form": [],
+        "Multifocal lesion outlines": [],
+        "Ill-defined lesion borders": [],
+        "Irregular border shape": [],
+        "Blurry lesion margins": [],
+        "Scalloped border edge": [],
+        "Dots feathering margin": [],
+        "Specks feathering margin": [],
+        "Fine delicate striations": [
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.890538215637207
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8902311325073242
+          },
+          {
+            "concept": "has hairpin vascular structures",
+            "similarity": 0.8878641128540039
+          },
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8864401578903198
+          }
+        ],
+        "Granular pigment pattern": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9056112766265869
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.9018391370773315
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8948513865470886
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8882730007171631
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.8862507343292236
+          }
+        ],
+        "Aggregated pigment clumps": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9096804857254028
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.9062231779098511
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8963081240653992
+          },
+          {
+            "concept": "absent of dots and globules",
+            "similarity": 0.8938554525375366
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8905435800552368
+          },
+          {
+            "concept": "absent of vascular structures",
+            "similarity": 0.8898594975471497
+          }
+        ],
+        "Speckled surface appearance": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9069280624389648
+          }
+        ],
+        "Irregular dot distribution": [],
+        "Irregular globule distribution": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8879426121711731
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8860681653022766
+          }
+        ],
+        "Absence of benign patterns": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.9015330076217651
+          },
+          {
+            "concept": "absent of vascular structures",
+            "similarity": 0.8953635096549988
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8944511413574219
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.891594648361206
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.889428973197937
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8878728747367859
+          }
+        ],
+        "Chaotic internal patterns": [
+          {
+            "concept": "absent of regression structures",
+            "similarity": 0.8876902461051941
+          }
+        ],
+        "Diffuse pigment spread": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8939056396484375
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8881652355194092
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8874392509460449
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8858575820922852
+          }
+        ],
+        "Focally aggregated pigment": [
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8877722024917603
+          }
+        ],
+        "Atypical lesion features": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8920754194259644
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8872283697128296
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8870657086372375
+          }
+        ],
+        "Concerning lesion characteristics": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8860891461372375
+          }
+        ],
+        "Highly irregular borders": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.9129993915557861
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9048882722854614
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8998438715934753
+          },
+          {
+            "concept": "absent of vascular structures",
+            "similarity": 0.8924249410629272
+          },
+          {
+            "concept": "has linear irregular vascular structures",
+            "similarity": 0.8901804685592651
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.889587938785553
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.8894456028938293
+          },
+          {
+            "concept": "has dotted vascular structures",
+            "similarity": 0.888763427734375
+          },
+          {
+            "concept": "has hairpin vascular structures",
+            "similarity": 0.8870530128479004
+          },
+          {
+            "concept": "has regular streaks",
+            "similarity": 0.8867942690849304
+          }
+        ],
+        "Fuzzy lesion margins": [],
+        "Pigment diffusion into skin": [],
+        "Streaky pigmentation outwards": [],
+        "Various brown shades": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8898961544036865
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8898060917854309
+          },
+          {
+            "concept": "has blue-whitish veil",
+            "similarity": 0.885646402835846
+          }
+        ],
+        "Reddish-brown areas": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8954146504402161
+          },
+          {
+            "concept": "has blue-whitish veil",
+            "similarity": 0.886459231376648
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8856765031814575
+          }
+        ],
+        "Central pink component": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8880405426025391
+          }
+        ],
+        "Erythematous component": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9071799516677856
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.9020059108734131
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8980644941329956
+          },
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.886943519115448
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8858360052108765
+          }
+        ],
+        "Irregular finger-like extensions": [
+          {
+            "concept": "has hairpin vascular structures",
+            "similarity": 0.8950322866439819
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8935235738754272
+          },
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8919286727905273
+          }
+        ],
+        "Pseudopods extending periphery": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.899024248123169
+          },
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8951377868652344
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8879433870315552
+          },
+          {
+            "concept": "has hairpin vascular structures",
+            "similarity": 0.8875516653060913
+          }
+        ],
+        "Radial streaky patterns": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8964518308639526
+          },
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8871353268623352
+          }
+        ],
+        "Starburst peripheral pattern": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.9015471935272217
+          },
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.900865912437439
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8969642519950867
+          },
+          {
+            "concept": "has regular streaks",
+            "similarity": 0.8907521963119507
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8901752233505249
+          },
+          {
+            "concept": "has hairpin vascular structures",
+            "similarity": 0.8881769180297852
+          }
+        ],
+        "Spiculated lesion edge": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8896678686141968
+          }
+        ],
+        "Macular lesion type": [],
+        "Patch lesion morphology": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8899022936820984
+          }
+        ],
+        "Lacking uniform structure": [],
+        "Haphazard growth pattern": [
+          {
+            "concept": "has blue areas regression structures",
+            "similarity": 0.8869803547859192
+          }
+        ],
+        "Spreading lesion growth": [],
+        "Fuzzy border appearance": [],
+        "Radial border architecture": [],
+        "Variegated brown coloration": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9057570099830627
+          },
+          {
+            "concept": "has blue-whitish veil",
+            "similarity": 0.8941483497619629
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8915641903877258
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.889565110206604
+          }
+        ],
+        "Central erythema presence": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8872616291046143
+          }
+        ],
+        "Characteristic peripheral spread": [],
+        "Brown pigment spectrum": [
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8965685963630676
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8961935639381409
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8929012417793274
+          },
+          {
+            "concept": "has blue-whitish veil",
+            "similarity": 0.8857195973396301
+          }
+        ],
+        "Lighter reddish-brown periphery": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8911792635917664
+          },
+          {
+            "concept": "has blue-whitish veil",
+            "similarity": 0.8899884223937988
+          }
+        ],
+        "Tan peripheral color": [
+          {
+            "concept": "has blue-whitish veil",
+            "similarity": 0.9010906219482422
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9005272388458252
+          },
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8968706727027893
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8953759670257568
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8948554992675781
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.8934469223022461
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8908600807189941
+          },
+          {
+            "concept": "has regular streaks",
+            "similarity": 0.8905748128890991
+          },
+          {
+            "concept": "has diffuse regular pigmentation",
+            "similarity": 0.8893017768859863
+          },
+          {
+            "concept": "has localized regular pigmentation",
+            "similarity": 0.8865724802017212
+          }
+        ],
+        "Deeper brown central pigment": [
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.9004068970680237
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8968607187271118
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.8917175531387329
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8868001699447632
+          }
+        ],
+        "Darker brown central pigment": [
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.9128046035766602
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9092421531677246
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.9054731726646423
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.896086573600769
+          },
+          {
+            "concept": "has diffuse regular pigmentation",
+            "similarity": 0.8958603143692017
+          },
+          {
+            "concept": "has localized irregular pigmentation",
+            "similarity": 0.8942872285842896
+          },
+          {
+            "concept": "has diffuse irregular pigmentation",
+            "similarity": 0.8913711309432983
+          },
+          {
+            "concept": "has localized regular pigmentation",
+            "similarity": 0.8894299268722534
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8875134587287903
+          }
+        ],
+        "Black central pigmentation": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8990387916564941
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.8963611721992493
+          },
+          {
+            "concept": "has localized irregular pigmentation",
+            "similarity": 0.8944945335388184
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8931232690811157
+          },
+          {
+            "concept": "has diffuse regular pigmentation",
+            "similarity": 0.8931088447570801
+          },
+          {
+            "concept": "has diffuse irregular pigmentation",
+            "similarity": 0.8903933763504028
+          },
+          {
+            "concept": "has localized regular pigmentation",
+            "similarity": 0.8865317106246948
+          }
+        ],
+        "Prominent radial streaks": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.9138383865356445
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9049023389816284
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8978980183601379
+          },
+          {
+            "concept": "absent of vascular structures",
+            "similarity": 0.895430862903595
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8937149047851562
+          },
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8878757953643799
+          }
+        ],
+        "Pseudopods from margin": [],
+        "Spiky border appearance": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8929722905158997
+          }
+        ],
+        "Non-smooth lesion edge": [],
+        "Disorganized lesion edge": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8991270661354065
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8873625993728638
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8863582611083984
+          }
+        ],
+        "Irregular oval shape": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.894035816192627
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8879815340042114
+          }
+        ],
+        "Oblong lesion shape": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8893610239028931
+          }
+        ],
+        "Asymmetric pigment distribution": [],
+        "Coarse surface texture": [],
+        "Granular surface texture": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8952181339263916
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8898485898971558
+          }
+        ],
+        "Denser pigmented areas": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.9064328670501709
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9035416841506958
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8996142148971558
+          },
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8891522884368896
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8872510194778442
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.886650025844574
+          },
+          {
+            "concept": "has localized irregular pigmentation",
+            "similarity": 0.8859826922416687
+          }
+        ],
+        "Lacking fine pigment network": [],
+        "Globules irregularly distributed": [
+          {
+            "concept": "absent of dots and globules",
+            "similarity": 0.8918786644935608
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.889436662197113
+          }
+        ],
+        "Pigment extension beyond border": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8980822563171387
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8884541988372803
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8861322402954102
+          }
+        ],
+        "Peripheral pigment diffusion": [],
+        "Peripheral pigment streaking": [],
+        "Multifocal growth pattern": [],
+        "Internal pattern disorganization": [],
+        "Lesion border irregularity": [],
+        "Absent pigment network": [
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.9334672093391418
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9305167198181152
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.9086306095123291
+          },
+          {
+            "concept": "absent of pigmentation",
+            "similarity": 0.9080328345298767
+          },
+          {
+            "concept": "absent of vascular structures",
+            "similarity": 0.8975695371627808
+          },
+          {
+            "concept": "has atypical pigment network",
+            "similarity": 0.8949276208877563
+          },
+          {
+            "concept": "has diffuse regular pigmentation",
+            "similarity": 0.8937581181526184
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8933149576187134
+          },
+          {
+            "concept": "has localized irregular pigmentation",
+            "similarity": 0.8911086916923523
+          },
+          {
+            "concept": "has blue-whitish veil",
+            "similarity": 0.8909332752227783
+          },
+          {
+            "concept": "has diffuse irregular pigmentation",
+            "similarity": 0.8884347081184387
+          }
+        ],
+        "Regular globule absence": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9044451713562012
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.9031396508216858
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.9020329117774963
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.896564245223999
+          },
+          {
+            "concept": "has regular streaks",
+            "similarity": 0.8932397961616516
+          },
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8878135085105896
+          }
+        ],
+        "Irregular growth patterns": [],
+        "Poorly demarcated margins": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.889808177947998
+          }
+        ],
+        "Pigment aggregation patterns": [
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.8856332302093506
+          }
+        ],
+        "Diffuse pigment patterns": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9048961400985718
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8960790634155273
+          },
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.8900167942047119
+          }
+        ],
+        "Focal pigment aggregation": [],
+        "Atypical pigment patterns": [],
+        "Chaotic pattern architecture": [],
+        "Radial extensions": [
+          {
+            "concept": "has wreath vascular structures",
+            "similarity": 0.897709846496582
+          }
+        ],
+        "Peripheral extension patterns": [
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8884834051132202
+          }
+        ],
+        "Lesion texture variations": [],
+        "Growth pattern assessment": [],
+        "Peripheral to central gradient": [],
+        "Lesion internal disarray": [],
+        "Contour irregularity": [
+          {
+            "concept": "absent of regression structures",
+            "similarity": 0.8875002264976501
+          }
+        ],
+        "Uniform pigment network": [
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8916780948638916
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.8860573768615723
+          }
+        ],
+        "Regular globule pattern": [
+          {
+            "concept": "absent of streaks",
+            "similarity": 0.9069325923919678
+          },
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9059420824050903
+          },
+          {
+            "concept": "has comma vascular structures",
+            "similarity": 0.8997735977172852
+          },
+          {
+            "concept": "absent of pigment network",
+            "similarity": 0.8990867733955383
+          },
+          {
+            "concept": "has regular streaks",
+            "similarity": 0.8942223787307739
+          },
+          {
+            "concept": "absent of dots and globules",
+            "similarity": 0.8901883363723755
+          },
+          {
+            "concept": "has blue areas regression structures",
+            "similarity": 0.8873801231384277
+          }
+        ],
+        "Central pinkish component": [
+          {
+            "concept": "absent of blue-whitish veil",
+            "similarity": 0.9044180512428284
+          }
+        ]
+      },
+      "statistics": {
+        "vocab_size": 28,
+        "threshold_used": 0.8855954110622406,
+        "threshold_type": "auto",
+        "mean_max_similarity": 0.8835054636001587,
+        "median_max_similarity": 0.8873809576034546,
+        "std_max_similarity": 0.02003387361764908,
+        "min_max_similarity": 0.8269284963607788,
+        "max_max_similarity": 0.9334672093391418,
+        "above_threshold": 55,
+        "mapped_concepts": 55,
+        "total_mappings": 193,
+        "avg_mappings_per_concept": 1.93,
+        "concepts_with_few_mappings": 34,
+        "concepts_with_many_mappings": 13,
+        "mean_std_across_vocab": 0.0206164363771677,
+        "mean_similarity_range": 0.08012939244508743,
+        "specificity_score": 0.00703632640858966
+      }
+    },
+    "dermlike": {
+      "mappings": {
+        "Polychromatic color appearance": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9327624440193176
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9253051280975342
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8993420600891113
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8934198617935181
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8915605545043945
+          }
+        ],
+        "Color heterogeneity": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9395532011985779
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9170613288879395
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8918492197990417
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8916003704071045
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8886154294013977
+          }
+        ],
+        "Uneven pigment distribution": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9504567980766296
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9369046092033386
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9246307611465454
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9149569272994995
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.908570408821106
+          }
+        ],
+        "Varied shades and hues": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9345434904098511
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9215406179428101
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9028038382530212
+          }
+        ],
+        "Light brown pigmentation": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9311524033546448
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9261369705200195
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.905471920967102
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.8874313831329346
+          }
+        ],
+        "Dark brown pigmentation": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9129016399383545
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9058708548545837
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8916177153587341
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.888752281665802
+          }
+        ],
+        "Very dark brown tones": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9381484985351562
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9229596257209778
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.900774359703064
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9003356695175171
+          }
+        ],
+        "Black pigment presence": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9347137212753296
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.921005129814148
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9060672521591187
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8868230581283569
+          }
+        ],
+        "Reddish-pink coloration": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9230236411094666
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9029183387756348
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.8980727195739746
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8860088586807251
+          }
+        ],
+        "Purplish hue observed": [
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9208756685256958
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9100550413131714
+          }
+        ],
+        "Marked overall asymmetry": [
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.8910276889801025
+          }
+        ],
+        "Internal structural asymmetry": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9219719767570496
+          }
+        ],
+        "Irregular lesion contours": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9292341470718384
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.9247708320617676
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9110062122344971
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9037302136421204
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8938264846801758
+          },
+          {
+            "concept": "Melanoma simulator",
+            "similarity": 0.8878246545791626
+          }
+        ],
+        "Elongated lesion form": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9189453721046448
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9113759994506836
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.911319375038147
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9044970273971558
+          }
+        ],
+        "Multifocal lesion outlines": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.910148024559021
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.897757351398468
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.8921237587928772
+          }
+        ],
+        "Ill-defined lesion borders": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.8981393575668335
+          }
+        ],
+        "Irregular border shape": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9458591938018799
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9296572208404541
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9163095951080322
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9132698774337769
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8942749500274658
+          }
+        ],
+        "Blurry lesion margins": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.8955267071723938
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.8947713375091553
+          }
+        ],
+        "Scalloped border edge": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9165447354316711
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9054552912712097
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.8884968757629395
+          }
+        ],
+        "Dots feathering margin": [
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9203919172286987
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.902412474155426
+          }
+        ],
+        "Specks feathering margin": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9289264678955078
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9246228933334351
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.899002194404602
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8936163783073425
+          }
+        ],
+        "Fine delicate striations": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9096207618713379
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.905756413936615
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.8920075297355652
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.891583263874054
+          }
+        ],
+        "Granular pigment pattern": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9494091272354126
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.934944748878479
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9265730381011963
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.912959098815918
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.8972952365875244
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8924534916877747
+          }
+        ],
+        "Aggregated pigment clumps": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9438968896865845
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9324781894683838
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9267863035202026
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9127336144447327
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9045232534408569
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.9008426666259766
+          }
+        ],
+        "Speckled surface appearance": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9053686857223511
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.900070071220398
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.8981450796127319
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.8915995359420776
+          }
+        ],
+        "Irregular dot distribution": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9307887554168701
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.930614709854126
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9002559185028076
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8894955515861511
+          }
+        ],
+        "Irregular globule distribution": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9466308355331421
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9374046921730042
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9194696545600891
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8957905769348145
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8928647041320801
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.8877650499343872
+          }
+        ],
+        "Absence of benign patterns": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9138572812080383
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.8898855447769165
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8865574598312378
+          }
+        ],
+        "Chaotic internal patterns": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9210753440856934
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9092055559158325
+          }
+        ],
+        "Diffuse pigment spread": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9481275081634521
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.936327338218689
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9222537279129028
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9163293242454529
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.8967562913894653
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8870303630828857
+          }
+        ],
+        "Focally aggregated pigment": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9406554698944092
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9090563058853149
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9018744230270386
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.8992056846618652
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8886730670928955
+          }
+        ],
+        "Atypical lesion features": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9348000288009644
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9239067435264587
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9162966012954712
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.907361626625061
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.8972488045692444
+          }
+        ],
+        "Concerning lesion characteristics": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.89579176902771
+          }
+        ],
+        "Highly irregular borders": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9463132619857788
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.9197189807891846
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9184243083000183
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9138439893722534
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9134858846664429
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.9101474285125732
+          }
+        ],
+        "Fuzzy lesion margins": [
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9104077816009521
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9082550406455994
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9050635099411011
+          },
+          {
+            "concept": "Melanoma simulator",
+            "similarity": 0.8983612060546875
+          }
+        ],
+        "Pigment diffusion into skin": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9150582551956177
+          }
+        ],
+        "Streaky pigmentation outwards": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9356049299240112
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.931145966053009
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9093532562255859
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9068995118141174
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8868076801300049
+          }
+        ],
+        "Various brown shades": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.929996132850647
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9251283407211304
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.906416118144989
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9021834135055542
+          }
+        ],
+        "Reddish-brown areas": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9522309303283691
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9277580976486206
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9161322116851807
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.914553165435791
+          }
+        ],
+        "Central pink component": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9523347616195679
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9218627214431763
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9174368381500244
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9070345163345337
+          }
+        ],
+        "Erythematous component": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9158965349197388
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9069268703460693
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9040026664733887
+          }
+        ],
+        "Irregular finger-like extensions": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9538183212280273
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9323822259902954
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9279667735099792
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.8977415561676025
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8963186144828796
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8959335684776306
+          }
+        ],
+        "Pseudopods extending periphery": [
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9378967881202698
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.928790807723999
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9171795845031738
+          }
+        ],
+        "Radial streaky patterns": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9517135620117188
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9479631185531616
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9275658130645752
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9114235639572144
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9011437296867371
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.9004368782043457
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.8861428499221802
+          }
+        ],
+        "Starburst peripheral pattern": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9407854080200195
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9254323244094849
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9117773771286011
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8997227549552917
+          }
+        ],
+        "Spiculated lesion edge": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.905823290348053
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9053791761398315
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8938577175140381
+          }
+        ],
+        "Macular lesion type": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9019540548324585
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9004440903663635
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.889297604560852
+          }
+        ],
+        "Patch lesion morphology": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9272732734680176
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9254353046417236
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9027477502822876
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8972402811050415
+          }
+        ],
+        "Lacking uniform structure": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9273122549057007
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9177623987197876
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9023211002349854
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9009042978286743
+          }
+        ],
+        "Haphazard growth pattern": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9425982236862183
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9420875310897827
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9122284650802612
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8906185626983643
+          }
+        ],
+        "Spreading lesion growth": [
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.906710684299469
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.8995025157928467
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.8894444108009338
+          }
+        ],
+        "Fuzzy border appearance": [
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9202792644500732
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9150978922843933
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9010177850723267
+          }
+        ],
+        "Radial border architecture": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.928139865398407
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9230047464370728
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.912704586982727
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9021894335746765
+          }
+        ],
+        "Variegated brown coloration": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9303551316261292
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.921707034111023
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9050076603889465
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.904983639717102
+          }
+        ],
+        "Central erythema presence": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9071800112724304
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.8942720890045166
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8890990614891052
+          }
+        ],
+        "Characteristic peripheral spread": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9202877283096313
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8936606049537659
+          }
+        ],
+        "Brown pigment spectrum": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9476900100708008
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9294753670692444
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9192842245101929
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.915899395942688
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8873420357704163
+          }
+        ],
+        "Lighter reddish-brown periphery": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9462447762489319
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9239143133163452
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9216883182525635
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9177573919296265
+          }
+        ],
+        "Tan peripheral color": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9326937198638916
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9143630266189575
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8962461948394775
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8918864727020264
+          }
+        ],
+        "Deeper brown central pigment": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9197196960449219
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9090988039970398
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9006165266036987
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.9005557894706726
+          }
+        ],
+        "Darker brown central pigment": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9208419322967529
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9073043465614319
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9036558866500854
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.901441216468811
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.8971437215805054
+          }
+        ],
+        "Black central pigmentation": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9273802638053894
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9169517755508423
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9091938138008118
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8911430835723877
+          }
+        ],
+        "Prominent radial streaks": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9400689601898193
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9233567714691162
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9181742668151855
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9119122624397278
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.9055725932121277
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8912328481674194
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.8892314434051514
+          }
+        ],
+        "Pseudopods from margin": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9243865013122559
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.888863742351532
+          }
+        ],
+        "Spiky border appearance": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9278218150138855
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9208067655563354
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9169230461120605
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8979233503341675
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.888056755065918
+          }
+        ],
+        "Non-smooth lesion edge": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9092865586280823
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.8975733518600464
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8866307139396667
+          }
+        ],
+        "Disorganized lesion edge": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9171844720840454
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9087827205657959
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9057027697563171
+          }
+        ],
+        "Irregular oval shape": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9417868852615356
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9417634010314941
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9231172204017639
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8919403553009033
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.8915528655052185
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.8893535137176514
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8858909606933594
+          }
+        ],
+        "Oblong lesion shape": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9073800444602966
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9030172824859619
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9008612632751465
+          }
+        ],
+        "Asymmetric pigment distribution": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9504950642585754
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.929679274559021
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9206231236457825
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8972927331924438
+          }
+        ],
+        "Coarse surface texture": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9460421800613403
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9455757141113281
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9145514965057373
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9092429280281067
+          }
+        ],
+        "Granular surface texture": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9571085572242737
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9305741786956787
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9243361949920654
+          }
+        ],
+        "Denser pigmented areas": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9445814490318298
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.935274600982666
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9274449348449707
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9006697535514832
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.8919080495834351
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8913168907165527
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.8900144696235657
+          }
+        ],
+        "Lacking fine pigment network": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9120559692382812
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9092731475830078
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9079979658126831
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8907384872436523
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8878319263458252
+          }
+        ],
+        "Globules irregularly distributed": [
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.9154961705207825
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9123931527137756
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.906588613986969
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.8968992829322815
+          }
+        ],
+        "Pigment extension beyond border": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9304601550102234
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9125227928161621
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9078914523124695
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9004020094871521
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.8938759565353394
+          }
+        ],
+        "Peripheral pigment diffusion": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9292123317718506
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9233489036560059
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9088001847267151
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8977205157279968
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8904983997344971
+          }
+        ],
+        "Peripheral pigment streaking": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9252004623413086
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9230246543884277
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9190106391906738
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9003639221191406
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8954410552978516
+          }
+        ],
+        "Multifocal growth pattern": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9449169635772705
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9155956506729126
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9086544513702393
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.907956600189209
+          }
+        ],
+        "Internal pattern disorganization": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9177827835083008
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9042240381240845
+          }
+        ],
+        "Lesion border irregularity": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9281034469604492
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.903307318687439
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9012235403060913
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.8989279270172119
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8905810117721558
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8902143239974976
+          }
+        ],
+        "Absent pigment network": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9157359600067139
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9103546142578125
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.8983041048049927
+          }
+        ],
+        "Regular globule absence": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9331060647964478
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9288352131843567
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.925703227519989
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.9139658212661743
+          }
+        ],
+        "Irregular growth patterns": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9598978757858276
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9339157342910767
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9086608290672302
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8928990364074707
+          }
+        ],
+        "Poorly demarcated margins": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9342054128646851
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9176803827285767
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9059754014015198
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.8931963443756104
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.8883644342422485
+          }
+        ],
+        "Pigment aggregation patterns": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9438960552215576
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9266982078552246
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9041407108306885
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8978723883628845
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.888835072517395
+          }
+        ],
+        "Diffuse pigment patterns": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9420134425163269
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9358541965484619
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9232839941978455
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9068776965141296
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.8999612927436829
+          }
+        ],
+        "Focal pigment aggregation": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9278037548065186
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8956453800201416
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.8896856904029846
+          },
+          {
+            "concept": "Black dots or globules in the periphery of the lesion",
+            "similarity": 0.8884944915771484
+          }
+        ],
+        "Atypical pigment patterns": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9377731680870056
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9312936663627625
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9253246784210205
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.893381655216217
+          }
+        ],
+        "Chaotic pattern architecture": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9338089227676392
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9224562644958496
+          }
+        ],
+        "Radial extensions": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.930335283279419
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.929306149482727
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9074851274490356
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8940479159355164
+          }
+        ],
+        "Peripheral extension patterns": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9338687658309937
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9187700152397156
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9172428846359253
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.8969748020172119
+          }
+        ],
+        "Lesion texture variations": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9349580407142639
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9144784212112427
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9056268930435181
+          },
+          {
+            "concept": "Melanoma simulator",
+            "similarity": 0.8946728706359863
+          }
+        ],
+        "Growth pattern assessment": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.8972523212432861
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.8926820158958435
+          }
+        ],
+        "Peripheral to central gradient": [],
+        "Lesion internal disarray": [],
+        "Contour irregularity": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9301317930221558
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9136226177215576
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.8992866277694702
+          },
+          {
+            "concept": "Pseudopods or radial lines at the lesion margin that do not occupy the entire lesional circumference",
+            "similarity": 0.8932496309280396
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.8883492946624756
+          }
+        ],
+        "Uniform pigment network": [
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9500082731246948
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.93072509765625
+          },
+          {
+            "concept": "Asymmetric combination of multiple patterns and/or colours in the absence of other melanoma criteria",
+            "similarity": 0.9220501184463501
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9088568687438965
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.899652361869812
+          }
+        ],
+        "Regular globule pattern": [
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9323439002037048
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9322954416275024
+          },
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.9287446141242981
+          },
+          {
+            "concept": "Only one pattern and only one colour",
+            "similarity": 0.8875643014907837
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.8871928453445435
+          }
+        ],
+        "Central pinkish component": [
+          {
+            "concept": "Grey patterns",
+            "similarity": 0.930901288986206
+          },
+          {
+            "concept": "Polymorphous vessels",
+            "similarity": 0.9155457615852356
+          },
+          {
+            "concept": "Thick reticular or branched lines",
+            "similarity": 0.9088467955589294
+          },
+          {
+            "concept": "White lines or white structureless area",
+            "similarity": 0.892304539680481
+          }
+        ]
+      },
+      "statistics": {
+        "vocab_size": 10,
+        "threshold_used": 0.8855954110622406,
+        "threshold_type": "auto",
+        "mean_max_similarity": 0.9278131723403931,
+        "median_max_similarity": 0.9300639629364014,
+        "std_max_similarity": 0.016979379579424858,
+        "min_max_similarity": 0.8693925142288208,
+        "max_max_similarity": 0.9598978757858276,
+        "above_threshold": 98,
+        "mapped_concepts": 98,
+        "total_mappings": 391,
+        "avg_mappings_per_concept": 3.91,
+        "concepts_with_few_mappings": 30,
+        "concepts_with_many_mappings": 12,
+        "mean_std_across_vocab": 0.03706880658864975,
+        "mean_similarity_range": 0.12495756894350052,
+        "specificity_score": 0.007549655109704633
+      }
+    },
+    "icd10cm": {
+      "mappings": {
+        "Polychromatic color appearance": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9170278906822205
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.9017277956008911
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9003809094429016
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.8970027565956116
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8906850814819336
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8892817497253418
+          }
+        ],
+        "Color heterogeneity": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9107660055160522
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8963413834571838
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8957825303077698
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8928803205490112
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.88799649477005
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.8860466480255127
+          }
+        ],
+        "Uneven pigment distribution": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9353607892990112
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9165143966674805
+          },
+          {
+            "concept": "Schooling unavailable and unattainable",
+            "similarity": 0.9068018198013306
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.9036605954170227
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9033883810043335
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9007681012153625
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8994353413581848
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.8945620059967041
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8924459218978882
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.8892567157745361
+          },
+          {
+            "concept": "Encounter for antenatal screening for cervical length",
+            "similarity": 0.8875093460083008
+          },
+          {
+            "concept": "Fall in (into) filled bathtub or bucket of water",
+            "similarity": 0.8867108821868896
+          }
+        ],
+        "Varied shades and hues": [
+          {
+            "concept": "Schooling unavailable and unattainable",
+            "similarity": 0.9097444415092468
+          },
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.8976653814315796
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.8942650556564331
+          }
+        ],
+        "Light brown pigmentation": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9109849333763123
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8872488737106323
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8867076635360718
+          }
+        ],
+        "Dark brown pigmentation": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.8987521529197693
+          }
+        ],
+        "Very dark brown tones": [
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8926655650138855
+          }
+        ],
+        "Black pigment presence": [
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9031065702438354
+          },
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.8960106372833252
+          }
+        ],
+        "Reddish-pink coloration": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.8920599222183228
+          }
+        ],
+        "Purplish hue observed": [
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8895758986473083
+          }
+        ],
+        "Marked overall asymmetry": [],
+        "Internal structural asymmetry": [],
+        "Irregular lesion contours": [
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.9117109179496765
+          },
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9103574752807617
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8970392942428589
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.895250141620636
+          },
+          {
+            "concept": "Crushing injury of unspecified lower leg",
+            "similarity": 0.8946851491928101
+          },
+          {
+            "concept": "Partial traumatic amputation of unspecified hand at wrist level",
+            "similarity": 0.8921309113502502
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.8882690668106079
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8881990909576416
+          },
+          {
+            "concept": "Disorders of muscle in diseases classified elsewhere, unspecified lower leg",
+            "similarity": 0.8869089484214783
+          }
+        ],
+        "Elongated lesion form": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9186905026435852
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9040178060531616
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9019277095794678
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8907941579818726
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.8889986276626587
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8871612548828125
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8870038986206055
+          },
+          {
+            "concept": "Lung transplant infection",
+            "similarity": 0.8867254853248596
+          }
+        ],
+        "Multifocal lesion outlines": [
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.913619875907898
+          },
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9130768775939941
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9091538190841675
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.9019821882247925
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.8953045606613159
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8884072303771973
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8872168064117432
+          }
+        ],
+        "Ill-defined lesion borders": [
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.9033477306365967
+          },
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.8935577273368835
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8877965807914734
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8867172598838806
+          }
+        ],
+        "Irregular border shape": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9217205047607422
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9171095490455627
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.9133340120315552
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.9084094166755676
+          },
+          {
+            "concept": "Schooling unavailable and unattainable",
+            "similarity": 0.9013659954071045
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8985089063644409
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.8978915214538574
+          },
+          {
+            "concept": "Encounter for antenatal screening for cervical length",
+            "similarity": 0.8975546956062317
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8968196511268616
+          },
+          {
+            "concept": "Dissection of abdominal aorta",
+            "similarity": 0.8936862349510193
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.892902135848999
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8927772045135498
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.8921259045600891
+          },
+          {
+            "concept": "Encounter for other specified surgical aftercare",
+            "similarity": 0.8912806510925293
+          },
+          {
+            "concept": "Partial traumatic amputation of unspecified hand at wrist level",
+            "similarity": 0.8895170092582703
+          },
+          {
+            "concept": "Fall in (into) filled bathtub or bucket of water",
+            "similarity": 0.8857593536376953
+          }
+        ],
+        "Blurry lesion margins": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9141244888305664
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9015072584152222
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.897951602935791
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.8944257497787476
+          }
+        ],
+        "Scalloped border edge": [
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8916082978248596
+          },
+          {
+            "concept": "Lung transplant infection",
+            "similarity": 0.8863950967788696
+          }
+        ],
+        "Dots feathering margin": [],
+        "Specks feathering margin": [
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9038386344909668
+          },
+          {
+            "concept": "Schooling unavailable and unattainable",
+            "similarity": 0.901378870010376
+          },
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.899881899356842
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.899273157119751
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8899730443954468
+          }
+        ],
+        "Fine delicate striations": [],
+        "Granular pigment pattern": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9358795881271362
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.917381763458252
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9073504209518433
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.9062325954437256
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.9057113528251648
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.904522180557251
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.8913260698318481
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8891472816467285
+          }
+        ],
+        "Aggregated pigment clumps": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9284363389015198
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9177968502044678
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9091264605522156
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.9003812074661255
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8983472585678101
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.8959776163101196
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.8925768733024597
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8899531364440918
+          },
+          {
+            "concept": "Dissection of abdominal aorta",
+            "similarity": 0.8896281719207764
+          }
+        ],
+        "Speckled surface appearance": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.8934762477874756
+          }
+        ],
+        "Irregular dot distribution": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9097435474395752
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8953852653503418
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8865571618080139
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8863574266433716
+          }
+        ],
+        "Irregular globule distribution": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9342114329338074
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9136975407600403
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9129924178123474
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.912067174911499
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.9090793132781982
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9079560041427612
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.9042370319366455
+          },
+          {
+            "concept": "Dissection of abdominal aorta",
+            "similarity": 0.9011430740356445
+          },
+          {
+            "concept": "Crushing injury of unspecified lower leg",
+            "similarity": 0.9007154703140259
+          },
+          {
+            "concept": "Disorders of muscle in diseases classified elsewhere, unspecified lower leg",
+            "similarity": 0.8996737599372864
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.8993952870368958
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.897505521774292
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8960065841674805
+          },
+          {
+            "concept": "Partial traumatic amputation of unspecified hand at wrist level",
+            "similarity": 0.8931171894073486
+          },
+          {
+            "concept": "Schooling unavailable and unattainable",
+            "similarity": 0.8904314041137695
+          },
+          {
+            "concept": "Encounter for antenatal screening for cervical length",
+            "similarity": 0.8887256383895874
+          },
+          {
+            "concept": "Fall in (into) filled bathtub or bucket of water",
+            "similarity": 0.8878015875816345
+          },
+          {
+            "concept": "Encounter for other specified surgical aftercare",
+            "similarity": 0.8870230317115784
+          },
+          {
+            "concept": "Other articular cartilage disorders, hand",
+            "similarity": 0.8859738111495972
+          }
+        ],
+        "Absence of benign patterns": [
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.9232181310653687
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.9052481651306152
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.9026712775230408
+          },
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.8952991366386414
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8924863338470459
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.891775369644165
+          },
+          {
+            "concept": "Dissection of abdominal aorta",
+            "similarity": 0.8886945247650146
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.8876724243164062
+          },
+          {
+            "concept": "Other articular cartilage disorders, hand",
+            "similarity": 0.8875435590744019
+          },
+          {
+            "concept": "Other psychoactive substance use, unspecified with withdrawal",
+            "similarity": 0.8869377970695496
+          }
+        ],
+        "Chaotic internal patterns": [],
+        "Diffuse pigment spread": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9510914087295532
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9384431838989258
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.9298587441444397
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9232481122016907
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9128873944282532
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.9119181632995605
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.9110957384109497
+          },
+          {
+            "concept": "Dissection of abdominal aorta",
+            "similarity": 0.9094095230102539
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.8969744443893433
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8926560878753662
+          },
+          {
+            "concept": "Encounter for antenatal screening for cervical length",
+            "similarity": 0.8900260925292969
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.8895302414894104
+          },
+          {
+            "concept": "Other articular cartilage disorders, hand",
+            "similarity": 0.886276125907898
+          },
+          {
+            "concept": "Bipolar disorder, current episode manic severe with psychotic features",
+            "similarity": 0.886232852935791
+          },
+          {
+            "concept": "Partial traumatic amputation of unspecified hand at wrist level",
+            "similarity": 0.8856551647186279
+          }
+        ],
+        "Focally aggregated pigment": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9298372268676758
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9241546392440796
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9147593379020691
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.9081089496612549
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.9013479351997375
+          },
+          {
+            "concept": "Dissection of abdominal aorta",
+            "similarity": 0.890927791595459
+          }
+        ],
+        "Atypical lesion features": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9291439652442932
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9283621311187744
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.9173307418823242
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.916718065738678
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.9160535931587219
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9148005247116089
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9088059663772583
+          },
+          {
+            "concept": "Dissection of abdominal aorta",
+            "similarity": 0.898318886756897
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.8952184915542603
+          },
+          {
+            "concept": "Bipolar disorder, current episode manic severe with psychotic features",
+            "similarity": 0.894527018070221
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8935889005661011
+          }
+        ],
+        "Concerning lesion characteristics": [
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.8967864513397217
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8953611850738525
+          },
+          {
+            "concept": "Other psychoactive substance use, unspecified with withdrawal",
+            "similarity": 0.8902250528335571
+          },
+          {
+            "concept": "Disorders of muscle in diseases classified elsewhere, unspecified lower leg",
+            "similarity": 0.8899015188217163
+          }
+        ],
+        "Highly irregular borders": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9036489725112915
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8976180553436279
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.8909242749214172
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.8905917406082153
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8894633650779724
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.8871294260025024
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8861095905303955
+          }
+        ],
+        "Fuzzy lesion margins": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.8916798830032349
+          },
+          {
+            "concept": "Disorders of muscle in diseases classified elsewhere, unspecified lower leg",
+            "similarity": 0.8869221806526184
+          }
+        ],
+        "Pigment diffusion into skin": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9011218547821045
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8981752395629883
+          },
+          {
+            "concept": "Crushing injury of unspecified lower leg",
+            "similarity": 0.8892161250114441
+          }
+        ],
+        "Streaky pigmentation outwards": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9052504897117615
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8921693563461304
+          },
+          {
+            "concept": "Schooling unavailable and unattainable",
+            "similarity": 0.8908774852752686
+          }
+        ],
+        "Various brown shades": [],
+        "Reddish-brown areas": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9096903204917908
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8984595537185669
+          }
+        ],
+        "Central pink component": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9206860661506653
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9041256308555603
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8933922052383423
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8904149532318115
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.8858754634857178
+          }
+        ],
+        "Erythematous component": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9277868270874023
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.9225649833679199
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9154897928237915
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.9137467741966248
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8937654495239258
+          },
+          {
+            "concept": "Other articular cartilage disorders, hand",
+            "similarity": 0.8886774778366089
+          },
+          {
+            "concept": "Bipolar disorder, current episode manic severe with psychotic features",
+            "similarity": 0.8885142803192139
+          }
+        ],
+        "Irregular finger-like extensions": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9242921471595764
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9075199961662292
+          },
+          {
+            "concept": "Crushing injury of unspecified lower leg",
+            "similarity": 0.9035981297492981
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.9030771255493164
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.90301513671875
+          },
+          {
+            "concept": "Partial traumatic amputation of unspecified hand at wrist level",
+            "similarity": 0.8997828364372253
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8966472148895264
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.8960453271865845
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.8959172368049622
+          },
+          {
+            "concept": "Disorders of muscle in diseases classified elsewhere, unspecified lower leg",
+            "similarity": 0.8944892287254333
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8919937610626221
+          },
+          {
+            "concept": "Schooling unavailable and unattainable",
+            "similarity": 0.8890248537063599
+          },
+          {
+            "concept": "Encounter for other specified surgical aftercare",
+            "similarity": 0.8878175020217896
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.8868292570114136
+          }
+        ],
+        "Pseudopods extending periphery": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.89137864112854
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8862494230270386
+          }
+        ],
+        "Radial streaky patterns": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9263328313827515
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9053109884262085
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9027621746063232
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8999577760696411
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8946242332458496
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.8944447040557861
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.8930211067199707
+          },
+          {
+            "concept": "Schooling unavailable and unattainable",
+            "similarity": 0.8901019096374512
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.8892419934272766
+          }
+        ],
+        "Starburst peripheral pattern": [
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.91953444480896
+          },
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9185190200805664
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.905706524848938
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.9050499200820923
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.9014624357223511
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9007970690727234
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.8920379877090454
+          }
+        ],
+        "Spiculated lesion edge": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9154488444328308
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.907542884349823
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.8965176939964294
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8964247107505798
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8937740921974182
+          }
+        ],
+        "Macular lesion type": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9329818487167358
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9163145422935486
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.901845395565033
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.9013354182243347
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.899455189704895
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8959777355194092
+          },
+          {
+            "concept": "Bipolar disorder, current episode manic severe with psychotic features",
+            "similarity": 0.8869327902793884
+          },
+          {
+            "concept": "Dissection of abdominal aorta",
+            "similarity": 0.8863025903701782
+          }
+        ],
+        "Patch lesion morphology": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.933082103729248
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.912205696105957
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.9008058309555054
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8983798027038574
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8971511125564575
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.8954290151596069
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.8884711861610413
+          }
+        ],
+        "Lacking uniform structure": [
+          {
+            "concept": "Schooling unavailable and unattainable",
+            "similarity": 0.9047711491584778
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9017761945724487
+          },
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.8917636275291443
+          }
+        ],
+        "Haphazard growth pattern": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9160613417625427
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9033647775650024
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.9025064706802368
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8965414762496948
+          },
+          {
+            "concept": "Schooling unavailable and unattainable",
+            "similarity": 0.8962761759757996
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8949375152587891
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.8937786817550659
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.8935943841934204
+          },
+          {
+            "concept": "Encounter for other specified surgical aftercare",
+            "similarity": 0.890758752822876
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8893174529075623
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.888119637966156
+          }
+        ],
+        "Spreading lesion growth": [
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9015249013900757
+          },
+          {
+            "concept": "Lung transplant infection",
+            "similarity": 0.8922667503356934
+          }
+        ],
+        "Fuzzy border appearance": [
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.891169548034668
+          }
+        ],
+        "Radial border architecture": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9129615426063538
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9125116467475891
+          },
+          {
+            "concept": "Lung transplant infection",
+            "similarity": 0.903523325920105
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9001193046569824
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8939946293830872
+          },
+          {
+            "concept": "Dissection of abdominal aorta",
+            "similarity": 0.8898987770080566
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.8859338760375977
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.885807991027832
+          }
+        ],
+        "Variegated brown coloration": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9076986312866211
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8939419388771057
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8895351886749268
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8859049677848816
+          }
+        ],
+        "Central erythema presence": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9094789028167725
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8952834606170654
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8926314115524292
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.886095404624939
+          }
+        ],
+        "Characteristic peripheral spread": [
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.9081802368164062
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8997174501419067
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8953540921211243
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.8939696550369263
+          },
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.8920658826828003
+          },
+          {
+            "concept": "Dissection of abdominal aorta",
+            "similarity": 0.8888980150222778
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.8877166509628296
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8875772953033447
+          }
+        ],
+        "Brown pigment spectrum": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9223863482475281
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.917806088924408
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8930573463439941
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8902237415313721
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8881532549858093
+          },
+          {
+            "concept": "Lung transplant infection",
+            "similarity": 0.8872607946395874
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.8856879472732544
+          }
+        ],
+        "Lighter reddish-brown periphery": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.906531572341919
+          },
+          {
+            "concept": "Schooling unavailable and unattainable",
+            "similarity": 0.8883304595947266
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.88614821434021
+          }
+        ],
+        "Tan peripheral color": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9011508226394653
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.8886104226112366
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8864773511886597
+          }
+        ],
+        "Deeper brown central pigment": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.8965526223182678
+          }
+        ],
+        "Darker brown central pigment": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9030314683914185
+          }
+        ],
+        "Black central pigmentation": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9310620427131653
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9142073392868042
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9057874083518982
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.9005850553512573
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8984545469284058
+          }
+        ],
+        "Prominent radial streaks": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.913354754447937
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.9070595502853394
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.9054286479949951
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9027655720710754
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8891481161117554
+          }
+        ],
+        "Pseudopods from margin": [
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8933438062667847
+          },
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.892403244972229
+          }
+        ],
+        "Spiky border appearance": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9179639220237732
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9079033732414246
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.903295636177063
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8996835947036743
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.8977458477020264
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8895221948623657
+          }
+        ],
+        "Non-smooth lesion edge": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9066442251205444
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8967114090919495
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8963126540184021
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8936055898666382
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8900583982467651
+          }
+        ],
+        "Disorganized lesion edge": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9109807014465332
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.9101996421813965
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9034480452537537
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.902400016784668
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.895268440246582
+          },
+          {
+            "concept": "Bipolar disorder, current episode manic severe with psychotic features",
+            "similarity": 0.8912954926490784
+          }
+        ],
+        "Irregular oval shape": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9307303428649902
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9115452170372009
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.9112409353256226
+          },
+          {
+            "concept": "Dissection of abdominal aorta",
+            "similarity": 0.9081146121025085
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.9063941240310669
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9050942063331604
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9030253887176514
+          },
+          {
+            "concept": "Dislocation of left scapula",
+            "similarity": 0.897388219833374
+          },
+          {
+            "concept": "Schooling unavailable and unattainable",
+            "similarity": 0.8955445289611816
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.894805908203125
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.8942244052886963
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8941850662231445
+          },
+          {
+            "concept": "Partial traumatic amputation of unspecified hand at wrist level",
+            "similarity": 0.8929300904273987
+          },
+          {
+            "concept": "Crushing injury of unspecified lower leg",
+            "similarity": 0.8922334909439087
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.8920470476150513
+          },
+          {
+            "concept": "Encounter for antenatal screening for cervical length",
+            "similarity": 0.8864710927009583
+          }
+        ],
+        "Oblong lesion shape": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9138237237930298
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9063534736633301
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8932955265045166
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.893057107925415
+          }
+        ],
+        "Asymmetric pigment distribution": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9420179128646851
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.923598051071167
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9205889701843262
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.9077049493789673
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9063441753387451
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.9006619453430176
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.8957717418670654
+          },
+          {
+            "concept": "Partial traumatic amputation of unspecified hand at wrist level",
+            "similarity": 0.8955018520355225
+          },
+          {
+            "concept": "Encounter for antenatal screening for cervical length",
+            "similarity": 0.894711971282959
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.8939806222915649
+          },
+          {
+            "concept": "Dissection of abdominal aorta",
+            "similarity": 0.8925122022628784
+          },
+          {
+            "concept": "Crushing injury of unspecified lower leg",
+            "similarity": 0.8890416026115417
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.887984037399292
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8877649307250977
+          },
+          {
+            "concept": "Schooling unavailable and unattainable",
+            "similarity": 0.8877214789390564
+          }
+        ],
+        "Coarse surface texture": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.916296124458313
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.901928186416626
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.8986843228340149
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8966244459152222
+          },
+          {
+            "concept": "Schooling unavailable and unattainable",
+            "similarity": 0.8965229988098145
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.889545202255249
+          }
+        ],
+        "Granular surface texture": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9088538885116577
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8940298557281494
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8877795338630676
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.8876116275787354
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.8873544931411743
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.8857502937316895
+          }
+        ],
+        "Denser pigmented areas": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9386721253395081
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9194655418395996
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.9156644344329834
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.913239061832428
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9030183553695679
+          },
+          {
+            "concept": "Other articular cartilage disorders, hand",
+            "similarity": 0.9018586874008179
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.899871826171875
+          },
+          {
+            "concept": "Disorders of muscle in diseases classified elsewhere, unspecified lower leg",
+            "similarity": 0.8888019323348999
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.8869168162345886
+          },
+          {
+            "concept": "Bipolar disorder, current episode manic severe with psychotic features",
+            "similarity": 0.8863306045532227
+          }
+        ],
+        "Lacking fine pigment network": [
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9169031381607056
+          },
+          {
+            "concept": "Schooling unavailable and unattainable",
+            "similarity": 0.8994984030723572
+          },
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.8978818655014038
+          }
+        ],
+        "Globules irregularly distributed": [],
+        "Pigment extension beyond border": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9289842844009399
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9127336740493774
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.9080449342727661
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9075336456298828
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.9001886248588562
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.8901605606079102
+          }
+        ],
+        "Peripheral pigment diffusion": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9353113770484924
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9212378263473511
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9182600975036621
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.9006055593490601
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.899880051612854
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8963290452957153
+          },
+          {
+            "concept": "Lung transplant infection",
+            "similarity": 0.8958510160446167
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.8941992521286011
+          },
+          {
+            "concept": "Encounter for antenatal screening for cervical length",
+            "similarity": 0.8921576738357544
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8875440359115601
+          },
+          {
+            "concept": "Schooling unavailable and unattainable",
+            "similarity": 0.8865610957145691
+          }
+        ],
+        "Peripheral pigment streaking": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9384310841560364
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9305038452148438
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9217923283576965
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9119405150413513
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.9016531109809875
+          },
+          {
+            "concept": "Encounter for antenatal screening for cervical length",
+            "similarity": 0.9004086852073669
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.8996642827987671
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8958359956741333
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.8954735994338989
+          },
+          {
+            "concept": "Dissection of abdominal aorta",
+            "similarity": 0.8939691185951233
+          },
+          {
+            "concept": "Lung transplant infection",
+            "similarity": 0.8873034715652466
+          }
+        ],
+        "Multifocal growth pattern": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9215724468231201
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9098061919212341
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9082121849060059
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.9013115167617798
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8981819748878479
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8935970664024353
+          }
+        ],
+        "Internal pattern disorganization": [
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9020576477050781
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.8992440700531006
+          },
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.8982203006744385
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8963145017623901
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8946967124938965
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8943585753440857
+          },
+          {
+            "concept": "Schooling unavailable and unattainable",
+            "similarity": 0.8929287195205688
+          },
+          {
+            "concept": "Encounter for other specified surgical aftercare",
+            "similarity": 0.8873320817947388
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.8872259855270386
+          }
+        ],
+        "Lesion border irregularity": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9098934531211853
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.9093315601348877
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9033962488174438
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8986360430717468
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8905858397483826
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.8880602121353149
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8874744772911072
+          }
+        ],
+        "Absent pigment network": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9029722213745117
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8954761028289795
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8904748558998108
+          }
+        ],
+        "Regular globule absence": [
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.9129652976989746
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9123761057853699
+          },
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9039313793182373
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.899742066860199
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8935775756835938
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8925970196723938
+          }
+        ],
+        "Irregular growth patterns": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9150623083114624
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9010406732559204
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8999040126800537
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.8995552659034729
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8940549492835999
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.8889226913452148
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.887789249420166
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8872373104095459
+          },
+          {
+            "concept": "Schooling unavailable and unattainable",
+            "similarity": 0.8856202960014343
+          }
+        ],
+        "Poorly demarcated margins": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.907890796661377
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8929330110549927
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8883396983146667
+          }
+        ],
+        "Pigment aggregation patterns": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9333409070968628
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9094049334526062
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9084120988845825
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9055701494216919
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.900764524936676
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.8972010612487793
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.894695520401001
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8940136432647705
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8910871744155884
+          },
+          {
+            "concept": "Encounter for antenatal screening for cervical length",
+            "similarity": 0.8907891511917114
+          }
+        ],
+        "Diffuse pigment patterns": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9322600364685059
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9210498929023743
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9091604351997375
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.9050540924072266
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.9043233394622803
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.897545337677002
+          }
+        ],
+        "Focal pigment aggregation": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9318386912345886
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9217603206634521
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.912139356136322
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.9014658331871033
+          },
+          {
+            "concept": "Dissection of abdominal aorta",
+            "similarity": 0.9009511470794678
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.8981242179870605
+          },
+          {
+            "concept": "Crushing injury of unspecified lower leg",
+            "similarity": 0.8970528841018677
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.8913193941116333
+          },
+          {
+            "concept": "Miliaria rubra",
+            "similarity": 0.8879810571670532
+          },
+          {
+            "concept": "Dislocation of left scapula",
+            "similarity": 0.886432409286499
+          }
+        ],
+        "Atypical pigment patterns": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9311569929122925
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9227128028869629
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9131885766983032
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.909267783164978
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.8972464799880981
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.896510124206543
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.8907967805862427
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8884037733078003
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8859281539916992
+          }
+        ],
+        "Chaotic pattern architecture": [],
+        "Radial extensions": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.922558069229126
+          },
+          {
+            "concept": "Disorders of muscle in diseases classified elsewhere, unspecified lower leg",
+            "similarity": 0.9074733257293701
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8976604342460632
+          },
+          {
+            "concept": "Schooling unavailable and unattainable",
+            "similarity": 0.897384762763977
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.8946281671524048
+          },
+          {
+            "concept": "Encounter for other specified surgical aftercare",
+            "similarity": 0.8935467004776001
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.891230583190918
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8907025456428528
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8900328874588013
+          },
+          {
+            "concept": "Other articular cartilage disorders, hand",
+            "similarity": 0.8880370259284973
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8862026929855347
+          }
+        ],
+        "Peripheral extension patterns": [
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9265830516815186
+          },
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9260773062705994
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.9199609160423279
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.9187804460525513
+          },
+          {
+            "concept": "Dissection of abdominal aorta",
+            "similarity": 0.9109586477279663
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.9072930216789246
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.905778169631958
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9056048393249512
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.898149847984314
+          },
+          {
+            "concept": "Partial traumatic amputation of unspecified hand at wrist level",
+            "similarity": 0.8910572528839111
+          },
+          {
+            "concept": "Lung transplant infection",
+            "similarity": 0.889059841632843
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8881925940513611
+          },
+          {
+            "concept": "Encounter for antenatal screening for cervical length",
+            "similarity": 0.8865237236022949
+          }
+        ],
+        "Lesion texture variations": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9078134298324585
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8982346653938293
+          },
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.897300124168396
+          },
+          {
+            "concept": "Drowning and submersion due to being washed overboard from watercraft",
+            "similarity": 0.8935196995735168
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8902528285980225
+          }
+        ],
+        "Growth pattern assessment": [
+          {
+            "concept": "Encounter for antenatal screening for cervical length",
+            "similarity": 0.8949257135391235
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8915051817893982
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8881642818450928
+          }
+        ],
+        "Peripheral to central gradient": [],
+        "Lesion internal disarray": [
+          {
+            "concept": "Crushing injury of unspecified lower leg",
+            "similarity": 0.927056074142456
+          },
+          {
+            "concept": "Disorders of muscle in diseases classified elsewhere, unspecified lower leg",
+            "similarity": 0.9171896576881409
+          },
+          {
+            "concept": "Other specified injury of unspecified muscles, fascia and tendons at thigh level, right thigh",
+            "similarity": 0.916875958442688
+          },
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9066623449325562
+          },
+          {
+            "concept": "Partial traumatic amputation of unspecified hand at wrist level",
+            "similarity": 0.9054404497146606
+          },
+          {
+            "concept": "Other specified injury of lesser saphenous vein at lower leg level, right leg",
+            "similarity": 0.9046689867973328
+          },
+          {
+            "concept": "Disorder of ligament, left shoulder",
+            "similarity": 0.9013993144035339
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8955395817756653
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.8940438628196716
+          },
+          {
+            "concept": "Miliaria rubra",
+            "similarity": 0.8896900415420532
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8893313407897949
+          }
+        ],
+        "Contour irregularity": [
+          {
+            "concept": "Intraoperative cardiac functional disturbances",
+            "similarity": 0.9155619144439697
+          },
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9067599773406982
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8957455158233643
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8942596912384033
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8932631015777588
+          },
+          {
+            "concept": "Encounter for attention to gastrostomy",
+            "similarity": 0.8886248469352722
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.8867811560630798
+          }
+        ],
+        "Uniform pigment network": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9335964322090149
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.9131582379341125
+          },
+          {
+            "concept": "Abscess of eyelid",
+            "similarity": 0.9097521901130676
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.9070119857788086
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.8944809436798096
+          },
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.8918673992156982
+          },
+          {
+            "concept": "Unspecified foreign body in pharynx",
+            "similarity": 0.8879486322402954
+          }
+        ],
+        "Regular globule pattern": [
+          {
+            "concept": "Other specific arthropathies, not elsewhere classified, unspecified knee",
+            "similarity": 0.9059544801712036
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.8965197801589966
+          },
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.8956077098846436
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.8902078866958618
+          }
+        ],
+        "Central pinkish component": [
+          {
+            "concept": "Punctate keratitis",
+            "similarity": 0.9197678565979004
+          },
+          {
+            "concept": "Chronic mastoiditis",
+            "similarity": 0.8965016007423401
+          },
+          {
+            "concept": "Insufficient sleep syndrome",
+            "similarity": 0.895149290561676
+          },
+          {
+            "concept": "Rheumatoid lung disease with rheumatoid arthritis of shoulder",
+            "similarity": 0.8888774514198303
+          }
+        ]
+      },
+      "statistics": {
+        "vocab_size": 30,
+        "threshold_used": 0.8855954110622406,
+        "threshold_type": "auto",
+        "mean_max_similarity": 0.9116271734237671,
+        "median_max_similarity": 0.9113479256629944,
+        "std_max_similarity": 0.016926990821957588,
+        "min_max_similarity": 0.8705087900161743,
+        "max_max_similarity": 0.9510914087295532,
+        "above_threshold": 91,
+        "mapped_concepts": 91,
+        "total_mappings": 575,
+        "avg_mappings_per_concept": 5.75,
+        "concepts_with_few_mappings": 26,
+        "concepts_with_many_mappings": 49,
+        "mean_std_across_vocab": 0.029458675533533096,
+        "mean_similarity_range": 0.12375719845294952,
+        "specificity_score": 0.004364248227190088
+      }
+    }
+  }
+}

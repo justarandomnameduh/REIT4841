@@ -1,0 +1,19 @@
+{
+  "all": [
+    "Lesion asymmetry",
+    "Irregular borders",
+    "Color variegation"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Lesion asymmetry",
+      "Irregular borders",
+      "Color variegation"
+    ],
+    "nv": [
+      "Lesion asymmetry",
+      "Irregular borders",
+      "Color variegation"
+    ]
+  }
+}

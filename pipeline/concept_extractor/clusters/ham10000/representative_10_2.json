@@ -1,0 +1,72 @@
+[
+  {
+    "cluster_id": 0,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0025500.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0030839.jpg"
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0029894.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0024718.jpg"
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0028718.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0033362.jpg"
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0027036.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0034137.jpg"
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0033213.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0032028.jpg"
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0031107.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0032470.jpg"
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0029985.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0032794.jpg"
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0034102.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0029581.jpg"
+    ]
+  },
+  {
+    "cluster_id": 8,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0026584.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0028445.jpg"
+    ]
+  },
+  {
+    "cluster_id": 9,
+    "representative_images": [
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0034159.jpg",
+      "/home/nqmtien/REIT4841/datasets/ham10000/images/ISIC_0027908.jpg"
+    ]
+  }
+]

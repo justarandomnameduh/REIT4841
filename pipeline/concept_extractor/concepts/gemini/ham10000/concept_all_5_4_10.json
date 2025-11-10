@@ -1,0 +1,32 @@
+{
+  "all": [
+    "Color variegation",
+    "Marked asymmetry",
+    "Irregular, ill-defined borders",
+    "Radial streaming/pseudopods",
+    "Disorganized pigment architecture",
+    "Scattered pigment globules",
+    "Bluish-gray pigmentation",
+    "Nodular elevation",
+    "Areas of regression",
+    "Surface crusting/ulceration"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Color variegation",
+      "Marked asymmetry",
+      "Irregular, ill-defined borders",
+      "Radial streaming/pseudopods",
+      "Disorganized pigment architecture",
+      "Bluish-gray pigmentation",
+      "Nodular elevation",
+      "Areas of regression",
+      "Surface crusting/ulceration"
+    ],
+    "nv": [
+      "Scattered pigment globules",
+      "Nodular elevation",
+      "Bluish-gray pigmentation"
+    ]
+  }
+}

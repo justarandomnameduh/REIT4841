@@ -1,0 +1,24 @@
+{
+  "all": [
+    "Color variegation",
+    "Lesion asymmetry",
+    "Irregular borders",
+    "Radial streaks/pseudopods",
+    "Heterogeneous internal patterns"
+  ],
+  "class_concepts": {
+    "mel": [
+      "Color variegation",
+      "Lesion asymmetry",
+      "Irregular borders",
+      "Radial streaks/pseudopods",
+      "Heterogeneous internal patterns"
+    ],
+    "nv": [
+      "Color variegation",
+      "Lesion asymmetry",
+      "Irregular borders",
+      "Heterogeneous internal patterns"
+    ]
+  }
+}
