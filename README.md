@@ -251,19 +251,6 @@ Download: [HAM10000 on ISIC Archive](https://www.isic-archive.com/)
 
 Place dataset in: `../datasets/ham10000/images/`
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@mastersthesis{nguyen2025unsupervised,
-  title={Cluster-Based Unsupervised Concept Discovery for Interpretable Medical Image Classification},
-  author={Nguyen, Minh Tien},
-  year={2025},
-  school={UNSW Sydney},
-  type={Honours Thesis}
-}
-```
 
 ## Acknowledgments
 
